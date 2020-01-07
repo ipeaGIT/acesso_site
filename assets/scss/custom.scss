@@ -1,0 +1,91 @@
+@import url("//fonts.googleapis.com/css?family=Lobster");
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
+
+.column-left{ float: left; width: 33.333%; }
+.column-right{ float: right; width: 33.333%; }
+.column-center{ display: inline-block; width: 33.333%; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #333;
+  font-weight: 400;
+  /* font-family: "Source Sans Pro", sans-serif; */
+  /* font-family: 'Oswald', sans-serif; */
+  font-family: 'PT Sans', sans-serif;
+}
+
+body {
+  color: #333;
+  font-size: 0.9rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.hero-title {
+    font-size: 2rem;
+    margin-top: 0;
+    line-height: 1;
+}
+
+.hero-lead {
+    max-width: 768px;
+    font-size: 1.2rem;
+}
+
+.icon  {
+  display: inline-block;
+  padding: 15px 15px 15px 15px;
+}
+
+
+/*
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+*/
+
+/* nav */
+
+.navbar-light .navbar-nav>.nav-item>.nav-link,
+.navbar-light .navbar-nav>.nav-item>.nav-link:focus,
+.navbar-light .navbar-nav>.nav-item>.nav-link:hover,
+.navbar-light .navbar-nav>.nav-item>.nav-link:active {
+  font-weight: 700;
+}
+
+.navbar-light .navbar-nav > li.nav-item > a.active, 
+.navbar-light .navbar-nav > li.nav-item > a.active:focus, 
+.navbar-light .navbar-nav > li.nav-item > a.active:hover {
+  font-weight: 700;
+  transition: color .2s ease;
+}
+
+.navbar-light {
+  /* box-shadow: none; */
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
+
+.navbar-nav {
+  /* border-bottom: 2px solid #E13D3D; */
+}
+
+.navbar-brand {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .08em;
+}
+
+.navbar-light .navbar-brand:focus, 
+.navbar-light .navbar-brand:hover {
+  color: #d03b39;
+}
