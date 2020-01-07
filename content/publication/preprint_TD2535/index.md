@@ -1,12 +1,10 @@
 ---
-title: Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras,
-  2019
+title: Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019
 authors:
 - admin
 - kaue
 - bernardo
-- vanessaN
-date: '2019-04-07T00:00:00Z'
+date: '2019-12-05T00:00:00Z'
 doi: ''
 featured: no
 image:
@@ -19,7 +17,7 @@ projects: internal-project
 publication: ''
 publication_short: ''
 publication_types: '3'
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2019-12-05T00:00:00Z'
 slides: example
 summary: Texto com os principais resultados do projeto Acesso a Oportunidades no ano
   de 2019

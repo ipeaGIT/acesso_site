@@ -5,15 +5,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Transport Geography
-    institution: Oxford University
+  - course: DPhil em Geografia de Transportes
+    institution: Universidade de Oxford
     year: 2018
-  - course: MSc in Demografia
+  - course: MSc em Demografia
     institution: Unicamp
-    year: 2009
-  - course: BSc in Sociologia
+    year: 2008
+  - course: BSc em Sociologia
     institution: Universidade de Brasilia (UnB)
-    year: 2005
+    year: 2006
 email: "rafael.pereira@ipea.gov.br"
 institution: Instituto de Pesquisa Econômica Aplicada - IPEA
 interests:
@@ -25,7 +25,7 @@ organizations:
 - name: Instituto de Pesquisa Econômica Aplicada - IPEA
   url: "ipea.gov.br"
 
-role: Pesquisador
+role: Pesquisador (Ipea)
 
 social:
 - icon: envelope

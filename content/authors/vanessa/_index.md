@@ -1,33 +1,34 @@
 ---
 authors:
   - vanessa
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+name: Vanessa Nadalin
+email: "vanessa.nadalin@ipea.gov.br"
+bio: Minhas linhas de pesquisa se focam em Economia regional e urbana, mercado imobiliário e política habitacional.
+institution: Instituto de Pesquisa Econômica Aplicada - IPEA
 education:
   courses:
-    - course: MSc in Transportation Engineering
-institution: Instituto de Políticas de Transporte & Desenvolvimento - ITDP
-year: 2019
-email: "bernardo.serra@itdp.org"
+  - course: Doutorado em Economia
+    institution: USP
+    year: 2010
+  - course: BSc em Economia
+    institution: USP
+    year: 2004
+  - course: BSc em Relações Internacionais
+    institution: PUC São Paulo
+    year: 2003
 interests:
-  - Transportation Engineering
-name: Vanessa Nadalin
+  - Economia regional e urbana, Mercado imobiliário, Política habitacional
 organizations:
-  - name: Instituto de Políticas de Transporte & Desenvolvimento
+  - name: Instituto de Pesquisa Econômica Aplicada - IPEA
 url: ""
-role: Gerente de Políticas Públicas
+role: Pesquisadora (Ipea)
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kauebraga
 superuser: true
 user_groups:
-- Parceiros
+- Principais
 ---
   
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
