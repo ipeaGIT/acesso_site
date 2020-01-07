@@ -5,15 +5,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Transport Geography
+    institution: Oxford University
+    year: 2018
+  - course: MSc in Demografia
+    institution: Unicamp
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Sociologia
+    institution: Universidade de Brasilia (UnB)
+    year: 2005
 email: "rafael.pereira@ipea.gov.br"
 institution: Instituto de Pesquisa Econômica Aplicada - IPEA
 interests:
