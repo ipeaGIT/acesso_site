@@ -19,6 +19,9 @@
                  "Administration",
                  "Visitors",
                  "Alumni",
+                 "Coordenador",
+                 "Equipe",
+                 "Assistentes",
                  "Principais",
                  "Parceiros"]
   
