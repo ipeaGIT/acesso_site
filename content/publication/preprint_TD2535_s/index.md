@@ -30,25 +30,25 @@ authors:
 - kaue
 - bernardo
 - vanessa
-date: "2015-09-01T00:00:00Z"
+date: "2019-12-12T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: 'Texto para Discussão, Ipea'
 publication_short: ""
 publication_types:
-- "2"
+- "3"
 publishDate: "2019-12-12T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# slides: example
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+#   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
+title: Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019
 url_code: https://github.com/ipeaGIT/acesso_oport
 url_dataset: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
