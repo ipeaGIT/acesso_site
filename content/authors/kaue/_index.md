@@ -14,14 +14,14 @@ name: Carlos Kauê Vieira Braga
 organizations:
   - name: Universidade Federal do Ceará
 url: ""
-role: Assistente de Pesquisa
+role: Assistente de Pesquisa, Ipea
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ckauebraga
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -30,7 +30,7 @@ social:
   link: https://github.com/kauebraga
 superuser: true
 user_groups:
-- Principais
+- Equipe
 ---
   
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

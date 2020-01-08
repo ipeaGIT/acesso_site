@@ -1,5 +1,5 @@
 ---
-abstract: Um dos principais objetivos das políticas de transporte
+abstract: <p align="justify">Um dos principais objetivos das políticas de transporte
   urbano é facilitar o acesso das pessoas a oportunidades de emprego, serviços de
   saúde e educação, atividades culturais e de lazer. No entanto, os estudos e as políticas
   de mobilidade urbana no Brasil costumam dar ênfase aos desafios de reduzir congestionamentos
@@ -24,7 +24,7 @@ abstract: Um dos principais objetivos das políticas de transporte
   do meio de transporte considerado. Os resultados e bases de dados do Projeto Acesso
   a Oportunidades são disponíveis publicamente, criando rico material que pode ser
   utilizado para guiar o planejamento e avaliação de políticas públicas que promovam
-  cidades sustentáveis e inclusivas.
+  cidades sustentáveis e inclusivas. </p>
 authors:
 - admin
 - kaue
