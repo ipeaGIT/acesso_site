@@ -49,7 +49,18 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<p align="justify"> Este projeto tem como objetivo analisar o número de oportunidades de emprego, educação e saúde que a população consegue acessar por meio do transporte público, a pé e de bicicleta em grandes áreas urbanas do Brasil. O projeto tem foco particular na análise das desigualdades sociais e espaciais no acesso a oportunidades em relação às políticas urbanas de transporte, habitação e uso do solo.
+<p align="justify"> O **Projeto Acesso a Oportunidades** é uma pesquisa coordenada pelo Instituto de Pesquisa Econômica Aplicada (Ipea) que visa compreender a condições de transporte e as desigualdades de acesso a oportunidades nas cidades brasileiras. O projeto tem três objetivos: </p>
 
-Combinando dados de uso do solo, Censo Demográfico e de transporte (incluindo dados do OpenStreetMap e dados de transporte público em formato GTFS), o projeto irá estimar o acesso da população à postos de trabalho formais, escolas públicas e serviços de saúde providos pelos SUS utilizando medidas de acessibilidade gravitacionais e de acesso acumulativo de oportunidades, entre outras. As analises serão realizadas em alta resolução espacial, permitindo identificar a distribuição dos serviços de transporte público em cada área urbana e apontar clusters espaciais de áreas com baixo nível de acesso a oportunidades. </p>
+ 1. Estimar anualmente o acesso da população a oportunidades de trabalho, serviços de saúde e educação por modo de transporte nos maiores centros urbanos do Brasil
+ 2. Criar uma base de dados abertos para acompanhar anualmente as condições de acessibilidade urbana nas cidades brasileiras
+ 3. Construir redes de pesquisa para utilizar esses dados em estudos comparativos e no planejamento e avaliação de políticas públicas
+
+
+<p align="justify"> Na sua primeira edição (2019), a pesquisa traz estimativas de acesso a empregos formais, estabelecimentos de saúde que atendem pelos SUS (com nível de atendimento de baixa, média e alta complexidade) e escolas públicas (de ensino infantil, fundamental e médio) para as 20 maiores cidades do Brasil. Para isso, o projeto combina dados de registros administrativos, pesquisas amostrais, dados de imagens de satélite e de mapeamento colaborativo para calcular níveis de acessibilidade em alta resolução espacial (aproxidamente na escala de quarteirão). Essas estimativas também são feitas de maneira desagregada por grupos socioeconômicos segundo nível de renda e cor/raça. 
+
+
+A pesquisa é todo conduzida com código aberto..... e dados abertos.... que podem ser consultados nas abas deo site.
+
+
+</p>
 
