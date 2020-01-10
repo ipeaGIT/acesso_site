@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "0", "30px", "0"]
+  padding = ["30px", "30px", "30px", "30px"]
 
 [advanced]
  # Custom CSS. 
@@ -57,23 +57,23 @@ subtitle = ""
   </div>
   <div class="col-md-12">
   </div>
-  <div class="col-12 col-sm-4">
+  <div class="col-12 col-sm-3">
     <div class = "icon"><i class="fas fa-city fa-4x"></i></div>
     <h3>20 maiores cidades brasileiras</h3>
-  </div>
-  <div class="col-12 col-sm-4">
-    <div class = "icon"><i class="fas fa-bus fa-4x"></i></div>
-    <div class = "icon"><i class="fas fa-walking fa-4x"></i></div>
-    <div class = "icon"><i class="fas fa-bicycle fa-4x"></i></div>
-    <h3>Três modos de transporte</h3>
   </div>
   <div class="col-12 col-sm-4">
     <div class = "icon"><i class="fas fa-building fa-4x"></i></div>
     <div class = "icon"><i class="fas fa-school fa-4x"></i></div>
     <div class = "icon"><i class="fas fa-hospital fa-4x"></i></div>
-    <h3>Três tipos de atividade</h3>
+    <h3>Trabalho, educação e saúde</h3>
   </div>
-  <div class="col-12 col-sm-4">
+    <div class="col-12 col-sm-4">
+    <div class = "icon"><i class="fas fa-bus fa-4x"></i></div>
+    <div class = "icon"><i class="fas fa-walking fa-4x"></i></div>
+    <div class = "icon"><i class="fas fa-bicycle fa-4x"></i></div>
+    <h3>Três modos de transporte</h3>
+  </div>
+  <div class="col-12 col-sm-3">
     <div class = "icon"><i class="fas fa-clock fa-4x"></i></div>
     <h3>Pico e  fora-pico</h3>
   </div>
