@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<p align="justify"> O **Projeto Acesso a Oportunidades** é uma pesquisa coordenada pelo Instituto de Pesquisa Econômica Aplicada (Ipea) que visa compreender a condições de transporte e as desigualdades de acesso a oportunidades nas cidades brasileiras. O projeto tem três objetivos: </p>
+<p align="justify"> O Projeto Acesso a Oportunidades é uma pesquisa coordenada pelo Instituto de Pesquisa Econômica Aplicada (Ipea) que visa compreender a condições de transporte e as desigualdades de acesso a oportunidades nas cidades brasileiras. O projeto tem três objetivos: </p>
 
  1. Estimar anualmente o acesso da população a oportunidades de trabalho, serviços de saúde e educação por modo de transporte nos maiores centros urbanos do Brasil
  2. Criar uma base de dados abertos para acompanhar anualmente as condições de acessibilidade urbana nas cidades brasileiras
