@@ -30,6 +30,11 @@
   weight = 40
 
 [[main]]
+  name = "Equipe"
+  url = "equipe/"
+  weight = 45
+
+[[main]]
   name = "App"
   url = "app/"
   weight = 50
