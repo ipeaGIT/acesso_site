@@ -1,5 +1,5 @@
 ---
-abstract: <p align="justify">Um dos principais objetivos das políticas de transporte
+abstract: <p align="justify"> Um dos principais objetivos das políticas de transporte
   urbano é facilitar o acesso das pessoas a oportunidades de emprego, serviços de
   saúde e educação, atividades culturais e de lazer. No entanto, os estudos e as políticas
   de mobilidade urbana no Brasil costumam dar ênfase aos desafios de reduzir congestionamentos

@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Acesso a Oportunidades"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,20 +49,18 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<p align="justify">
+As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem as estimativas de acessibilidade calculadas pelo projeto, bem como informações populacionais, socioeconômicas e de localização de serviços de saúde e educação em alta resolução espacial para todas cidades analisadas.
+</p>
 
-<div id="indicador" class="form-group shiny-input-radiogroup awesome-radio-class shiny-input-container">
-  <label class="control-label" for="indicador" style="margin-bottom: 5px; "><h1>Escolha o indicador de acessibilidade: 
-                                                                  <button id="q1" type="button" class="btn btn-light btn-xs"><i class="fa fa-question"></i></button></h1></label>
-  <div style="height: 7px;"></div>
-  <div class="shiny-options-group">
-    <div class="radiobs radio-bs radio-bs-primary">
-      <input name="indicador" id="indicador1" value="Cumulativo" type="radio" checked="checked"/>
-      <label for="indicador1">Cumulativo</label>
-    </div>
-    <div class="radiobs radio-bs radio-bs-primary">
-      <input name="indicador" id="indicador2" value="Oportunidade mais próxima" type="radio"/>
-      <label for="indicador2">Oportunidade mais próxima</label>
-    </div>
-  </div>
-</div>
+# Dados
+### Formato ***RDS*** (leitura em R)
 
+ - [2019](http://www.ipea.gov.br/):
+
+### Formato ***GeoPackage*** (leitura em QGIS, ArcGis, Python, R)
+
+ - [2019](http://www.ipea.gov.br/):
+
+
+ - [Dicionário de variáveis [Excel]](http://www.ipea.gov.br/)
