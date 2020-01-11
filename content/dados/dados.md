@@ -50,17 +50,18 @@ subtitle = ""
  css_class = ""
 +++
 <p align="justify">
-As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem as estimativas de acessibilidade calculadas pelo projeto, bem como informações populacionais, socioeconômicas e de localização de serviços de saúde e educação em alta resolução espacial para todas cidades analisadas.
+As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem as estimativas de acessibilidade calculadas pelo projeto, bem como informações populacionais, socioeconômicas e de localização de serviços de saúde e educação em alta resolução espacial para todas cidades analisadas. Os dados de distriuição espacial de empregos não são compartilhados por questões de sigilo dos dados da RAIS gerados do Ministério da Economia.
+
 </p>
 
 # Dados
 ### Formato ***RDS*** (leitura em R)
 
- - [2019](http://www.ipea.gov.br/):
+ - [2019](http://www.ipea.gov.br/)
 
 ### Formato ***GeoPackage*** (leitura em QGIS, ArcGis, Python, R)
 
- - [2019](http://www.ipea.gov.br/):
+ - [2019](http://www.ipea.gov.br/)
 
 
  - [Dicionário de variáveis [Excel]](http://www.ipea.gov.br/)
