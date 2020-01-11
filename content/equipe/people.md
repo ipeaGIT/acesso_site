@@ -1,4 +1,4 @@
-﻿+++
++++
   # A "Meet the Team" section created with the People widget.
   # This section displays people from `content/authors/` which belong to the `user_groups` below.
   
@@ -7,7 +7,7 @@
   active = true  # Activate this widget? true/false
   weight = 10  # Order that this section will appear.
   
-  title = "Conheça o time"
+  title = "Equipe"
   subtitle = ""
   
   [content]
@@ -32,6 +32,13 @@
   # Show user's interests? (true/false)
   show_interests = false
   
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 1
+
   [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.

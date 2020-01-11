@@ -57,4 +57,9 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+# url_custom:
+#    name = "Custom Link"
+#    url = "http://www.example.org"
+# # ## http://smgprojects.github.io/using-hugo-academic-to-make-shawngraham-dot-github-dot-io/
 ---
+
