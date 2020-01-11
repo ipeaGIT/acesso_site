@@ -1,4 +1,6 @@
 ---
+title: Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019
+
 abstract: <p align="justify"> Um dos principais objetivos das políticas de transporte
   urbano é facilitar o acesso das pessoas a oportunidades de emprego, serviços de
   saúde e educação, atividades culturais e de lazer. No entanto, os estudos e as políticas
@@ -25,30 +27,27 @@ abstract: <p align="justify"> Um dos principais objetivos das políticas de tran
   a Oportunidades são disponíveis publicamente, criando rico material que pode ser
   utilizado para guiar o planejamento e avaliação de políticas públicas que promovam
   cidades sustentáveis e inclusivas. </p>
+  
+summary: " "
+
 authors:
 - admin
 - kaue
 - bernardo
 - vanessa
+
 date: "2019-12-12T00:00:00Z"
 doi: ""
+
 featured: false
+projects: []
+
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
-projects: []
-publication: 'Texto para Discussão, Ipea'
-publication_short: ""
-publication_types:
-- "3"
-publishDate: "2019-12-12T00:00:00Z"
-# slides: example
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-#   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
-title: Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019
+
+# icons
 url_code: https://github.com/ipeaGIT/acesso_oport
 url_dataset: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
@@ -57,9 +56,19 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-# url_custom:
-#    name = "Custom Link"
-#    url = "http://www.example.org"
+
+# [[url_custom]]
+# name: "teste"
+# url: http://arxiv.org/pdf/1512.04133v1
+
 # # ## http://smgprojects.github.io/using-hugo-academic-to-make-shawngraham-dot-github-dot-io/
+
+# tags:
+# - Source Themes
+
 ---
 
+
+__Citação__:
+
+Pereira, R. H. M., Braga, C. K. V., Serra, Bernardo, & Nadalin, V. (2019). Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019. ***Texto para Discussão Ipea, 2535***.
