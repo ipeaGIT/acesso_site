@@ -17,11 +17,11 @@
 - id: figure
   translation: 'Figura %d:'
 - id: btn_preprint
-  translation: Pré-impressão
+  translation: Texto para Discussão, Ipea
 - id: btn_pdf
   translation: PDF
 - id: btn_cite
-  translation: Citação
+  translation: Citação BibTeX
 - id: btn_slides
   translation: Slides
 - id: btn_video
@@ -89,7 +89,7 @@
 - id: pub_journal
   translation: Artigo de revista
 - id: pub_preprint
-  translation: Pré-impressão
+  translation: Texto para Discussão, Ipea
 - id: pub_report
   translation: Relatório
 - id: pub_book
