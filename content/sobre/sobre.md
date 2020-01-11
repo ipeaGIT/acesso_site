@@ -1,7 +1,7 @@
 +++
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+# Add more sections by duplicating this file and customizing to your requirements. 
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -63,6 +63,7 @@ O projeto tem três objetivos:
  2. Criar uma base de dados abertos para acompanhar anualmente as condições de acessibilidade urbana nas cidades brasileiras
  3. Construir redes de pesquisa para utilizar esses dados em estudos comparativos e no planejamento e avaliação de políticas públicas
 </p>
+
 
 ## Primeiros Resultados, 2019:
 

@@ -9088,3 +9088,19 @@ img:hover {
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
   color: #d03b39; }
+
+/*Mudar cor do botao de "explore dados etc" da pagina inicial*/
+.btn-primary {
+  color: #fff;
+  background-color: #10607e;
+  border-color: #10607e; }
+
+a.hero-cta-alt {
+  padding: 10px 0 0 0;
+  display: inline-block;
+  position: relative;
+  transition-duration: .1s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+  font-size: 1.1rem;
+  color: #10607e; }
