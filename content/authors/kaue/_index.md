@@ -1,7 +1,7 @@
 ---
 authors:
   - kaue
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
     - course: MSc em Engenharia de Transportes

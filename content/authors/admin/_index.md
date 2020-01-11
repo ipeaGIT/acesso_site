@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: Linhas de pesquisa focadas em Transporte e mobilidade urbana, Acessibilidade, Equidade e Cidades.
-  matter.
+# bio: Linhas de pesquisa focadas em Transporte e mobilidade urbana, Acessibilidade, Equidade e Cidades.
 education:
   courses:
   - course: DPhil em Geografia de Transportes

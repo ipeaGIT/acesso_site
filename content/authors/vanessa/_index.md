@@ -3,7 +3,7 @@ authors:
   - vanessa
 name: Vanessa Nadalin
 email: "vanessa.nadalin@ipea.gov.br"
-bio: Linhas de pesquisa focadas em Economia Urbana, Política Urbana, Habitação Popular e Mobilidade Urbana.
+# bio: Linhas de pesquisa focadas em Economia Urbana, Política Urbana, Habitação Popular e Mobilidade Urbana.
 institution: Instituto de Pesquisa Econômica Aplicada - Ipea
 education:
   courses:
