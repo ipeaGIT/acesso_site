@@ -6,10 +6,13 @@ education:
   courses:
     - course: MSc em Engenharia de Transportes
       institution: Universidade Federal do Ceará (UFC)
+      year: 2019
+
     - course: BSc em Engenharia Civil
       institution: Universidade Federal do Ceará (UFC)
+      year: 2016
+
 institution: Instituto de Pesquisa Econômica Aplicada - IPEA
-year: 2019
 email: "kaue@det.ufc.br"
 interests:
   - Transportation Engineering
