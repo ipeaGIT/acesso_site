@@ -51,9 +51,9 @@ subtitle = ""
  
 +++
 
-<p align="justify"> 
-O Projeto Acesso a Oportunidades é uma pesquisa coordenada pelo Instituto de Pesquisa Econômica Aplicada (Ipea) que visa compreender a condições de transporte e as desigualdades de acesso a oportunidades nas cidades brasileiras.
-</p>
+
+O Projeto Acesso a Oportunidades é uma pesquisa coordenada pelo [Instituto de Pesquisa Econômica Aplicada (Ipea)](http://www.ipea.gov.br/) que visa compreender a condições de transporte e as desigualdades de acesso a oportunidades nas cidades brasileiras.
+
 
 ## Objetivos:
 <p align="justify">
