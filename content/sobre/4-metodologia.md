@@ -57,7 +57,7 @@ subtitle = ""
   </div>
   <div class="col-md-12">
   </div>
-  <div class="col-12 col-sm-3">
+  <div class="col-12 col-sm-2">
     <div class = "icon"><i class="fas fa-city fa-4x"></i></div>
     <h3>20 maiores cidades brasileiras</h3>
   </div>
@@ -73,7 +73,7 @@ subtitle = ""
     <div class = "icon"><i class="fas fa-bicycle fa-4x"></i></div>
     <h3>Três modos de transporte</h3>
   </div>
-  <div class="col-12 col-sm-3">
+  <div class="col-12 col-sm-2">
     <div class = "icon"><i class="fas fa-clock fa-4x"></i></div>
     <h3>Pico e  fora-pico</h3>
   </div>
