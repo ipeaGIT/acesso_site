@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Parceiros"
+title = ""
 subtitle = ""
 
 [design]
@@ -42,20 +42,17 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["30px", "0", "30px", "0"]
 
+
+  
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "style.css"
  
  # CSS class.
  css_class = ""
  
+ 
 +++
 
-
-
-
-<p align="center">
-<img align="center" src="/img/parceiros/logo_itdp.png" width="250">
-</p>
-
-
+# Dicionário de variáveis
+ - [2019](http://www.ipea.gov.br/) (Excel)

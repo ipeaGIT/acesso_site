@@ -57,8 +57,8 @@ subtitle = ""
 
 <div class="container">
 <div class="row">
-  <div class="col-4 mx-auto col-md-6 order-md-1 hero-media">
-    <img src="/img/ryoji-iwata-IBaVuZsJJTo-unsplash.jpg" width="800" alt="">
+  <div class="col-1 mx-auto col-md-6 order-md-1 hero-media">
+    <img src="/img/ryoji-iwata-IBaVuZsJJTo-unsplash.jpg" width="500" align="left" alt="">
   </div>
   <div class="col-md-6 order-md-2 text-center text-md-left">
     <div 

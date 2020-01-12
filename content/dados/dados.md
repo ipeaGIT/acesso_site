@@ -42,26 +42,38 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["30px", "0", "30px", "0"]
 
+
+  
 [advanced]
  # Custom CSS. 
  css_style = "style.css"
  
  # CSS class.
  css_class = ""
+ 
+ 
 +++
 <p align="justify">
-As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem tanto estimativas de acessibilidade calculadas pelo projeto como dados populacionais, socioeconômicas e de localização de serviços de saúde e educação em alta resolução espacial para todas cidades analisadas. Obs.: os dados de distriuição espacial de empregos não são compartilhados por questões de sigilo dos dados da RAIS gerados do Ministério da Economia.
-
+As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem tanto estimativas de acessibilidade calculadas pelo projeto como dados populacionais e socioeconômicos e de localização de serviços de saúde e educação em alta resolução espacial para todas as cidades analisadas. Obs.: os dados de distriuição espacial de empregos não são compartilhados por questões de sigilo dos dados gerados pelo Ministério da Economia.
 </p>
+
+[Baixe o relatório com resultados e metodologia completa aqui](https://github.com/ipeaGIT/acesso_site).
+
 
 # Dados
 ### Formato ***RDS*** (leitura em R)
 
  - [2019](http://www.ipea.gov.br/)
+ - <strong style="color: gray; opacity: 0.30;">2020</strong>
+ - <strong style="color: gray; opacity: 0.30;">2021</strong>
+ - <strong style="color: gray; opacity: 0.30;">...</strong>
+
 
 ### Formato ***GeoPackage*** (leitura em QGIS, ArcGis, Python, R)
 
  - [2019](http://www.ipea.gov.br/)
+ - <strong style="color: gray; opacity: 0.30;">2020</strong>
+ - <strong style="color: gray; opacity: 0.30;">2021</strong>
+ - <strong style="color: gray; opacity: 0.30;">...</strong>
 
-
- - [Dicionário de variáveis [Excel]](http://www.ipea.gov.br/)
+</div>

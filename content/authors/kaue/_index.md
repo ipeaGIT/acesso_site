@@ -12,7 +12,7 @@ education:
       institution: Universidade Federal do Ceará (UFC)
       year: 2016
 
-institution: Instituto de Pesquisa Econômica Aplicada - IPEA
+institution: Instituto de Pesquisa Econômica Aplicada - Ipea
 email: "kaue@det.ufc.br"
 interests:
   - Transportation Engineering
