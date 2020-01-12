@@ -67,8 +67,8 @@ url_poster: ""
 
 # attempt 2
 # [[url_custom]]
-# name: "teste"
-# url: http://arxiv.org/pdf/1512.04133v1
+#   name: "teste"
+#   url: http://arxiv.org/pdf/1512.04133v1
 
 
 # tags:

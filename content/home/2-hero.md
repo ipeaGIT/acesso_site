@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -50,4 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-### Combinando dados de uso do solo, Censo Demográfico e de transporte (incluindo dados do OpenStreetMap e dados de transporte público em formato GTFS), o projeto **Acesso a Oportunidades** estima o acesso da população à postos de trabalho formais, escolas públicas e serviços de saúde providos pelos SUS utilizando diversas medidas de acessibilidade
+<p align="justify"> 
+O <strong>Projeto Acesso a Oportunidades</strong> traz estimativas de acesso a oportunidades de emprego, saúde e educação por modo de transporte para as maiores cidades do Brasil. A pesquisa utiliza difentes indicadores para estimar as condições de acessibilidade urbana desagregadas por grupos socioeconômicos e em alta resolução espacial.Todas publicações, dados e códigos do projeto estão disponíveis publicamente  a partir deste site.
+</p>
