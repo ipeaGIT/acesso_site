@@ -35,6 +35,7 @@
 
       {{/* Alternative Call-to-action link */}}
       {{ if $page.Params.cta_alt.url }}
+	{{ $pack := or $page.Params.cta_alt.icon_pack "fas" }}
         {{ $link := $page.Params.cta_alt.url }}
         {{ $scheme := (urls.Parse $link).Scheme }}
         {{ $target := "" }}
@@ -43,7 +44,7 @@
         {{ else if in (slice "http" "https") $scheme }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
-      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="hero-cta-alt pl-4">{{ $page.Params.cta_alt.label | markdownify | emojify | safeHTML }} <i class="fas fa-angle-right"></i></a>
+	<a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="hero-cta-alt pl-4">{{ if $page.Params.cta_alt.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $page.Params.cta_alt.icon }} pr-1" aria-hidden="true"></i>{{end}}{{ $page.Params.cta_alt.label | markdownify | emojify | safeHTML }} <i class="fas fa-angle-right"></i></a>
       {{ end }}
     </p>
     {{ end }}

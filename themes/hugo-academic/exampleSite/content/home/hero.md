@@ -45,6 +45,8 @@ hero_media = "hero-academic.png"
 [cta_alt]
   url = "https://sourcethemes.com/academic/"
   label = "View Documentation"
+  icon_pack = "fas"
+  icon = "download"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
