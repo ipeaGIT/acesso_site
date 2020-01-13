@@ -59,6 +59,14 @@ url_video: ""
 url_preprint: ""
 url_poster: ""
 
+
+# Add custom link (AQUI!!!)
+links:
+- name: Custom Link
+  url: http://example.org
+  
+  
+
 # Add custom link
 # http://smgprojects.github.io/using-hugo-academic-to-make-shawngraham-dot-github-dot-io/
 
@@ -69,7 +77,6 @@ url_poster: ""
 # [[url_custom]]
 #   name: "teste"
 #   url: http://arxiv.org/pdf/1512.04133v1
-
 
 # tags:
 # - Source Themes
