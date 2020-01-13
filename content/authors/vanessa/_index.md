@@ -16,16 +16,23 @@ education:
   - course: BSc em Relações Internacionais
     institution: PUC São Paulo
     year: 2003
+    
 interests:
   - Economia Urbana, Política Urbana, Habitação Popular e Mobilidade Urbana
+  
 organizations:
   - name: Instituto de Pesquisa Econômica Aplicada - Ipea
 url: ""
 role: Pesquisadora (Ipea)
+
 social:
 - icon: envelope
   icon_pack: fas
   link: vanessa.nadalin@ipea.gov.br
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=0J-zbJQAAAAJ&hl
+
 superuser: true
 user_groups:
 - Equipe
