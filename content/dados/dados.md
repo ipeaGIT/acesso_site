@@ -55,25 +55,67 @@ subtitle = ""
 +++
 <p align="justify">
 As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem tanto estimativas de acessibilidade calculadas pelo projeto como dados populacionais e socioeconômicos e de localização de serviços de saúde e educação em alta resolução espacial para todas as cidades analisadas. Obs.: os dados de distriuição espacial de empregos não são compartilhados por questões de sigilo dos dados gerados pelo Ministério da Economia.
-</p>
-
-[Baixe o relatório com resultados e metodologia completa aqui](https://github.com/ipeaGIT/acesso_site).
+</p> 
 
 
-# Dados
-### Formato ***RDS*** (leitura em R)
 
- - [2019](http://www.ipea.gov.br/)
- - <strong style="color: gray; opacity: 0.30;">2020</strong>
- - <strong style="color: gray; opacity: 0.30;">2021</strong>
- - <strong style="color: gray; opacity: 0.30;">...</strong>
+# Dowload dos dados
 
 
-### Formato ***GeoPackage*** (leitura em QGIS, ArcGis, Python, R)
+<img style="float: left; margin: 15pxpx 15px 15px 15px;" src="/img/logos/arcgis_logo.png" width="50" />
+<img style="float: right; margin: 15pxpx 15px 15px 15px;" src="/img/logos/arcgis_logo.png" width="50" />
 
- - [2019](http://www.ipea.gov.br/)
- - <strong style="color: gray; opacity: 0.30;">2020</strong>
- - <strong style="color: gray; opacity: 0.30;">2021</strong>
- - <strong style="color: gray; opacity: 0.30;">...</strong>
+<img style="float: left; margin: 15pxpx 15px 15px 15px;" src="/img/logos/rstudio_logo.png" width="50" />
 
-</div>
+
+
+# teste
+<img src="/img/logos/qgis_logo.png" width="50" align="center" >
+<img src="/img/logos/arcgis_logo.png" width="50" align="center" >
+<img src="/img/logos/python_logo.png" width="40" align="center" >
+# teste
+
+
+<br />
+
+
+
+|  <div style="text-align: center;"> <div style="display: inline-block; text-align: left;"> Leitura em: <br /> <div style="display:flex">     <div style="flex:1;padding-right:5px;">          <img src="/img/logos/qgis_logo.png" width="50" align="center" >     </div>     <div style="flex:1;padding-left:5px;">           <img src="/img/logos/arcgis_logo.png" width="50" align="center" >     </div> </div>  </div> </div> |
+| -------------: |
+| a |
+|aaa | 
+| a |
+| <div style="text-align: center; width:400px"> |
+|a |
+
+
+
+
+
+|  <div style="text-align: center;"> <div style="display: inline-block; text-align: left;"> Leitura em: <br /> <div style="display:flex">     <div style="flex:1;padding-right:5px;">          <img src="/img/logos/qgis_logo.png" width="50" align="center" >     </div>     <div style="flex:1;padding-left:5px;">           <img src="/img/logos/arcgis_logo.png" width="50" align="center" >   </div> </div>  </div> </div> |
+| -------------: |
+| a |
+|aaa | 
+| a |
+| <div style="text-align: center; width:400px"> |
+|a |
+
+
+
+
+
+
+
+| Ano  |    <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br /> <img src="/img/logos/rstudio_logo.png" width="50" /> </div> </div>  | Leitura em <br/>  | Dicionário |   Código |
+| :------------- | :-------------: | :-------------: | :-------------: | :-------------: |
+| 2019  |  <a href="http://www.ipea.gov.br/"><i class="fas fa-download" style="font-size: 1em;"></i></a>  | <a href="http://www.ipea.gov.br/"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="http://www.ipea.gov.br/"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="https://github.com/ipeaGIT/acesso_oport"><i class="fab fa-github" style="font-size: 1.5em;"></i> </a> |
+|  <a style="color: gray; opacity: 0.30;">2020</a> |   |   |   |   |
+|  <a style="color: gray; opacity: 0.30;">2021</a> |   |   |   |   |
+|  <a style="color: gray; opacity: 0.30;">2022</a>  |   |   |   |   |
+|  <img width=400/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=200/> |  <img width=200/> |  <img width=200/> | <img width=200/>   |
+
+<!-- Color of Hyperlinks on this page -->
+  <!-- <style>a { color: #620000; } /* CSS link color */</style>  -->
+
+  
+ - <a href="publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui.</a>
