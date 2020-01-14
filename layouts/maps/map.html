@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default "en-us" }}">
+
+{{ partial "site_head" . }}
+<body id="top" data-spy="scroll" data-offset="70" data-target="{{ if or .IsHome (eq .Type "maps") }}#navbar-main{{else}}#TableOfContents{{end}}" {{ if not (.Scratch.Get "light") }}class="dark"{{end}}>
+
+{{ partial "page_header.html" . }}
+
+
+  {{ partial "search" . }}
+
+  {{ partial "navbar" . }}
+
+  {{ block "main" . }}{{ end }}
+
+  {{ partial "site_js" . }}
+
+<div class="shiny-app-frame">
+  <iframe id="example1" src="https://shiny-acessibilidade.ipea.gov.br/" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
+</div>
+
+
+</body>
+</html>
