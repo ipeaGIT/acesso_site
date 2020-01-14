@@ -1,15 +1,27 @@
 ---
 authors:
   - bernardo
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: Cidades e equidade, Mobilidade urbana, Data science.
 education:
   courses:
-    - course: MSc in Transportation Engineering
+  - course: MSc Engenharia Urbana
+    institution: Universidade Federal do Rio de Janeiro (UFRJ)
+    year: 2018
+  - course: MSc Economia e econometria
+    institution: Universidade Panthéon-Sorbonne (Paris 1)
+    year: 2010
+  - course: BSc Economia e econometria
+    institution: Universidade Panthéon-Sorbonne (Paris 1)
+    year: 2008
+
 institution: Instituto de Políticas de Transporte & Desenvolvimento - ITDP
 year: 2019
 email: "bernardo.serra@itdp.org"
 interests:
-  - Transportation Engineering
+  - Cidades e equidade
+  - Mobilidade urbana
+  - Data science
+
 name: Bernardo  Serra
 organizations:
   - name: Instituto de Políticas de Transporte & Desenvolvimento
@@ -34,7 +46,9 @@ user_groups:
 ---
 
 <p align="justify">  
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bernardo Serra é gerente de políticas públicas do Instituto de Política de Transporte e Desenvolvimento (ITDP Brasil) no qual coordenada a plataforma <a href="https://mobilidados.org.br/">MobiliDADOS</a> e as ações de apoio técnico, geração de dados e advocacy para promoção de políticas públicas com base em evidências no Brasil.
+</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<p align="justify">  
+Bernardo atua há cerca de 10 anos na elaboração, implementação e gestão de projetos de desenvolvimento sustentável no setor privado e em instituições sem fins lucrativos nacionais e internacionais. Desde 2016, vem se dedicando a aprimorar suas habilidades em data science de modo a gerar conhecimento que auxiliam gestores públicos no planejamento urbano inclusivo e sustentável.
 </p>
