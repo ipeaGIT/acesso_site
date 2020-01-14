@@ -57,5 +57,5 @@ title = ""
 # <p align="right"> <img align="right" src="/img/sp.gif" width="500"> </p>
 
 +++
-<p align="justify"> Quanto tempo você leva para chegar até o posto de saúde ou escola mais próxima da sua casa? 
+<p align="justify"> Quanto tempo você leva para chegar até o hospital ou escola mais próxima da sua casa?
 Quantos postos de trabalho você consegue acessar em menos de uma hora?  </p>

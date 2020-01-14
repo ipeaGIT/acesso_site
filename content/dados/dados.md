@@ -54,7 +54,7 @@ subtitle = ""
 
 +++
 <p align="justify">
-As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem tanto estimativas de acessibilidade calculadas pelo projeto como dados populacionais e socioeconômicos e de localização de serviços de saúde e educação em alta resolução espacial para todas as cidades analisadas. Obs.: os dados de distriuição espacial de empregos não são compartilhados por questões de sigilo dos dados gerados pelo Ministério da Economia.
+As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem tanto estimativas de acessibilidade calculadas pelo projeto como dados populacionais e socioeconômicos e de localização de serviços de saúde e educação em alta resolução espacial para todas as cidades analisadas. Obs.: os dados de distribuição espacial de empregos não são compartilhados por questões de sigilo dos dados gerados pelo Ministério da Economia.
 </p> 
 
 
