@@ -51,7 +51,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
- 
+
 +++
 <p align="justify">
 As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem tanto estimativas de acessibilidade calculadas pelo projeto como dados populacionais e socioeconômicos e de localização de serviços de saúde e educação em alta resolução espacial para todas as cidades analisadas. Obs.: os dados de distriuição espacial de empregos não são compartilhados por questões de sigilo dos dados gerados pelo Ministério da Economia.
@@ -62,10 +62,26 @@ As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponívei
 # Dowload dos dados
 
 
+| Ano | <div style="text-align: center;"><div style="display: inline-block; text-align: center;">Leitura em:<br/> <div style="display:flex"><div style="flex:1;padding-left:20px;"><img src="/img/logos/rstudio_logo.png" width="45" align="center"><br/> </div> | <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br/> <div style="display:flex">     <div style="flex:1;padding-left:5px;">          <img src="/img/logos/python_logo.png" width="150" align="center"  /> </div>      <div style="flex:1;padding-left:5px;">           <img src="/img/logos/arcgis_logo.png" width="55" align="center"  />      </div>          <div style="flex:1;padding-left:5px;">           <img src="/img/logos/qgis_logo3.png" width="45" align="center"  />      </div> </div> |  <div style="text-align: center;"> Dicionário |  <div style="text-align: center;"> Código |
+| :------------- | :-------------: | :-------------: | :-------------: | :-------------: |
+| 2019  |  <a href="http://www.ipea.gov.br/"><i class="fas fa-download" style="font-size: 1em;"></i></a>  | <a href="http://www.ipea.gov.br/"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="http://www.ipea.gov.br/"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="https://github.com/ipeaGIT/acesso_oport"><i class="fab fa-github" style="font-size: 1.5em;"></i> </a> |
+|  <a style="color: gray; opacity: 0.30;">2020</a> |   |   |   |   |
+|  <a style="color: gray; opacity: 0.30;">2021</a> |   |   |   |   |
+|  <a style="color: gray; opacity: 0.30;">2022</a>  |   |   |   |   |
+|  <img width=500/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=200/> |  <img width=200/> |  <img width=200/> | <img width=200/>   |
 
 
+  
+ - <a href="publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui.</a>
+ 
+ 
+
+<!-- Color of Hyperlinks on this page -->
+ <style>a { color: #838383; } /* CSS link color */</style>  
 
 
+ <!-- Tabela de testes para formatacao
+ 
 |  <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br/>  <br /> <div style="display:flex">  <div style="flex:1;padding-left:10px;">  <img src="/img/logos/python_logo.png" width="100" align="center" >     <img src="/img/logos/qgis_logo.png" width="100" align="center" > </div>     <div style="flex:1;padding-left:5px;">    <img src="/img/logos/arcgis_logo.png" width="80" align="center" >     <img src="/img/logos/rstudio_logo.png" width="70" align="center" >   </div> </div>  </div> </div> |
 | -------------: |
 | a |
@@ -73,49 +89,4 @@ As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponívei
 |a |
 
 
-
-
-
-
-| Ano  | <div style="text-align: center;"><div style="display: inline-block; text-align: center;">Leitura em:<br/> <div style="display:flex"><div style="flex:1;padding-left:1px;"><img src="/img/logos/rstudio_logo.png" width="60" align="center" ></div> | <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br/> <div style="display:flex">  <div style="flex:1;padding-left:1px;">  <img src="/img/logos/python_logo.png" width="100" align="center" >  </div>     <div style="flex:1;padding-left:1px;">    <img src="/img/logos/arcgis_logo.png" width="80" align="center" >  </div>     <div class="verticalcenter" style="flex:1;padding-left:1px;"> <img src="/img/logos/qgis_logo.png" width="200" align="center" > </div> |  <div style="text-align: center;"> Dicionário |  <div style="text-align: center;"> Código |
-| :------------- | :-------------: | :-------------: | :-------------: | :-------------: |
-| 2019  |  <a href="http://www.ipea.gov.br/"><i class="fas fa-download" style="font-size: 1em;"></i></a>  | <a href="http://www.ipea.gov.br/"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="http://www.ipea.gov.br/"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="https://github.com/ipeaGIT/acesso_oport"><i class="fab fa-github" style="font-size: 1.5em;"></i> </a> |
-|  <a style="color: gray; opacity: 0.30;">2020</a> |   |   |   |   |
-|  <a style="color: gray; opacity: 0.30;">2021</a> |   |   |   |   |
-|  <a style="color: gray; opacity: 0.30;">2022</a>  |   |   |   |   |
-|  <img width=400/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=200/> |  <img width=200/> |  <img width=200/> | <img width=200/>   |
-
-<!-- Color of Hyperlinks on this page -->
-  <!-- <style>a { color: #620000; } /* CSS link color */</style>  -->
-
-  
- - <a href="publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui.</a>
- 
- 
- <!--
- <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br/> <div style="display:flex">  <div style="flex:1;padding-left:10px;">  <img src="/img/logos/python_logo.png" width="100" align="center" >     <img src="/img/logos/qgis_logo.png" width="100" align="center" > </div>     <div style="flex:1;padding-left:5px;">    <img src="/img/logos/arcgis_logo.png" width="80" align="center" >   </div> </div>  </div> </div>
- -->
- 
- 
-
-
- 
- 
-
-| Ano  | a |  <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br/> <div style="display:flex">  <div style="flex:1;padding-left:1px;">  <img src="/img/logos/python_logo.png" width="100" align="center" >  </div>     <div style="flex:1;padding-left:1px;">    <img src="/img/logos/arcgis_logo.png" width="80" align="center" >  </div>      <div style="flex:1;padding-left:1px;">  <img src="/img/logos/qgis_logo.png" width="100" align="center"  />                     |  Dicionário |   Código |
-| :------------- | :-------------: | :-------------: | :-------------: | :-------------: |
-|  <a style="color: gray; opacity: 0.30;">2020</a> |   |   |   |   |
-|  <a style="color: gray; opacity: 0.30;">2021</a> |   |   |   |   |
-|  <a style="color: gray; opacity: 0.30;">2022</a>  |   |   |   |   |
-|  <img width=400/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=200/> |  <img width=200/> |  <img width=200/> | <img width=200/>   |
-
-
-<div style="display:flex">     <div style="flex:1;padding-right:5px;">          <img src="/img/logos/qgis_logo.png" width="100" align="center"  /> </div>      <div style="flex:1;padding-left:5px;">           <img src="/img/logos/qgis_logo.png" width="100" align="center"  />      </div>          <div style="flex:1;padding-right:5px;">           <img src="/img/logos/qgis_logo.png" width="100" align="center"  />      </div> </div>
-
-
-| Ano  | a |  <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br/> <div style="display:flex">     <div style="flex:1;padding-right:5px;">          <img src="/img/logos/qgis_logo.png" width="100" align="center"  /> </div>      <div style="flex:1;padding-left:5px;">           <img src="/img/logos/qgis_logo.png" width="100" align="center"  />      </div>          <div style="flex:1;padding-right:5px;">           <img src="/img/logos/qgis_logo.png" width="100" align="center"  />      </div> </div>                 |  Dicionário |   Código |
-| :------------- | :-------------: | :-------------: | :-------------: | :-------------: |
-|  <a style="color: gray; opacity: 0.30;">2020</a> |   |   |   |   |
-|  <a style="color: gray; opacity: 0.30;">2021</a> |   |   |   |   |
-|  <a style="color: gray; opacity: 0.30;">2022</a>  |   |   |   |   |
-|  <img width=400/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=200/> |  <img width=200/> |  <img width=200/> | <img width=200/>   |
+-->
