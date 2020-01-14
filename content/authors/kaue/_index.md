@@ -15,7 +15,9 @@ education:
 institution: Instituto de Pesquisa Econômica Aplicada - Ipea
 email: "kaue@det.ufc.br"
 interests:
-  - Transportation Engineering
+  - Acessibilidade Urbana
+  - Análise de dados
+  - Dados de transporte público
 name: Carlos Kauê Vieira Braga
 organizations:
   - name: Universidade Federal do Ceará
@@ -28,9 +30,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ckauebraga
-# - icon: google-scholar
-#   icon_pack: ai
-#   link:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=lm_oxt0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/kauebraga
@@ -40,9 +42,6 @@ user_groups:
 ---
 
 <p align="justify">
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-</p>
+Kauê é mestre em Engenharia de Transporte pela Universidade Federal do Ceará e assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Tem interesse focado em transporte público, com dedicação especial aos dados característicos (GTFS, bilhetagem e GPS) e em como estes podem ajudar na estimação de indicadores para compreender melhor as desigualdades sócio-espaciais ao acesso a oportunidades nas cidades
 
-<p align="justify">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 </p>
