@@ -47,6 +47,8 @@ image:
   focal_point: ""
   preview_only: false
 
+
+  
 # icons
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: https://github.com/ipeaGIT/acesso_oport
@@ -59,24 +61,20 @@ url_video: ""
 url_preprint: ""
 url_poster: ""
 
-
 # Add custom link (AQUI!!!)
 links:
-- name: Custom Link
+- name: Sumário Executivo
   url: http://example.org
+- name: Figuras
+  url: http://example.org
+
+
   
-  
+
 
 # Add custom link
 # http://smgprojects.github.io/using-hugo-academic-to-make-shawngraham-dot-github-dot-io/
 
-# attempt 1
-# url_custom: {name: "aaaaaaaaaaa", url: http://example.org}
-
-# attempt 2
-# [[url_custom]]
-#   name: "teste"
-#   url: http://arxiv.org/pdf/1512.04133v1
 
 # tags:
 # - Source Themes
