@@ -51,5 +51,5 @@ subtitle = ""
 +++
 
 <p align="justify"> 
-O <strong>Projeto Acesso a Oportunidades</strong> traz estimativas de acesso a oportunidades de emprego, saúde e educação por modo de transporte para as maiores cidades do Brasil. A pesquisa utiliza difentes indicadores para estimar as condições de acessibilidade urbana desagregadas por grupos socioeconômicos e em alta resolução espacial.Todas publicações, dados e códigos do projeto estão disponíveis publicamente a partir deste site. <a href="sobre/">Mais informações sobre o projeto aqui.</a>
+O <strong>Projeto Acesso a Oportunidades</strong> traz estimativas de acesso a oportunidades de emprego, saúde e educação por modo de transporte para as maiores cidades do Brasil. A pesquisa utiliza diferentes indicadores para estimar as condições de acessibilidade urbana desagregadas por grupos socioeconômicos e em alta resolução espacial.Todas publicações, dados e códigos do projeto estão disponíveis publicamente a partir deste site. <a href="sobre/">Mais informações sobre o projeto aqui.</a>
 </p>

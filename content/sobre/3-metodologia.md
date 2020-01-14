@@ -59,7 +59,7 @@ A metologia da pesquisa envolve 4 etapas.
 </p>
 
 <p align="justify"> 
-2. Em seguida, essa grade de hexágonos é utilizada para re-agregar espacialmente os dados populacionais e socioeconômicos do Censo Demográfico, e registros administrativos com a localização de empregos formais (de baixa média e alta escolaridade), escolas públicas (educação infantil, nível fundamental e médio) e estabelecimentos de saúde que atendem pelo SUS (com nível de atendimento de baixa, média e alta complexidade).
+2. Em seguida, essa grade de hexágonos é utilizada para reagregar espacialmente os dados populacionais e socioeconômicos do Censo Demográfico, registros administrativos com a localização de empregos formais (de baixa média e alta escolaridade), escolas públicas (educação infantil, nível fundamental e médio) e estabelecimentos de saúde que atendem pelo SUS (com nível de atendimento de baixa, média e alta complexidade).
 </p>
  
 <p align="justify"> 

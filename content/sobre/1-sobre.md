@@ -69,7 +69,7 @@ O projeto tem três objetivos:
 ## Primeiros Resultados, 2019:
 
 <p align="justify"> 
-Na sua primeira edição (2019), a pesquisa traz estimativas de acesso a empregos formais, estabelecimentos de saúde que atendem pelos SUS (com nível de atendimento de baixa, média e alta complexidade) e escolas públicas (de ensino infantil, fundamental e médio) para as 20 maiores cidades do Brasil. Para isso, o projeto combina dados de registros administrativos, pesquisas amostrais, dados de imagens de satélite e de mapeamento colaborativo para calcular níveis de acessibilidade em alta resolução espacial (aproxidamente na escala de quarteirão). Essas estimativas também são feitas de maneira desagregada por grupos socioeconômicos segundo nível de renda e cor/raça. <a href="/publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui</a>.
+Na sua primeira edição (2019), a pesquisa traz estimativas de acesso a empregos formais, estabelecimentos de saúde que atendem pelo SUS (com nível de atendimento de baixa, média e alta complexidade) e escolas públicas (de ensino infantil, fundamental e médio) para as 20 maiores cidades do Brasil. Para isso, o projeto combina dados de registros administrativos, pesquisas amostrais, dados de imagens de satélite e de mapeamento colaborativo para calcular níveis de acessibilidade em alta resolução espacial (aproxidamente na escala de quarteirão). Essas estimativas também são feitas de maneira desagregada por grupos socioeconômicos segundo nível de renda e cor/raça. <a href="/publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui</a>.
 </p>
 
 <p align="center">
