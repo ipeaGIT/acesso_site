@@ -50,9 +50,9 @@ image:
 
   
 # icons
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://repositorio.ipea.gov.br/bitstream/11058/9586/1/td_2535.pdf
 url_code: https://github.com/ipeaGIT/acesso_oport
-url_dataset: https://github.com/ipeaGIT/acesso_oport
+url_dataset: /dados
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -64,9 +64,9 @@ url_poster: ""
 # Add custom link (AQUI!!!)
 links:
 - name: Sumário Executivo
-  url: http://example.org
+  url: http://repositorio.ipea.gov.br/bitstream/11058/9586/2/td_2535_sumex.pdf
 - name: Figuras
-  url: http://example.org
+  url: http://repositorio.ipea.gov.br/bitstream/11058/9586/6/figuras2019_v1.0_20200116.zip
 
 
   

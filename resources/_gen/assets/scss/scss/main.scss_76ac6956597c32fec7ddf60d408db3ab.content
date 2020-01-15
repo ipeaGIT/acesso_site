@@ -9,6 +9,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
 @import url("https://fonts.googleapis.com/css?family=PT+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Work+Sans&display=swap");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -9019,7 +9020,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   /* font-family: "Source Sans Pro", sans-serif; */
   /* font-family: 'Oswald', sans-serif; */
-  font-family: 'PT Sans', sans-serif; }
+  font-family: 'Montserrat', sans-serif; }
+
+p {
+  font-family: 'Work Sans', sans-serif; }
+
+li {
+  font-family: 'Work Sans', sans-serif; }
 
 body {
   color: #333;
