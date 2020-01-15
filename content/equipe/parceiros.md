@@ -55,7 +55,7 @@ subtitle = ""
 
 
 <p align="center">
-<img align="center" src="/atlasacessibilidade/img/parceiros/logo_itdp.png" width="250">
+<img align="center" src="/acessooportunidades/img/parceiros/logo_itdp.png" width="250">
 </p>
 
 
