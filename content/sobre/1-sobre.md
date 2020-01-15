@@ -73,7 +73,7 @@ Na sua primeira edição (2019), a pesquisa traz estimativas de acesso a emprego
 </p>
 
 <p align="center">
-<img align="center" src="/img/munis2019.png" width="1000">
+<img align="center" src="/acessooportunidades/img/munis2019.png" width="1000">
 </p>
 
 

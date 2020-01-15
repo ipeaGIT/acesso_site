@@ -54,7 +54,7 @@ title = ""
   icon = "database"
 
 
-# <p align="right"> <img align="right" src="/img/sp.gif" width="500"> </p>
+# <p align="right"> <img align="right" src="/acessooportunidades/img/sp.gif" width="500"> </p>
 
 +++
 <p align="justify"> Quanto tempo você leva para chegar até o hospital ou escola mais próxima da sua casa?

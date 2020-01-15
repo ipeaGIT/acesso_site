@@ -59,7 +59,7 @@ subtitle = ""
 <div class="row">
   <div class="col-12 mx-auto col-md-6 order-md-1 hero-media">
   <figure>
-    <img src="/img/ryoji-iwata-IBaVuZsJJTo-unsplash.jpg" width="500" align="left" alt="">
+    <img src="/acessooportunidades/img/ryoji-iwata-IBaVuZsJJTo-unsplash.jpg" width="500" align="left" alt="">
     <figcaption><a style="color: gray; opacity: 0.50;">Photo by Toa Heftiba on Unsplash</a></figcaption>
   </figure>
   </div>
