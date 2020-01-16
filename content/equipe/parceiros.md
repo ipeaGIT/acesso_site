@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Parceiros"
 subtitle = ""
@@ -23,11 +23,11 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -43,12 +43,12 @@ subtitle = ""
   padding = ["30px", "0", "30px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
- 
+
 +++
 
 
@@ -57,5 +57,3 @@ subtitle = ""
 <p align="center">
 <img align="center" src="/acessooportunidades/img/parceiros/logo_itdp.png" width="250">
 </p>
-
-
