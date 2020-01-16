@@ -3,6 +3,7 @@
 
 {{ partial "site_head" . }}
 <body id="top" data-spy="scroll" data-offset="70" data-target="{{ if or .IsHome (eq .Type "widget_page") }}#navbar-main{{else}}#TableOfContents{{end}}" {{ if not (.Scratch.Get "light") }}class="dark"{{end}}>
+  <div class="content">
 
   {{ partial "search" . }}
 
@@ -11,6 +12,9 @@
   {{ block "main" . }}{{ end }}
 
   {{ partial "site_js" . }}
+
+
+</div>
 
   {{/* Docs and Updates layouts include the site footer in a different location. */}}
   {{ if not (in (slice "docs" "updates") .Type) }}
