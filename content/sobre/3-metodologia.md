@@ -74,4 +74,4 @@ A metologia da pesquisa envolve 4 etapas.
  * <strong>Tempo mínimo</strong> que se leva para chegar até a oportunidade mais próxima
  * <strong>Medida cumulativa </strong> da proporção de oportunidades da cidade que são acessíveis em determinado tempo de viagem.
 
-<a href="/publication/2019_td2535/">Mais informações sobre fonte de dados e metodologia completa aqui</a>.
+<a href="/acessooportunidades/publication/2019_td2535/">Mais informações sobre fonte de dados e metodologia completa aqui</a>.
