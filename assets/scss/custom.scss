@@ -27,16 +27,14 @@ li {
 body {
   color: #333;
   font-size: 0.9rem;
-  // padding-top: 30px !important;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+  padding-top: 70px;
 }
 
 html, body {
   height: 100%;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
 }
 
 .content {
