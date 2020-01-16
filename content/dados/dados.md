@@ -59,7 +59,7 @@ As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponívei
 
 
 
-# Dowload dos dados
+# Download dos dados
 
 
 | Ano | <div style="text-align: center;"><div style="display: inline-block; text-align: center;">Leitura em:<br/> <div style="display:flex"><div style="flex:1;padding-left:20px;"><img src="/acessooportunidades/img/logos/rstudio_logo.png" width="45" align="center"><br/> </div> | <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br/> <div style="display:flex">     <div style="flex:1;padding-left:5px;">          <img src="/acessooportunidades/img/logos/python_logo.png" width="150" align="center"  /> </div>      <div style="flex:1;padding-left:5px;">           <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" width="55" align="center"  />      </div>          <div style="flex:1;padding-left:5px;">           <img src="/acessooportunidades/img/logos/qgis_logo3.png" width="40" align="center"  />      </div> </div> |  <div style="text-align: center;"> Dicionário |  <div style="text-align: center;"> Código |
