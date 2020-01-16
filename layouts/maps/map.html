@@ -4,7 +4,6 @@
 {{ partial "site_head" . }}
 <body id="top" data-spy="scroll" data-offset="70" data-target="{{ if or .IsHome (eq .Type "maps") }}#navbar-main{{else}}#TableOfContents{{end}}" {{ if not (.Scratch.Get "light") }}class="dark"{{end}}>
 
-{{ partial "page_header.html" . }}
 
 
   {{ partial "search" . }}

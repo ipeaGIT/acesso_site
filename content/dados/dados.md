@@ -23,11 +23,11 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -43,19 +43,19 @@ subtitle = ""
   padding = ["30px", "0", "30px", "0"]
 
 
-  
+
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = "style.css"
- 
+
  # CSS class.
  css_class = ""
- 
+
 
 +++
 <p align="justify">
 As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem tanto estimativas de acessibilidade calculadas pelo projeto como dados populacionais e socioeconômicos e de localização de serviços de saúde e educação em alta resolução espacial para todas as cidades analisadas. Obs.: os dados de distribuição espacial de empregos não são compartilhados por questões de sigilo dos dados gerados pelo Ministério da Economia.
-</p> 
+</p>
 
 
 
@@ -70,18 +70,16 @@ As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponívei
 |  <a style="color: gray; opacity: 0.30;">2022</a>  |   |   |   |   |
 |  <img width=500/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=200/> |  <img width=200/> |  <img width=200/> | <img width=200/>   |
 
+ - <a href="/acessooportunidades/publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui.</a>
 
-  
- - <a href="publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui.</a>
- 
- 
+
 
 <!-- Color of Hyperlinks on this page -->
- <style>a { color: #838383; } /* CSS link color */</style>  
+ <!-- <style>a { color: #838383; } /* CSS link color */</style>   -->
 
 
  <!-- Tabela de testes para formatacao
- 
+
 |  <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br/>  <br /> <div style="display:flex">  <div style="flex:1;padding-left:10px;">  <img src="/img/logos/python_logo.png" width="100" align="center" >     <img src="/img/logos/qgis_logo.png" width="100" align="center" > </div>     <div style="flex:1;padding-left:5px;">    <img src="/img/logos/arcgis_logo.png" width="80" align="center" >     <img src="/img/logos/rstudio_logo.png" width="70" align="center" >   </div> </div>  </div> </div> |
 | -------------: |
 | a |
