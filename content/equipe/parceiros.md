@@ -55,5 +55,5 @@ subtitle = ""
 
 
 <p align="center">
-<img align="center" src="/acessooportunidades/img/parceiros/logo_itdp.png" width="250">
+<a href="https://itdpbrasil.org/"><img align="center" src="/acessooportunidades/img/parceiros/logo_itdp.png" width="250"></a>
 </p>
