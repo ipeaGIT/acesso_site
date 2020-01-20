@@ -1,0 +1,90 @@
++++
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
+
+title = ""
+subtitle = ""
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+
+  # Background image.
+  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+
+  # Text color (true=light or false=dark).
+  text_color_light = false
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["30px", "0", "30px", "0"]
+
+
+
+[advanced]
+ # Custom CSS.
+ css_style = "style.css"
+
+ # CSS class.
+ css_class = ""
+
+
++++
+<p align="justify">
+As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem tanto estimativas de acessibilidade calculadas pelo projeto como dados populacionais e socioeconômicos e de localização de serviços de saúde e educação em alta resolução espacial para todas as cidades analisadas. Obs.: os dados de distribuição espacial de empregos não são compartilhados por questões de sigilo dos dados gerados pelo Ministério da Economia.
+</p>
+
+
+
+# Download dos dados
+
+
+| Ano | <div style="text-align: center;"><div style="display: inline-block; text-align: center;">Leitura em:<br/> <div style="display:flex"><div style="flex:1;padding-left:20px;"><img src="/acessooportunidades/img/logos/rstudio_logo.png" width="45" align="center"><br/> </div> | <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br/> <div style="display:flex">     <div style="flex:1;padding-left:5px;">          <img src="/acessooportunidades/img/logos/python_logo.png" width="150" align="center"  /> </div>      <div style="flex:1;padding-left:5px;">           <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" width="55" align="center"  />      </div>          <div style="flex:1;padding-left:5px;">           <img src="/acessooportunidades/img/logos/qgis_logo3.png" width="40" align="center"  />      </div> </div> |  <div style="text-align: center;"> Dicionário |  <div style="text-align: center;"> Código |
+| :------------- | :-------------: | :-------------: | :-------------: | :-------------: |
+| 2019  |  <a href="http://repositorio.ipea.gov.br/bitstream/11058/9586/4/dados2019_v1.0_20200116.rds"><i class="fas fa-download" style="font-size: 1em;"></i></a>  | <a href="http://repositorio.ipea.gov.br/bitstream/11058/9586/3/dados2019_v1.0_20200116.gpkg"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="http://repositorio.ipea.gov.br/bitstream/11058/9586/5/dicionario2019_v1.0_20200116.xlsx"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="https://github.com/ipeaGIT/acesso_oport"><i class="fab fa-github" style="font-size: 1.5em;"></i> </a> |
+|  <a style="color: gray; opacity: 0.30;">2020</a> |   |   |   |   |
+|  <a style="color: gray; opacity: 0.30;">2021</a> |   |   |   |   |
+|  <a style="color: gray; opacity: 0.30;">2022</a>  |   |   |   |   |
+|  <img width=500/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=200/> |  <img width=200/> |  <img width=200/> | <img width=200/>   |
+
+ - <a href="/acessooportunidades/publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui.</a>
+
+
+
+<!-- Color of Hyperlinks on this page -->
+ <!-- <style>a { color: #838383; } /* CSS link color */</style>   -->
+
+
+ <!-- Tabela de testes para formatacao
+
+|  <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> Leitura em: <br/>  <br /> <div style="display:flex">  <div style="flex:1;padding-left:10px;">  <img src="/img/logos/python_logo.png" width="100" align="center" >     <img src="/img/logos/qgis_logo.png" width="100" align="center" > </div>     <div style="flex:1;padding-left:5px;">    <img src="/img/logos/arcgis_logo.png" width="80" align="center" >     <img src="/img/logos/rstudio_logo.png" width="70" align="center" >   </div> </div>  </div> </div> |
+| -------------: |
+| a |
+| <div style="text-align: center; width:400px"> |
+|a |
+
+
+-->
