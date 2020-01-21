@@ -4,17 +4,17 @@ authors:
 # bio: Linhas de pesquisa focadas em Transporte e mobilidade urbana, Acessibilidade, Equidade e Cidades.
 education:
   courses:
-  - course: DPhil em Geografia de Transportes
-    institution: Universidade de Oxford
+  - course: DPhil in Geography
+    institution: Oxford University
     year: 2018
-  - course: MSc em Demografia
-    institution: Universidade Estadual de Campinas (Unicamp)
+  - course: MSc in Demography
+    institution: State University of Campinas (Unicamp)
     year: 2008
-  - course: BSc em Sociologia
-    institution: Universidade de Brasilia (UnB)
+  - course: BSc in Sociology
+    institution: University of Braslia (UnB)
     year: 2006
 email: "rafael.pereira@ipea.gov.br"
-institution: Instituto de Pesquisa Econômica Aplicada - Ipea
+institution: Institute for Applied Economic Research - Ipea
 
 interests:
 - Transporte e mobilidade
@@ -25,7 +25,7 @@ interests:
 
 name: Rafael H. M. Pereira
 organizations:
-- name: Instituto de Pesquisa Econômica Aplicada - Ipea
+- name: Institute for Applied Economic Research - Ipea
   url: "ipea.gov.br"
 
 role: Pesquisador (Ipea)
