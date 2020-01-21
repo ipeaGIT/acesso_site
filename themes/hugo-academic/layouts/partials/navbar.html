@@ -36,7 +36,7 @@
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     {{ $align_menu := site.Params.main_menu.align | default "l" }}
-    <div class="navbar-collapse main-menu-item collapse {{ if eq $align_menu "c" }}justify-content-center{{ else if eq $align_menu "r" }}justify-content-end{{else}}justify-content-start{{ end }}" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse {{ if eq $align_menu "c" }}justify-content-center{{ else if eq $align_menu "r" }}justify-content-end{{else}}justify-content-end{{ end }}" id="navbar-content" style="margin-right: 15px">
 
       <!-- Left Nav Bar -->
       <ul class="navbar-nav d-md-inline-flex">
@@ -115,11 +115,11 @@
       </ul>
     </div><!-- /.navbar-collapse -->
 
-    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+    <div class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       {{ if site.Params.search.engine }}
-      <li class="nav-item">
+      <div class="nav-item">
         <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
+      </div>
       {{ end }}
 
       {{ if site.Params.day_night }}
