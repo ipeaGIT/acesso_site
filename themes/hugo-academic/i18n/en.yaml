@@ -223,3 +223,7 @@
 
 - id: cookie_learn
   translation: Learn more
+  
+# Custom
+- id: contact_ipea
+  translation: Contact
