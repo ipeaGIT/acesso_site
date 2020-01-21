@@ -53,7 +53,7 @@ subtitle = ""
 <div class="container">
   <div class="row featurette">
   <div class="col-md-12 section-heading">
-    <h1>Escopo</h1>
+    <h1>Escope</h1>
   </div>
   <div class="col-md-12">
   </div>

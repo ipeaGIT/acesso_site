@@ -66,9 +66,7 @@ The project has three goals:
 
 ## First Results, 2019:
 
-<p align="justify"> 
-
-The first edition of the project (2019) brings estimates of accessibility to jobs, schools (early childhood education, primary education and high school education) and healthcare facilities (low, medium and high complexity medical care) in the 20 largest cities of Brazil. To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at high spatial resolution and disaggregated by socioeconomic groups according to income level and race. <a href="/acessooportunidades/publication/2019_td2535/"> Download the full report with results and detailed methodology here</a>.
+<p align="justify"> The first edition of the project (2019) brings estimates of accessibility to jobs, schools and healthcare facilities in the 20 largest cities of Brazil. To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at high spatial resolution and disaggregated by socioeconomic groups according to income level and race. <a href="/acessooportunidades/publication/2019_td2535/"> Download the full report with results and detailed methodology here</a>.
 </p>
 
 <p align="center">
