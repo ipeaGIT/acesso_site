@@ -43,13 +43,13 @@ title = ""
 
 [cta]
   url = "/mapa"
-  label = "Explore o mapa interativo"
+  label = "Explore the interactive map"
   icon_pack = "fas"
   icon = "globe-americas"
 
 [cta_alt]
   url = "/dados"
-  label = "Faça o download dos dados"
+  label = "Download the data"
   icon_pack = "fas"
   icon = "database"
 

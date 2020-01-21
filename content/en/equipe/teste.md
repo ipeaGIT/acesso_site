@@ -57,7 +57,7 @@ subtitle = ""
     <!-- Aqui comeca a div do coordenador -->
     <div class="col-12 col-sm-12 col-lg-4">
       <div class="col-md-12">
-        <h2 class="mb-4">Coordenador</h2>
+        <h2 class="mb-4">Coordinator</h2>
       </div>
       <div class="col-12 col-md-12 people-person">
         <a href="/acessooportunidades/authors/admin/"><img class="portrait" src="/acessooportunidades/authors/admin/avatar_rafael_hua2182735cf7a3c88055629d3e1e4e07f_24756_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar"></a>
@@ -93,7 +93,7 @@ subtitle = ""
     <div class="col-12 col-sm-12 col-lg-8">
     <div class="row">
         <div class="col-md-12">
-          <h2 class="mb-4">Equipe</h2>
+          <h2 class="mb-4">Team</h2>
         </div>
         <!-- Aqui comeca a div da pessoa -->
         <div class="col-12 col-md-6 col-lg-6 people-person">
@@ -150,7 +150,7 @@ subtitle = ""
     <!-- Aqui comeca a div dos parceiros -->
     <div class="col-md-12">
       <div class="col-md-12">
-        <h2 class="mb-4">Parceiros</h2>
+        <h2 class="mb-4">Partners</h2>
       </div>
       <div class="col align-self-center people-person">
         <a href="/acessooportunidades/authors/bernardo/"><img class="portrait" src="/acessooportunidades/authors/bernardo/avatar_bernardo_hu960622ff408bafdbccba288dadce9969_443442_250x250_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
