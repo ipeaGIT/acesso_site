@@ -53,29 +53,29 @@ subtitle = ""
 <div class="container">
   <div class="row featurette">
   <div class="col-md-12 section-heading">
-    <h1>Escopo</h1>
+    <h1>Escope</h1>
   </div>
   <div class="col-md-12">
   </div>
   <div class="col-sm-12 col-md-6 col-lg-2">
     <div class = "icon"><i class="fas fa-city fa-4x"></i></div>
-    <h3>20 maiores cidades brasileiras</h3>
+    <h3>20 largest Brazilian cities</h3>
   </div>
   <div class="col-sm-12 col-md-6 col-lg-4">
     <div class = "icon"><i class="fas fa-building fa-4x"></i></div>
     <div class = "icon"><i class="fas fa-school fa-4x"></i></div>
     <div class = "icon"><i class="fas fa-hospital fa-4x"></i></div>
-    <h3>Trabalho, educação e saúde</h3>
+    <h3>Employment, education and health</h3>
   </div>
     <div class="col-sm-12 col-md-6 col-lg-4">
     <div class = "icon"><i class="fas fa-bus fa-4x"></i></div>
     <div class = "icon"><i class="fas fa-walking fa-4x"></i></div>
     <div class = "icon"><i class="fas fa-bicycle fa-4x"></i></div>
-    <h3>Três modos de transporte</h3>
+    <h3>Three transport modes</h3>
   </div>
   <div class="col-sm-12 col-md-6 col-lg-2">
     <div class = "icon"><i class="fas fa-clock fa-4x"></i></div>
-    <h3>Pico e  fora-pico</h3>
+    <h3>Peak and off-peak</h3>
   </div>
   </div>
   </div>

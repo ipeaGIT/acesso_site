@@ -1,32 +1,7 @@
 ---
-title: Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019
+title: Socio-spatial inequalities in access to opportunities in Brazilian cities, 2019 [PORT]
 
-abstract: <p align="justify"> Um dos principais objetivos das políticas de transporte
-  urbano é facilitar o acesso das pessoas a oportunidades de emprego, serviços de
-  saúde e educação, atividades culturais e de lazer. No entanto, os estudos e as políticas
-  de mobilidade urbana no Brasil costumam dar ênfase aos desafios de reduzir congestionamentos
-  e o tempo que as pessoas gastam no trânsito, ao passo que dedicam pouca atenção
-  ao tema da acessibilidade urbana. Este estudo apresenta os primeiros resultados
-  do Projeto Acesso a Oportunidades, e faz um retrato das desigualdades de acesso
-  a oportunidades nas maiores cidades brasileiras no ano de 2019 com estimativas de
-  acesso a empregos, serviços de saúde e educação. Nesta edição, o estudo inclui estimativas
-  de acessibilidade por modos de transporte ativo (a pé e de bicicleta) para as 20
-  maiores cidades do país, e por transporte público para 7 grandes cidades (São Paulo,
-  Rio de Janeiro, Belo Horizonte, Recife, Fortaleza, Porto Alegre e Curitiba). O projeto
-  combina dados de registros administrativos, pesquisas amostrais, dados de imagens
-  de satélite e de mapeamento colaborativo para calcular os níveis de acessibilidade
-  em alta resolução espacial e desagregados por grupos socioeconômicos segundo nível
-  de renda e cor/raça. Os resultados revelam dois padrões gerais. Em todas as vinte
-  cidades estudadas, a concentração de atividades nas áreas urbanas centrais aliada
-  à performance/conectividade das redes de transporte leva a áreas de alta acessibilidade
-  próximas ao centro das cidades em contraste com regiões de periferia marcadas por
-  desertos de oportunidades. Ainda, os resultados apontam que a população branca e
-  de alta renda têm em média mais acesso a oportunidades de trabalho, saúde e educação
-  do que a população negra e pobre em todas as cidades estudadas, independentemente
-  do meio de transporte considerado. Os resultados e bases de dados do Projeto Acesso
-  a Oportunidades são disponíveis publicamente, criando rico material que pode ser
-  utilizado para guiar o planejamento e avaliação de políticas públicas que promovam
-  cidades sustentáveis e inclusivas. </p>
+abstract: <p align="justify"> One of the core aims of transportation policies is to facilitate people’s access to employment, health and education opportunities as well as cultural and leisure activities. Nonetheless, transport research and policies in Brazil are still largely focused on the challenges of reducing road congestion and commuting times, while paying little attention to issues of urban accessibility. This study presents the first results of the Access to Opportunities Project, assessing the inequalities in access to opportunities in Brazilian largest cities in 2019 with estimates of access to jobs, health and education services. In this edition, the study includes accessibility estimates by active transport modes (walking and cycling) for the 20 largest cities in the country, and by public transport for 7 major cities (Sao Paulo, Rio de Janeiro, Belo Horizonte, Recife, Fortaleza, Porto Alegre and Curitiba). The project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at high spatial resolution and disaggregated by socioeconomic groups according to income level and race. The results reveal two general patterns. In all the twenty analyzed cities, the concentration of activities in central urban areas combined with the performance/connectivity of transportation networks lead to areas of high accessibility close to city centers in contrast to urban peripheries marked by deserts of opportunities. Furthermore, the results show that white and high-income people have, on average, higher accessibility to employment, health and education opportunities than black and low-income people in all of the cities analyzed, regardless of transportation mode. The results and data outputs of the Access to Opportunities Project are made publicly available, creating a rich dataset that can be used to improve the planning and evaluation of public policies aimed to promote sustainable and inclusive cities. </p>
   
 summary: " "
 
@@ -63,9 +38,9 @@ url_poster: ""
 
 # Add custom link (AQUI!!!)
 links:
-- name: Sumário Executivo
+- name: Executive summary
   url: http://repositorio.ipea.gov.br/bitstream/11058/9586/2/td_2535_sumex.pdf
-- name: Figuras
+- name: Figures
   url: http://repositorio.ipea.gov.br/bitstream/11058/9586/6/figuras2019_v1.0_20200116.zip
 
 
@@ -82,6 +57,6 @@ links:
 ---
 
 
-__Citação__:
+__Citation__:
 
 Pereira, R. H. M., Braga, C. K. V., Serra, Bernardo, & Nadalin, V. (2019). Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019. ***Texto para Discussão Ipea, 2535***.

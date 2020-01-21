@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Projeto Acesso a Oportunidades"
+title = "Access to Opportunities Project"
 subtitle = ""
 
 [design]
@@ -51,25 +51,25 @@ subtitle = ""
  
 +++
 
+<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a href="http://www.ipea.gov.br/">Institute for Applied Economic Research (Ipea)</a> 
+with the aim to study transport accessibility and inequalities of access to opportunities in Brazilian cities. </p>
+
+## Goals:
 <p align="justify">
-O Projeto Acesso a Oportunidades é uma pesquisa coordenada pelo <a href="http://www.ipea.gov.br/">Instituto de Pesquisa Econômica Aplicada (Ipea)</a> e que visa compreender a condições de transporte e as desigualdades de acesso a oportunidades nas cidades brasileiras.
+The project has three goals:
+
+ 1. Estimate people's access to employment opportunities, health and education services by transport mode in Brazil's largest urban areas
+ 
+ 2. Create open datasets to annually monitor urban accessibility conditions in Brazilian cities
+ 
+ 3. Build research networks to use these datasets in comparative studies and in the planning and evaluation of public policies.
 </p>
 
-## Objetivos:
-<p align="justify">
-O projeto tem três objetivos:
-
- 1. Estimar anualmente o acesso da população a oportunidades de trabalho, serviços de saúde e educação por modo de transporte nos maiores centros urbanos do Brasil
- 2. Criar uma base de dados abertos para acompanhar anualmente as condições de acessibilidade urbana nas cidades brasileiras
- 3. Construir redes de pesquisa para utilizar esses dados em estudos comparativos e no planejamento e avaliação de políticas públicas
-</p>
 
 
+## First Results, 2019:
 
-## Primeiros Resultados, 2019:
-
-<p align="justify"> 
-Na sua primeira edição (2019), a pesquisa traz estimativas de acesso a empregos formais, estabelecimentos de saúde que atendem pelo SUS (com nível de atendimento de baixa, média e alta complexidade) e escolas públicas (de ensino infantil, fundamental e médio) para as 20 maiores cidades do Brasil. Para isso, o projeto combina dados de registros administrativos, pesquisas amostrais, dados de imagens de satélite e de mapeamento colaborativo para calcular níveis de acessibilidade em alta resolução espacial (aproxidamente na escala de quarteirão). Essas estimativas também são feitas de maneira desagregada por grupos socioeconômicos segundo nível de renda e cor/raça. <a href="/acessooportunidades/publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui</a>.
+<p align="justify"> The first edition of the project (2019) brings estimates of accessibility to jobs, schools and healthcare facilities in the 20 largest cities of Brazil. To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at high spatial resolution and disaggregated by socioeconomic groups according to income level and race. <a href="/acessooportunidades/publication/2019_td2535/"> Download the full report with results and detailed methodology here</a>.
 </p>
 
 <p align="center">
