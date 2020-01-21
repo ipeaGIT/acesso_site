@@ -57,8 +57,11 @@ with the aim to study transport accessibility and inequalities of access to oppo
 ## Goals:
 <p align="justify">
 The project has three goals:
+
  1. Estimate people's access to employment opportunities, health and education services by transport mode in Brazil's largest urban areas
+ 
  2. Create open datasets to annually monitor urban accessibility conditions in Brazilian cities
+ 
  3. Build research networks to use these datasets in comparative studies and in the planning and evaluation of public policies.
 </p>
 
