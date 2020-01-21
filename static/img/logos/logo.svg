@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="228"
-   height="58"
-   viewBox="0 0 60.32498 15.345847"
+   width="353.42667"
+   height="96.378494"
+   viewBox="0 0 93.510755 25.500181"
    version="1.1"
    id="svg8"
    inkscape:export-filename="/home/kaue-novo/Documents/ipea/acesso_site/static/img/logos/logo_teste1.png"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="98.036282"
-     inkscape:cy="32.340059"
+     inkscape:zoom="1.979899"
+     inkscape:cx="157.51196"
+     inkscape:cy="27.962148"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,11 @@
      inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="10" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -57,7 +61,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-281.65402)">
+     transform="translate(-0.75650088,-271.81449)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -93,29 +97,30 @@
          id="tspan827" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:0.25;font-family:sans-serif;letter-spacing:-10.572752px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="0.70077866"
-       y="288.65948"
-       id="text839"><tspan
+       style="font-style:normal;font-weight:normal;font-size:9.44955063px;line-height:0.25;font-family:sans-serif;letter-spacing:4.10633945px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39373127"
+       x="0.60012954"
+       y="254.58852"
+       id="text839"
+       transform="scale(0.89768009,1.1139826)"><tspan
          sodipodi:role="line"
          id="tspan837"
-         x="0.70077866"
-         y="288.65948"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85000002;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';text-align:start;letter-spacing:1.05833423px;word-spacing:-0.00264583px;text-anchor:start;stroke-width:0.26458332"><tspan
-   style="font-size:7.76111794px;line-height:0.85000002"
-   id="tspan829">A</tspan><tspan
-   style="font-size:7.05556202px"
-   id="tspan835">CESSO </tspan><tspan
-   id="tspan850"
-   style="font-size:6.35000566px">A</tspan> </tspan><tspan
+         x="0.60012954"
+         y="254.58852"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85000002;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:start;letter-spacing:3.17500472px;word-spacing:-0.0039373px;text-anchor:start;stroke-width:0.39373127"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.54946041px;line-height:0.85000002;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:3.17500472px;stroke-width:0.39373127"
+   id="tspan829">A<tspan
+   style="font-size:9.44956112px;letter-spacing:3.17500472px;stroke-width:0.39373127"
+   id="tspan828">CESSO</tspan></tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.49950981px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:3.17500472px;stroke-width:0.39373127"
+   id="tspan835"> <tspan
+   style="font-size:7.34965849px;letter-spacing:3.17500472px;stroke-width:0.39373127"
+   id="tspan830">A</tspan></tspan> </tspan><tspan
          sodipodi:role="line"
-         x="0.70077866"
-         y="295.25644"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85000002;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';text-align:start;letter-spacing:1.05833423px;word-spacing:-0.00264583px;text-anchor:start;stroke-width:0.26458332"
-         id="tspan841"><tspan
-           style="font-size:7.76111794px;line-height:0.85000002"
-           id="tspan833">O</tspan><tspan
-           style="font-size:7.05556202px"
-           id="tspan838">PORTUNIDADES</tspan></tspan></text>
+         x="0.60012954"
+         y="264.40555"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.54946041px;line-height:0.85000002;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:start;letter-spacing:3.17500472px;word-spacing:-0.0039373px;text-anchor:start;stroke-width:0.39373127"
+         id="tspan841">O<tspan
+   style="font-size:9.44956112px;letter-spacing:3.17500472px;stroke-width:0.39373127"
+   id="tspan834">PORTUNIDADES</tspan></tspan></text>
   </g>
 </svg>
