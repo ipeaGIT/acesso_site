@@ -4,27 +4,27 @@ authors:
 # bio: Cidades e equidade, Mobilidade urbana, Data science.
 education:
   courses:
-  - course: MSc Engenharia Urbana
-    institution: Universidade Federal do Rio de Janeiro (UFRJ)
+  - course: MSc Urban engineering
+    institution: Federal University of Rio de Janeiro (UFRJ)
     year: 2018
-  - course: MSc Economia e econometria
-    institution: Universidade Panthéon-Sorbonne (Paris 1)
+  - course: MSc Economics and Econometrics
+    institution: University Paris 1 Panthéon-Sorbonne
     year: 2010
-  - course: BSc Economia e econometria
-    institution: Universidade Panthéon-Sorbonne (Paris 1)
+  - course: BSc Economics and Econometrics
+    institution: University Paris 1 Panthéon-Sorbonne
     year: 2008
 
-institution: Instituto de Políticas de Transporte & Desenvolvimento - ITDP
+institution: Institute for Transportation and Development - ITDP Brazil
 year: 2019
 email: "bernardo.serra@itdp.org"
 interests:
-  - Cidades e equidade
-  - Mobilidade urbana
+  - Cities and equity
+  - Urban mobility
   - Data science
 
 name: Bernardo  Serra
 organizations:
-  - name: Instituto de Políticas de Transporte & Desenvolvimento
+  - name: Institute for Transportation and Development - ITDP Brazil
 url: ""
 role: Gerente de Políticas Públicas
 social:
