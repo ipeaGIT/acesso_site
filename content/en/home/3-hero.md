@@ -57,5 +57,4 @@ title = ""
 # <p align="right"> <img align="right" src="/acessooportunidades/img/sp.gif" width="500"> </p>
 
 +++
-<p align="justify"> Quanto tempo você leva para chegar até o hospital ou escola mais próxima da sua casa?
-Quantos postos de trabalho você consegue acessar em menos de uma hora?  </p>
+<p align="justify"> How much time does it take you to get to the nearest hospital or school? How many jobs can you reach in less than an hour? </p>
