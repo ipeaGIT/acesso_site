@@ -65,7 +65,7 @@ subtitle = ""
   </div>
   <div class="col-md-6 order-md-2 text-center text-md-left">
     <div 
-    class="hero-lead"><h2> Urban accessibility ...  
+    class="hero-lead"><h2> Urban accessibility  
     </div>
     <p align="justify"> is the  ease with which people can reach activities such as employment opportunities, health and education services. The accessibility levels in a city or neighbourhood depend on the efficiency and connectivity of the transport network but also on the proximity between people and activities. The promotion of more sustainable, inclusive and smart cities and mobility systems requires policies that improve overall urban accessibility and reduce inequalities in access to opportunities. </p>
     
