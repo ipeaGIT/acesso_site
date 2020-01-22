@@ -60,9 +60,9 @@ subtitle = ""
         <h2 class="mb-4">Coordinator</h2>
       </div>
       <div class="col-12 col-md-12 people-person">
-        <a href="/acessooportunidades/authors/admin/"><img class="portrait" src="/acessooportunidades/authors/admin/avatar_rafael_hua2182735cf7a3c88055629d3e1e4e07f_24756_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar"></a>
+        <a href="/acessooportunidades/en/authors/admin/"><img class="portrait" src="/acessooportunidades/authors/admin/avatar_rafael_hua2182735cf7a3c88055629d3e1e4e07f_24756_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar"></a>
         <div class="portrait-title">
-          <h2><a href="/acessooportunidades/authors/admin/">Rafael H. M. Pereira</a></h2>
+          <h2><a href="/acessooportunidades/en/authors/admin/">Rafael H. M. Pereira</a></h2>
           <h3>Instituto de Pesquisa Econômica Aplicada - Ipea</h3>
           <ul class="network-icon" aria-hidden="true">
             <li>
@@ -97,9 +97,9 @@ subtitle = ""
         </div>
         <!-- Aqui comeca a div da pessoa -->
         <div class="col-12 col-md-6 col-lg-6 people-person">
-          <a href="/acessooportunidades/authors/kaue/"><img class="portrait" src="/acessooportunidades/authors/kaue/avatar_kaue_hu17ceb230b98668f03052a5062a7cfc89_17703_250x250_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+          <a href="/acessooportunidades/en/authors/kaue/"><img class="portrait" src="/acessooportunidades/authors/kaue/avatar_kaue_hu17ceb230b98668f03052a5062a7cfc89_17703_250x250_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
           <div class="portrait-title">
-            <h2><a href="/acessooportunidades/authors/kaue/">Carlos Kauê Vieira Braga</a></h2>
+            <h2><a href="/acessooportunidades/en/authors/kaue/">Carlos Kauê Vieira Braga</a></h2>
             <h3>Instituto de Pesquisa Econômica Aplicada - Ipea</h3>
             <ul class="network-icon" aria-hidden="true">
               <li>
@@ -127,13 +127,13 @@ subtitle = ""
         </div>
         <!-- Aqui comeca a div da pessoa -->
         <div class="col-12 col-md-6 col-lg-6 people-person">
-          <a href="/acessooportunidades/authors/vanessa/"><img class="portrait" src="/acessooportunidades/authors/vanessa/avatar_vanessa_hu0c8e6dd287778b7ea7aed7cbda46457b_1503806_250x250_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+          <a href="/acessooportunidades/en/authors/vanessa/"><img class="portrait" src="/acessooportunidades/authors/vanessa/avatar_vanessa_hu0c8e6dd287778b7ea7aed7cbda46457b_1503806_250x250_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
           <div class="portrait-title">
             <h2><a href="/acessooportunidades/authors/vanessa/">Vanessa Nadalin</a></h2>
             <h3>Instituto de Pesquisa Econômica Aplicada - Ipea</h3>
             <ul class="network-icon" aria-hidden="true">
               <li>
-                <a href="/acessooportunidades/vanessa.nadalin@ipea.gov.br">
+                <a href="/acessooportunidades/en/vanessa.nadalin@ipea.gov.br">
                   <i class="fas fa-envelope"></i>
                 </a>
               </li>
@@ -153,9 +153,9 @@ subtitle = ""
         <h2 class="mb-4">Partners</h2>
       </div>
       <div class="col align-self-center people-person">
-        <a href="/acessooportunidades/authors/bernardo/"><img class="portrait" src="/acessooportunidades/authors/bernardo/avatar_bernardo_hu960622ff408bafdbccba288dadce9969_443442_250x250_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+        <a href="/acessooportunidades/en/authors/bernardo/"><img class="portrait" src="/acessooportunidades/authors/bernardo/avatar_bernardo_hu960622ff408bafdbccba288dadce9969_443442_250x250_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
         <div class="portrait-title">
-          <h2><a href="/acessooportunidades/authors/bernardo/">Bernardo  Serra</a></h2>
+          <h2><a href="/acessooportunidades/en/authors/bernardo/">Bernardo  Serra</a></h2>
           <h3>Instituto de Políticas de Transporte &amp; Desenvolvimento - ITDP</h3>
           <ul class="network-icon" aria-hidden="true">
             <li>
