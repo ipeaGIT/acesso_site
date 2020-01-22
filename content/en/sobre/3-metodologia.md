@@ -69,4 +69,4 @@ The methodology of the project involves 4 main  steps.
  * <strong>Minimum travel time</strong> to the closest activity
  * <strong>Cumulative opportunity measure </strong> with the proportion of activities in the city that are accessible within a given time threshold (calculated for multiple thresholds).
 
-<a href="/acessooportunidades/publication/2019_td2535/">More info about data sources and detailed methodology here</a>.
+<a href="/acessooportunidades/en/publication/2019_td2535/">More info about data sources and detailed methodology here</a>.

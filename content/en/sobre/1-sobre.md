@@ -51,7 +51,7 @@ subtitle = ""
  
 +++
 
-<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a href="http://www.ipea.gov.br/">Institute for Applied Economic Research (Ipea)</a> 
+<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61">Institute for Applied Economic Research (Ipea)</a> 
 with the aim to study transport accessibility and inequalities of access to opportunities in Brazilian cities. </p>
 
 ## Goals:
@@ -69,7 +69,7 @@ The project has three goals:
 
 ## First Results, 2019:
 
-<p align="justify"> The first edition of the project (2019) brings estimates of accessibility to jobs, schools and healthcare facilities in the 20 largest cities of Brazil. To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at high spatial resolution and disaggregated by socioeconomic groups according to income level and race. <a href="/acessooportunidades/publication/2019_td2535/"> Download the full report with results and detailed methodology here</a>.
+<p align="justify"> The first edition of the project (2019) brings estimates of accessibility to jobs, schools and healthcare facilities in the 20 largest cities of Brazil. To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at high spatial resolution and disaggregated by socioeconomic groups according to income level and race. <a href="/acessooportunidades/en/publication/2019_td2535/"> Download the full report with results and detailed methodology here</a>.
 </p>
 
 <p align="center">
