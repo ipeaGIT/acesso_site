@@ -49,7 +49,7 @@ user_groups:
 ---
 
 <p align="justify">
-Rafael works as a researcher and head of the data science team of the Department of Regional, Urban and Environmental Studies and Policies at Ipea. His research is broadly interested in how urban and transport policies shape the spatial organization of cities, human mobility patterns as well as their impacts on social and health inequalities. Rafael is particularly interested in the distributive justice and equity concerns underlying impact assessment of urban and transport planning policies and their effects on inequalities in access to opportunities. </p>
+Rafael works as a researcher and head of the data science team of the Department of Regional, Urban and Environmental Studies and Policies at Ipea. His research is broadly interested in how urban and transport policies shape the spatial organization of cities, human mobility patterns as well as their impacts on social and health inequalities. Rafael is particularly interested in the equity concerns underlying impact assessment of urban and transport planning policies and their effects on inequalities in access to opportunities. </p>
 
 <p align="justify">
 His research received the 2017 Lee Schipper Memorial Scholarship from the World Resources Institute (WRI). More recently, in 2019, his work received the award for best PhD thesis in transportation by the American Association of Geographers (AAG) and the Young Researcher of the Year Award by the International Transport Forum (ITF/OECD).

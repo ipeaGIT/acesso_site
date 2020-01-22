@@ -41,7 +41,5 @@ user_groups:
 - Equipe
 ---
 
-<p align="justify">
-Kauê has a MSc in Transportation Engineering at Federal University of Ceará (UFC - Brazil) and is currently a research assistant at Institute for Applied Economic Research (Ipea - Brazil). His interests are focused on public transit, with dedication to characteristic data (GTFS, smart card and GPS) and how these can help estimating indicators that help us to understand social and spatial inequalities in access to opportunities in urban centers. 
-</p>
+<p align="justify"> Kauê has a MSc in Transportation Engineering at Federal University of Ceará (UFC - Brazil) and is currently a research assistant at the Institute for Applied Economic Research (Ipea). Kauê works at the intersection between public transport and data science, and he is particularly interested in exploring how characteristic data such as GTFS, smart card and GPS can help us understand social and spatial inequalities in access to opportunities in urban centers. </p>
 
