@@ -26,7 +26,7 @@ name: Bernardo  Serra
 organizations:
   - name: Institute for Transportation and Development - ITDP Brazil
 url: ""
-role: Gerente de Políticas Públicas
+role: Public Policy Manager
 social:
 - icon: envelope
   icon_pack: fas

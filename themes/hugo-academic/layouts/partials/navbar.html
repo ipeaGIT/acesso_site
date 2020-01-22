@@ -131,7 +131,7 @@
       {{ if .IsTranslated }}
       <li class="nav-item dropdown i18n-dropdown">
         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-          <img class = "country_logo" src="{{ printf "/img/%s.png" (index site.Data.i18n.languages .Lang)  | relURL}}"  width="40" align="right">
+          <img class = "country_logo" src="{{ printf "/img/%s.png" (index site.Data.i18n.languages .Lang)  | relURL}}"  width="30" align="right">
         </a>
         <div class="dropdown-menu">
           <div class="dropdown-item i18n-active font-weight-bold">
