@@ -18,7 +18,10 @@ education:
     year: 2003
     
 interests:
-  - Economia Urbana, Política Urbana, Habitação Popular e Mobilidade Urbana
+  - Economia Urbana
+  - Política Urbana
+  - Habitação Popular
+  - Mobilidade Urbana
   
 organizations:
   - name: Instituto de Pesquisa Econômica Aplicada - Ipea

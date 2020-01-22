@@ -17,8 +17,8 @@ email: "rafael.pereira@ipea.gov.br"
 institution: Institute for Applied Economic Research - Ipea
 
 interests:
-- Transporte e mobilidade
-- Cidades e Equidade
+- Transport justice
+- Cities and Equity
 - Spatial Data Science
 - Estudos urbanos e regionais
 
@@ -28,7 +28,7 @@ organizations:
 - name: Institute for Applied Economic Research - Ipea
   url: "ipea.gov.br"
 
-role: Pesquisador (Ipea)
+role: Researcher (Ipea)
 
 social:
 - icon: envelope
@@ -49,9 +49,8 @@ user_groups:
 ---
 
 <p align="justify">
-Rafael é pesquisador e chefe da assessoria de métodos quantitativos da Diretoria de Estudos Regionais, Urbanos e Ambientais do Ipea. Sua pesquisa investiga o papel das políticas urbanas e de transporte na organização espacial das cidades e nos padrões de mobilidade urbana, bem como seus impactos distributivos nas desigualdades sociais e de saúde. Rafael tem particular interesse em questões de equidade na avaliação de políticas e seus efeitos sobre as desigualdades de acesso às oportunidades.
-</p>
+Rafael works as a researcher and head of the data science team of the Department of Regional, Urban and Environmental Studies and Policies at Ipea. His research is broadly interested in how urban and transport policies shape the spatial organization of cities, human mobility patterns as well as their impacts on social and health inequalities. Rafael is particularly interested in the distributive justice and equity concerns underlying impact assessment of urban and transport planning policies and their effects on inequalities in access to opportunities. </p>
 
 <p align="justify">
-Em 2017, sua pequisa recebeu o prêmio Lee Schipper Memorial Scholarship da World Resources International (WRI). Mais recentemente, em 2019, seu trabalho recebeu o prêmio de melhor tese de doutorado em transportes pela Associação Americana de Geografia (AAG) e prêmio de jovem pesquisador do ano pelo International Transport Forum (ITF) da OCDE.
+His research received the 2017 Lee Schipper Memorial Scholarship from the World Resources Institute (WRI). More recently, in 2019, his work received the award for best PhD thesis in transportation by the American Association of Geographers (AAG) and the Young Researcher of the Year Award by the International Transport Forum (ITF/OECD).
 </p>

@@ -7,23 +7,26 @@ email: "vanessa.nadalin@ipea.gov.br"
 institution: Instituto de Pesquisa Econômica Aplicada - Ipea
 education:
   courses:
-  - course: Doutorado em Economia
-    institution: Universidade de São Paulo (USP)
+  - course: PhD in Economics
+    institution: University of São Paulo (USP)
     year: 2010
-  - course: BSc em Economia
-    institution: Universidade de São Paulo (USP)
+  - course: BSc in Economics
+    institution: University of São Paulo (USP)
     year: 2004
-  - course: BSc em Relações Internacionais
+  - course: BSc in International Relations
     institution: PUC São Paulo
     year: 2003
     
 interests:
-  - Economia Urbana, Política Urbana, Habitação Popular e Mobilidade Urbana
+  - Urban economics
+  - Urban policies
+  - Social housing
+  - Urban mobility
   
 organizations:
-  - name: Instituto de Pesquisa Econômica Aplicada - Ipea
+  - name: Institute for Applied Economic Research - Ipea
 url: ""
-role: Pesquisadora (Ipea)
+role: Researcher (Ipea)
 
 social:
 - icon: envelope
@@ -38,5 +41,5 @@ user_groups:
 - Equipe
 ---
 <p align="justify">
-Pesquisadora de carreira do Instituto de Pesquisa Econômica Aplicada (Ipea) desde 2009. Atualmente é pesquisadora visitante na Universidade da California em Irvine, no departamento de economia. Foi chefe da assessoria de métodos quantitativos da Diretoria de Estudos Regionais, Urbanos e Ambientais do Ipea.
+Vanessa G. Nadalin works as a tenured researcher at the Institute for Applied Economic Research (IPEA) since 2009. Vanessa has a PhD in Economic Theory at the University of São Paulo. She is currently a visiting scholar at the University of California Irvine (Economics Department). She has previously headed the data science team of the Department of Regional, Urban and Environmental Studies and Policies at Ipea. Her fields of interest are Urban Economics, Urban Policy, Housing and Urban Mobility.
 </p>
