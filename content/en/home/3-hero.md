@@ -42,13 +42,13 @@ title = ""
 # Note. An optional note to show underneath the links.
 
 [cta]
-  url = "/en/mapa"
+  url = "/acessooportunidades/mapa/"
   label = "Explore the interactive map"
   icon_pack = "fas"
   icon = "globe-americas"
 
 [cta_alt]
-  url = "/en/dados"
+  url = "/acessooportunidades/en/dados/"
   label = "Download the data"
   icon_pack = "fas"
   icon = "database"
