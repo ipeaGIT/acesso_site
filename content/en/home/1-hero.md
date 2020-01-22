@@ -1,4 +1,4 @@
-﻿+++
++++
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -67,4 +67,10 @@ subtitle = ""
     <div 
     class="hero-lead"><h2> Urban accessibility ...  
     </div>
-    <p align="justify"> is the easiness to reach jobs, healthcare and educational opportunities. O nível de acessibilidade de uma cidade ou bairro depende da eficência e conectividade da rede de transporte, mas também da proximidade entre pessoas e atividades. A promoção de cidades mais sustentáveis, inclusivas e inteligentes exige políticas que melhorem a acessibilidade urbana e reduzam as desigualdades de acesso a oportunidades. </p>
+    <p align="justify"> is the  ease with which people can reach activities such as employment opportunities, health and education services. The accessibility levels in a city or neighbourhood depend on the efficiency and connectivity of the transport network but also on the proximity between people and activities. The promotion of more sustainable, inclusive and smart cities and mobility systems requires policies that improve overall urban accessibility and reduce inequalities in access to opportunities. </p>
+    
+    
+    
+    
+    
+    
