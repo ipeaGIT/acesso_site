@@ -4,25 +4,25 @@ authors:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-    - course: MSc em Engenharia de Transportes
-      institution: Universidade Federal do Ceará (UFC)
+    - course: MSc in Transportation Engineering
+      institution: Federal University of Ceara (UFC) - Brazil
       year: 2019
 
-    - course: BSc em Engenharia Civil
-      institution: Universidade Federal do Ceará (UFC)
+    - course: BSc em Civil Engineering 
+      institution: Federal University of Ceará (UFC) - Brazil
       year: 2016
 
-institution: Instituto de Pesquisa Econômica Aplicada - Ipea
+institution: Institute for Applied Economic Research - Ipea - Brazil
 email: "kaue@det.ufc.br"
 interests:
-  - Acessibilidade Urbana
-  - Análise de dados
-  - Dados de transporte público
+  - Urban Accessibility
+  - Dada Analysis
+  - Public Transport Data
 name: Carlos Kauê Vieira Braga
 organizations:
-  - name: Universidade Federal do Ceará
+  - name: Federal University of Ceará
 url: ""
-role: Assistente de Pesquisa (Ipea)
+role: Research Assistant (Ipea)
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,6 +42,6 @@ user_groups:
 ---
 
 <p align="justify">
-Kauê é mestre em Engenharia de Transporte pela Universidade Federal do Ceará e assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Tem interesse focado em transporte público, com dedicação especial aos dados característicos (GTFS, bilhetagem e GPS) e em como estes podem ajudar na estimação de indicadores para compreender melhor as desigualdades sócio-espaciais ao acesso a oportunidades nas cidades
-
+Kauê has a MSc in Transportation Engineering at Federal University of Ceará (UFC - Brazil) and is currently a research assistant at Institute for Applied Economic Research (Ipea - Brazil). His interests are focused on public transit, with dedication to characteristic data (GTFS, smart card and GPS) and how these can help estimating indicators that help us to understand social and spatial inequalities in access to opportunities in urban centers. 
 </p>
+

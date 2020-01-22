@@ -46,9 +46,10 @@ user_groups:
 ---
 
 <p align="justify">  
-Bernardo Serra é gerente de políticas públicas do Instituto de Política de Transporte e Desenvolvimento (ITDP Brasil) no qual coordenada a plataforma <a href="https://mobilidados.org.br/">MobiliDADOS</a> e as ações de apoio técnico, geração de dados e advocacy para promoção de políticas públicas com base em evidências no Brasil.
+
+Bernardo Serra is policy manager at the Institute for Transportation and Development Policy (ITDP), a global non-profit organization at the forefront of innovation, using technical expertise, direct advocacy, and policy guidance to mitigate the impacts of climate change, improve air quality, and support prosperous, sustainable, and equitable cities. He manages data collection and analysis of the <a href="https://mobilidados.org.br/">MobiliDADOS</a> platform and is in charge of the technical support and advocacy activities aiming to promote evidence-based policies in Brazilian cities.
 </p>
 
 <p align="justify">  
-Bernardo atua há cerca de 10 anos na elaboração, implementação e gestão de projetos de desenvolvimento sustentável no setor privado e em instituições sem fins lucrativos nacionais e internacionais. Desde 2016, vem se dedicando a aprimorar suas habilidades em data science de modo a gerar conhecimento que auxiliam gestores públicos no planejamento urbano inclusivo e sustentável.
+Bernardo has been managing sustainable development projects for the past 10 years, dealing with national and international private, public and non-profit organizations. Since 2016, he has been increasing his data science skills to produce knowledge for the formulation of inclusive and sustainable urban policies. 
 </p>
