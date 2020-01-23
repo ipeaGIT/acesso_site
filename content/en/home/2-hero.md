@@ -51,5 +51,5 @@ subtitle = ""
 +++
 
 <p align="justify"> 
-The <strong>Access to Opportunities Project</strong> calculates estimates of access to jobs, health and education services by transport mode for Brazil's largest cities. It uses different accessibility metrics to estimate urban accessibility levels at high spatial resolution and disaggregated by socioeconomic groups. All the publications, data outputs and computational code developed in the project can be found and downloaded from this website. <a href="sobre/">More detailed info about the project here.</a>
+The <strong>Access to Opportunities Project</strong> calculates people's access to jobs, health and education services by different transport modes for Brazil's largest cities. It uses different accessibility metrics to estimate urban accessibility levels at a high spatial resolution and disaggregated by socioeconomic groups. All the publications, data outputs and computational code developed in the project can be found and downloaded from this website. <a href="sobre/">More detailed info about the project here.</a>
 </p>
