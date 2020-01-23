@@ -63,7 +63,7 @@ A metologia da pesquisa envolve 4 etapas.
 </p>
  
 <p align="justify"> 
- 3. Num terceiro passo, são processados dados de topografia, rede viária e de transporte público em formato GTFS para estimar uma matriz de tempo de deslocamento entre todos os pares de hexágonos. Estas estimativas foram feitas para cada modo de transporte (a pé, bicicleta e transporte público) utilizando-se o OpenTripPlanner (OTP), um algoritmo aberto de roteamento de redes de transporte multimodal. O OTP gera estimativas de tempo de viagem de porta a porta, incluindo tempos de caminhada, de espera, de viagem e eventuais transferências.
+ 3. Num terceiro passo, são processados dados de topografia, rede viária e de transporte público em formato GTFS para estimar uma matriz de tempo de deslocamento entre todos os pares de hexágonos. Estas estimativas foram feitas para cada modo de transporte (a pé, bicicleta e transporte público) utilizando-se o <a href="https://www.opentripplanner.org/" target="_blank">OpenTripPlanner (OTP)</a>, um algoritmo aberto de roteamento de redes de transporte multimodal. O OTP gera estimativas de tempo de viagem de porta a porta, incluindo tempos de caminhada, de espera, de viagem e eventuais transferências.
 </p>
 
 <p align="justify"> 

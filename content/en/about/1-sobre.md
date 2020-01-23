@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "0", "30px", "0"]
+  padding = ["30px", "0", "25px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -51,29 +51,31 @@ subtitle = ""
  
 +++
 
-<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61">Institute for Applied Economic Research (Ipea)</a> 
-with the aim to study transport accessibility and inequalities of access to opportunities in Brazilian cities. </p>
+<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a href="https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61">Institute for Applied Economic Research (Ipea)</a> with the aim to study transport accessibility and inequalities in access to opportunities in Brazilian cities.
+</p>
+<br />
+
 
 ## Goals:
 <p align="justify">
 The project has three goals:
 
- 1. Estimate people's access to employment opportunities, health and education services by transport mode in Brazil's largest urban areas
+ 1. To estimate people's access to employment opportunities, health and education services by transport mode in Brazil's largest urban areas
  
- 2. Create open datasets to annually monitor urban accessibility conditions in Brazilian cities
+ 2. To create open datasets to monitor urban accessibility conditions in Brazilian cities on an annual basis
  
- 3. Build research networks to use these datasets in comparative studies and in the planning and evaluation of public policies.
+ 3. To build research networks to use these datasets in comparative studies and in the planning and evaluation of public policies
 </p>
+<br />
 
 
+## First Results:
 
-## First Results, 2019:
-
-<p align="justify"> The first edition of the project (2019) brings estimates of accessibility to jobs, schools and healthcare facilities in the 20 largest cities of Brazil. To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at high spatial resolution and disaggregated by socioeconomic groups according to income level and race. <a href="/acessooportunidades/en/publication/2019_td2535/"> Download the full report with results and detailed methodology here</a>.
+<p align="justify"> The first edition of the project (2019) includes accessibility estimates by active transport modes (walking and cycling) for the 20 largest cities in the country, and by public transport for 7 major cities (see figure below). To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at a high spatial resolution and disaggregated by socioeconomic groups according to income level and race. <a href="/acessooportunidades/en/publication/2019_td2535/"> Download here the full report with results and detailed methodology</a>.
 </p>
 
 <p align="center">
-<img align="center" src="/acessooportunidades/img/munis2019.png" width="1000">
+<img align="center" src="/acessooportunidades/img/munis2019_en.png" width="1000">
 </p>
 
 

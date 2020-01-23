@@ -5,13 +5,13 @@ authors:
 education:
   courses:
   - course: DPhil in Geography
-    institution: Oxford University
+    institution: Oxford University, UK
     year: 2018
   - course: MSc in Demography
-    institution: State University of Campinas (Unicamp)
+    institution: State University of Campinas (Unicamp), Brazil
     year: 2008
   - course: BSc in Sociology
-    institution: University of Braslia (UnB)
+    institution: University of Braslia (UnB), Brazil
     year: 2006
 email: "rafael.pereira@ipea.gov.br"
 institution: Institute for Applied Economic Research - Ipea
@@ -20,7 +20,7 @@ interests:
 - Transport justice
 - Cities and Equity
 - Spatial Data Science
-- Estudos urbanos e regionais
+- Transport policies
 
 
 name: Rafael H. M. Pereira
@@ -49,8 +49,8 @@ user_groups:
 ---
 
 <p align="justify">
-Rafael works as a researcher and head of the data science team of the Department of Regional, Urban and Environmental Studies and Policies at Ipea. His research is broadly interested in how urban and transport policies shape the spatial organization of cities, human mobility patterns as well as their impacts on social and health inequalities. Rafael is particularly interested in the equity concerns underlying impact assessment of urban and transport planning policies and their effects on inequalities in access to opportunities. </p>
+Rafael works as a researcher and head of the data science team of the Department of Regional, Urban and Environmental Studies and Policies at Ipea. His research looks broadly at how urban and transport policies shape the spatial organization of cities, human mobility patterns as well as their impacts on social and health inequalities. Rafael is particularly interested in the equity concerns underlying impact assessment of urban and transport planning policies and their effects on inequalities in access to opportunities. </p>
 
 <p align="justify">
-His research received the 2017 Lee Schipper Memorial Scholarship from the World Resources Institute (WRI). More recently, in 2019, his work received the award for best PhD thesis in transportation by the American Association of Geographers (AAG) and the Young Researcher of the Year Award by the International Transport Forum (ITF/OECD).
+Rafael received the 2017 Lee Schipper Memorial Scholarship from the World Resources Institute (WRI). More recently, in 2019, his work received the award for best PhD thesis in transportation by the American Association of Geographers (AAG) and the Young Researcher of the Year Award by the International Transport Forum (ITF/OECD).
 </p>

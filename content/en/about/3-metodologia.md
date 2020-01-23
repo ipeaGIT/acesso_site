@@ -52,16 +52,16 @@ subtitle = ""
 
 # Methodology:
 
-The methodology of the project involves 4 main  steps.
+The methodology of the project involves 4 main  steps:
 
 <p align="justify">
  1. First, each city is divided using a hexagonal spatial grid where each cell is 357 meters long (short diagonal). </p>
 
 <p align="justify"> 
- 2. The hexagonal grid is then used to spatially aggreagate population data from the national census, administrative records with the location of formal jobs (low-, medium- and high-qualification), public schools (early childhood education, primary education and high school education) and publich health services (low, medium and high complexity medical care). </p>
+ 2. The hexagonal grid is then used to spatially aggreagate population data from the national census, administrative records with the location of formal jobs (low-, medium- and high-qualification jobs), public schools (early childhood, primary and high school education) and publich health services (low, medium and high complexity medical care). </p>
 
 <p align="justify"> 
- 3. In the third steps, data on topography, road street network and public transport data in GTFS format are combined to calculate travel-time estimates between every pair of hexagon cells. These estimates are calculated by transport mode (walking, cycling and public transport) using OpenTripPlanner (OTP), a multimodal transportation network analysis tool. The method considers door-to-door travel-time estimates, including walking, waiting and transfer times as well as in-vehicle times. </p>
+ 3. In the third step, data on public transport (GTFS format), on topography and street network are combined to calculate travel-time estimates between every pair of hexagon cells. These estimates are calculated by transport mode (walking, cycling and public transport) using <a href="https://www.opentripplanner.org/" target="_blank">OpenTripPlanner (OTP)</a>, a multimodal transportation network analysis tool. The method considers door-to-door travel-time estimates, including in-vehicle times, walking, waiting as well as transfer times.</p>
 
 <p align="justify"> 
  4. The results of steps (2) and (3) are combined to calculate accessibility levels by transport mode. For the 2019 edition of the project, two accessibility indicators have been calculated: </p>
