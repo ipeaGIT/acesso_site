@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.LanguageCode | default "en-us" }}">
 
-{{ partial "site_head" . }}
+{{ partial "site_head_map" . }}
 <body id="top" data-offset="70" data-target="{{ if or .IsHome (eq .Type "maps") }}#navbar-main{{else}}#TableOfContents{{end}}" {{ if not (.Scratch.Get "light") }}class="dark"{{end}}>
 
 

@@ -227,3 +227,5 @@
 # Custom
 - id: contact_ipea
   translation: Contact
+- id: map
+  translation: Map
