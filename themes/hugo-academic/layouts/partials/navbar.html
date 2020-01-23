@@ -68,7 +68,7 @@
         {{ end }}
 
         {{/* Get active page. */}}
-        {{ $is_link_in_current_path := in $current_page.RelPermalink .URL }}
+        {{ $is_link_in_current_path := in $current_page.RelPermalink .URL}}
         {{ $is_widget_page := or $current_page.IsHome (eq $current_page.Type "widget_page") }}
         {{ $hash := findRE "#(.+)" .URL }}
         {{ $is_same_page := $is_link_in_current_path }}
@@ -82,7 +82,7 @@
         {{ end }}
 
         <li class="nav-item">
-          <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
+            <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
           </a>
         </li>

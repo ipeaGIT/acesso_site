@@ -6,8 +6,11 @@
 [pt]
   languageCode = "pt"
   contentDir = "content/pt/"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title= "Acesso a Oportunidades"
 
 # Uncomment the lines below to configure your website in a second language.
 [en]
   languageCode = "en"
   contentDir = "content/en/"
+  title = "Access to Oportunities"
+  logo = "logos/logo_en.png"

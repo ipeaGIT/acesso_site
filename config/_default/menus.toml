@@ -5,31 +5,31 @@
 
 [[main]]
   name = "Sobre"
-  url = "sobre/"
+  url = "/sobre/"
   weight = 10
 
 
 [[main]]
   name = "Mapa"
-  url = "mapa/"
+  url = "/mapa/"
   weight = 15
   
   
 [[main]]
   name = "Dados"
-  url = "dados/"
+  url = "/dados/"
   weight = 20
 
 
 [[main]]
   name = "Publicações"
-  url = "publicacoes/"
+  url = "/publicacoes/"
   weight = 25
   
   
 [[main]]
   name = "Equipe"
-  url = "equipe/"
+  url = "/equipe/"
   weight = 45
   
 # [[main]]

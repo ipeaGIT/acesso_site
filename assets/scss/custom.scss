@@ -161,7 +161,9 @@ img:hover {
 }
 
 
-.navbar .navbar-nav .nav-link:active {
+.navbar .navbar-nav .nav-link.active,
+#navbar-main .main-menu-item ul li .nav-link.active,
+.navbar-light .navbar-nav .nav-link.active {
     font-weight: bold !important;
     color: #2962ff !important;
 }
