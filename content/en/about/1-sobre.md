@@ -51,7 +51,9 @@ subtitle = ""
  
 +++
 
-<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61>Institute for Applied Economic Research (Ipea)</a> with the aim to study transport accessibility and inequalities in access to opportunities in Brazilian cities. </p> <br />
+<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a href="https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61">Institute for Applied Economic Research (Ipea)</a> with the aim to study transport accessibility and inequalities in access to opportunities in Brazilian cities.
+</p>
+<br />
 
 
 ## Goals:
