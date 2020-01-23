@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "0", "30px", "0"]
+  padding = ["30px", "0", "25px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -51,8 +51,8 @@ subtitle = ""
  
 +++
 
-<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61>Institute for Applied Economic Research (Ipea)</a> with the aim to study transport accessibility and inequalities in access to opportunities in Brazilian cities. </p>
-<br />
+<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61>Institute for Applied Economic Research (Ipea)</a> with the aim to study transport accessibility and inequalities in access to opportunities in Brazilian cities. </p> <br />
+
 
 ## Goals:
 <p align="justify">
