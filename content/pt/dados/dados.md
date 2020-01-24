@@ -1,4 +1,4 @@
-+++
+﻿+++
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -70,8 +70,29 @@ As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponívei
 |  <a style="color: gray; opacity: 0.30;">2022</a>  |   |   |   |   |
 |  <img width=500/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=200/> |  <img width=200/> |  <img width=200/> | <img width=200/>   |
 
- - <a href="/acessooportunidades/publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui.</a>
+<strong>Citação:</strong> Caso você use os dados e/ou os scripts desse projeto, pedimos por gentileza que você cite o estudo original:
 
+<ul>
+  <li>Pereira, R. H. M., Braga, C. K. V., Serra, Bernardo, & Nadalin, V. (2019). Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019. <i> Texto para Discussão Ipea, 2535 </i>. Instituto de Pesquisa Econômica Aplicada (Ipea). Available at http://repositorio.ipea.gov.br/handle/11058/9586</li>
+</ul>  
+
+
+BibTeX citation:
+```
+@article{pereira2019desigualdades ,
+  title={Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019},
+  author={Pereira, Rafael H. M. and Braga, Carlos Kau{\^e} Vieira and Serra, Bernardo, and Nadalin, Vanessa},
+  journal = {Texto para Discuss{\~a}o IPEA},
+  year={2019},
+  volume = {2535},
+  issn = {14154765},
+  url = {http://repositorio.ipea.gov.br/handle/11058/9586},
+  language = {Portuguese},
+  publisher={Instituto de Pesquisa Econ{\^o}mica Aplicada (Ipea)}
+}
+```
+
+ - <a href="/acessooportunidades/publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui.</a>
 
 
 <!-- Color of Hyperlinks on this page -->
