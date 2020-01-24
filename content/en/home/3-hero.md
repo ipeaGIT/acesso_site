@@ -10,7 +10,7 @@ title = ""
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "pawel-nolbert-4u2U8EO9OzY-unsplash.jpg"
 # hero_media = "noun_Question_1193829.png"  
- hero_media = "sp.gif"
+ hero_media = "gif_cidades.gif"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,13 +42,13 @@ title = ""
 # Note. An optional note to show underneath the links.
 
 [cta]
-  url = "/acessooportunidades/map/"
+  url = "/acessooportunidades/mapa/"
   label = "Explore the interactive map"
   icon_pack = "fas"
   icon = "globe-americas"
 
 [cta_alt]
-  url = "/acessooportunidades/data/"
+  url = "/acessooportunidades/dados/"
   label = "Download the data"
   icon_pack = "fas"
   icon = "database"
