@@ -42,15 +42,17 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["30px", "0", "30px", "0"]
 
+
+
 [advanced]
- # Custom CSS. 
- css_style = ""
- 
+ # Custom CSS.
+ css_style = "style.css"
+
  # CSS class.
  css_class = ""
 
-+++
 
++++
 <p align="justify">
 As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem tanto estimativas de acessibilidade calculadas pelo projeto como dados populacionais e socioeconômicos e de localização de serviços de saúde e educação em alta resolução espacial para todas as cidades analisadas. Obs.: os dados de distribuição espacial de empregos não são compartilhados por questões de sigilo dos dados gerados pelo Ministério da Economia.
 </p>
@@ -77,7 +79,7 @@ As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponívei
 
 BibTeX citation:
 ```
-@article{pereira2019desigualdades ,
+@article{pereira2019desigualdades,
   title={Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019},
   author={Pereira, Rafael H. M. and Braga, Carlos Kau{\^e} Vieira and Serra, Bernardo, and Nadalin, Vanessa},
   journal = {Texto para Discuss{\~a}o IPEA},
