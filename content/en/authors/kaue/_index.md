@@ -16,7 +16,7 @@ institution: Institute for Applied Economic Research - Ipea - Brazil
 email: "kaue@det.ufc.br"
 interests:
   - Urban Accessibility
-  - Dada Analysis
+  - Data Analysis
   - Public Transport Data
 name: Carlos Kauê Vieira Braga
 organizations:
@@ -26,7 +26,7 @@ role: Research Assistant (Ipea)
 social:
 - icon: envelope
   icon_pack: fas
-  link: carlos.braga@ipea.gov.br
+  link: mailto::carlos.braga@ipea.gov.br
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ckauebraga

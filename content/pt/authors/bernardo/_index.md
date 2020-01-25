@@ -30,7 +30,7 @@ role: Gerente de Políticas Públicas
 social:
 - icon: envelope
   icon_pack: fas
-  link: bernardo.serra@itdp.org
+  link: mailto::bernardo.serra@itdp.org
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BernardoSerra7

@@ -66,7 +66,7 @@ subtitle = ""
           <h3>Institute for Applied Economic Research - Ipea</h3>
           <ul class="network-icon" aria-hidden="true">
             <li>
-              <a href="/acessooportunidades/rafael.pereira@ipea.gov.br">
+              <a href="mailto::rafael.pereira@ipea.gov.br">
                 <i class="fas fa-envelope"></i>
               </a>
             </li>
@@ -103,7 +103,7 @@ subtitle = ""
             <h3>Institute for Applied Economic Research - Ipea</h3>
             <ul class="network-icon" aria-hidden="true">
               <li>
-                <a href="/acessooportunidades/carlos.braga@ipea.gov.br">
+                <a href="mailto::carlos.braga@ipea.gov.br">
                   <i class="fas fa-envelope"></i>
                 </a>
               </li>
@@ -133,7 +133,7 @@ subtitle = ""
             <h3>Institute for Applied Economic Research - Ipea</h3>
             <ul class="network-icon" aria-hidden="true">
               <li>
-                <a href="/acessooportunidades/en/vanessa.nadalin@ipea.gov.br">
+                <a href="mailto::vanessa.nadalin@ipea.gov.br">
                   <i class="fas fa-envelope"></i>
                 </a>
               </li>
@@ -159,7 +159,7 @@ subtitle = ""
           <h3>Institute for Transportation and Development - ITDP Brazil</h3>
           <ul class="network-icon" aria-hidden="true">
             <li>
-              <a href="/acessooportunidades/bernardo.serra@itdp.org">
+              <a href="mailto::bernardo.serra@itdp.org">
                 <i class="fas fa-envelope"></i>
               </a>
             </li>

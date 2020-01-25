@@ -33,7 +33,7 @@ role: Researcher (Ipea)
 social:
 - icon: envelope
   icon_pack: fas
-  link: rafael.pereira@ipea.gov.br
+  link: mailto::rafael.pereira@ipea.gov.br
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/UrbanDemog
