@@ -26,7 +26,7 @@ role: Assistente de Pesquisa (Ipea)
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto::carlos.braga@ipea.gov.br
+  link: mailto:carlos.braga@ipea.gov.br
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ckauebraga

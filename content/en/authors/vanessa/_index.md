@@ -31,7 +31,7 @@ role: Researcher (Ipea)
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto::vanessa.nadalin@ipea.gov.br
+  link: mailto:vanessa.nadalin@ipea.gov.br
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0J-zbJQAAAAJ&hl
