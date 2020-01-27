@@ -27,7 +27,7 @@ image:
 # icons
 url_pdf: http://repositorio.ipea.gov.br/bitstream/11058/9586/1/td_2535.pdf
 url_code: https://github.com/ipeaGIT/acesso_oport
-url_dataset: /acessooportunidades/dados/
+url_dataset: /acessooportunidades/en/dados/
 url_poster: ""
 url_project: ""
 url_slides: ""
