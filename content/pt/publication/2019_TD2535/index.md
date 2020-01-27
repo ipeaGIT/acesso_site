@@ -84,4 +84,4 @@ links:
 
 __Citação__:
 
-Pereira, R. H. M., Braga, C. K. V., Serra, Bernardo, & Nadalin, V. (2019). Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019. ***Texto para Discussão Ipea, 2535***.
+Pereira, R. H. M., Braga, C. K. V., Serra, Bernardo, & Nadalin, V. (2019). Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019. ***Texto para Discussão Ipea, 2535***. Instituto de Pesquisa Econômica Aplicada (Ipea). Disponível em http://repositorio.ipea.gov.br/handle/11058/9586
