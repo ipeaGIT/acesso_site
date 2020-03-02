@@ -67,4 +67,4 @@ subtitle = ""
     <div 
     class="hero-lead"><h2> Acessibilidade urbana  
     </div>
-    <p align="justify"> é facilidade de se chegar até oportunidades de emprego, serviços de saúde e educação, atividades culturais, áreas verdes, etc. O nível de acessibilidade de uma cidade ou bairro depende da eficência e conectividade da rede de transporte, mas também da proximidade entre pessoas e atividades. A promoção de cidades mais sustentáveis, inclusivas e inteligentes exige políticas que melhorem a acessibilidade urbana e reduzam as desigualdades de acesso a oportunidades. </p>
+    <p align="justify"> é facilidade de se chegar até oportunidades de emprego, serviços de saúde e educação, atividades culturais, áreas verdes, etc. O nível de acessibilidade de uma cidade ou bairro depende da eficiência e conectividade da rede de transporte, mas também da proximidade entre pessoas e atividades. A promoção de cidades mais sustentáveis, inclusivas e inteligentes exige políticas que melhorem a acessibilidade urbana e reduzam as desigualdades de acesso a oportunidades. </p>
