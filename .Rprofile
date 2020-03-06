@@ -8,6 +8,7 @@ library(later)
 
 options(
   digits = 4, formatR.indent = 2, expressions=10000,
-  blogdown.author = NULL, blogdown.generator.server = TRUE,
+  blogdown.author = NULL, 
+  # blogdown.generator.server = TRUE,
   blogdown.hugo.server = c('-D', '-F', '--navigateToChanged')
 )
