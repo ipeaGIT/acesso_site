@@ -58,12 +58,23 @@ subtitle = ""
 O Projeto Acesso a Oportunidades conta com parceria e financiamento da Secretaria de Mobilidade Urbana do Ministério de Desenvolvimento Regional (Semob/MDR). A parceria envolve diversas frentes de ação que serão realizadas pela equipe do Ipea, entre elas:
 </p>
 
-* Realização de estudos sobre as condições de mobilidade e acessibilidade urbana nas cidades brasileiras
- 
-* Levantamento anual das condições de acessibilidade nas grandes cidades no Brasil, com compartilhamento aberto de dados e scripts computacionais. Esse diagnóstico da acessibilidade será utilizado para informar a elaboração do Plano Nacional de Mobilidade Urbana, bem como para alimentar o Sistema Nacional de Informações em Mobilidade Urbana (SIMU) e monitorar a efetividade das políticas do setor
- 
-* Realização de eventos e oficinas para disseminação destes dados junto a gestores públicos, sociedade civil e pesquisadores
 
-* Realização de estudos para avaliar ex-post o impacto de acessibilidade de investimentos em mobilidade urbana que já foram implementados, assim como para avaliar ex-ante os potenciais impactos de acessibilidade de projetos que ainda estão em fase de planejamento
+<p align="justify"> 
+ - Realização de estudos sobre as condições de mobilidade e acessibilidade urbana nas cidades brasileiras
+</p>
 
-* Capacitação da equipe técnica da Semob/MDR sobre métodos e técnicas de análise de acessibilidade para avaliação de políticas públicas.
+<p align="justify"> 
+ - Levantamento anual das condições de acessibilidade nas grandes cidades no Brasil, com compartilhamento aberto de dados e scripts computacionais. Esse diagnóstico da acessibilidade será utilizado para informar a elaboração do Plano Nacional de Mobilidade Urbana, bem como para alimentar o Sistema Nacional de Informações em Mobilidade Urbana (SIMU) e monitorar a efetividade das políticas do setor
+</p>
+
+<p align="justify"> 
+ - Realização de eventos e oficinas para disseminação destes dados junto a gestores públicos, sociedade civil e pesquisadores
+</p>
+
+<p align="justify"> 
+ - Realização de estudos para avaliar ex-post o impacto de acessibilidade de investimentos em mobilidade urbana que já foram implementados, assim como para avaliar ex-ante os potenciais impactos de acessibilidade de projetos que ainda estão em fase de planejamento
+</p>
+
+<p align="justify"> 
+ - Capacitação da equipe técnica da Semob/MDR sobre métodos e técnicas de análise de acessibilidade para avaliação de políticas públicas.
+</p>

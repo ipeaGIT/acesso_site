@@ -49,11 +49,18 @@ css_style = ""
 # CSS class.
 css_class = ""
 
+#<p align="center">
+#<a href="https://itdpbrasil.org/"><img align="center" #src="/acessooportunidades/img/parceiros/logo_itdp.png" width="250"></a><a #href="https://www.fnp.org.br/"><img align="center" src="/acessooportunidades/img/parceiros/logo_fnp.png" #width="250"></a> <a href="https://www.mdr.gov.br/"><img align="center" #src="/acessooportunidades/img/parceiros/logo_mdr_square.png" width="250"></a>
+# </p>
+
+# <img align="right" src="/acessooportunidades/img/parceiros/logo_itdp.png" width="160"> <img align="right" src="/acessooportunidades/img/parceiros/logo_fnp.png" width="160"> <img align="right" src="/acessooportunidades/img/parceiros/logo_mdr_square.png" width="160">
 +++
 
 
 
-
 <p align="center">
-<a href="https://itdpbrasil.org/"><img align="center" src="/acessooportunidades/img/parceiros/logo_itdp.png" width="250"></a>
-</p>
+<a href="https://itdpbrasil.org/"><img align="center" src="/acessooportunidades/img/parceiros/logo_itdp.png" width="250"></a><a href="https://www.fnp.org.br/"><img align="center" src="/acessooportunidades/img/parceiros/logo_fnp.png" width="250"></a> <a href="https://www.mdr.gov.br/"><img align="center" src="/acessooportunidades/img/parceiros/logo_mdr_square.png" width="250"></a>
+ </p>
+
+
+
