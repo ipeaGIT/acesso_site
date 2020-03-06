@@ -52,29 +52,29 @@ subtitle = ""
 
 +++
 
-# Partnership with Semob/MDR:
+# Parceria com Semob/MDR:
 
 <p align="justify"> 
-The Access to Opportunities Project is partnership with and receives funding from the Secretariat for Urban Mobility of the Brazilian Ministry of Regional Development (Semob/MDR). This partnership involves a series of activities conducted by the Ipea team such as:
+O Projeto Acesso a Oportunidades conta com parceria e financiamento da Secretaria de Mobilidade Urbana do Ministério de Desenvolvimento Regional (Semob/MDR). A parceria envolve diversas frentes de ação que serão realizadas pela equipe do Ipea, entre elas:
 </p>
 
 
 <p align="justify"> 
- - Conducting studies on the urban mobility and accessibility conditions in Brazilian cities
+ - Realização de estudos sobre as condições de mobilidade e acessibilidade urbana nas cidades brasileiras
 </p>
 
 <p align="justify"> 
- - Generating annual estimates of urban accessibility for Brazil’s largest cities using open access computational scripts and data outputs. These estimates will be used to inform the elaboration of the National Plan of Urban Mobility, as well as to support the National System of Urban Mobility Information (SIMU) and to monitor the effectives of transport policies. 
+ - Levantamento anual das condições de acessibilidade nas grandes cidades no Brasil, com compartilhamento aberto de dados e scripts computacionais. Esse diagnóstico da acessibilidade será utilizado para informar a elaboração do Plano Nacional de Mobilidade Urbana, bem como para alimentar o Sistema Nacional de Informações em Mobilidade Urbana (SIMU) e monitorar a efetividade das políticas do setor
 </p>
 
 <p align="justify"> 
- - Organizing seminars and workshops to disseminate this data with local governments, civil society and academic researchers.
+ - Realização de eventos e oficinas para disseminação destes dados junto a gestores públicos, sociedade civil e pesquisadores
 </p>
 
 <p align="justify"> 
- - Conducting ex-post studies to assess the accessibility impacts of implemented transport investments, as well as examining ex-ante the future accessibility impacts of transport projects in early planning stages.
+ - Realização de estudos para avaliar ex-post o impacto de acessibilidade de investimentos em mobilidade urbana que já foram implementados, assim como para avaliar ex-ante os potenciais impactos de acessibilidade de projetos que ainda estão em fase de planejamento
 </p>
 
 <p align="justify"> 
- - Organizing workshops and trainings targeted to the Semob/MDR team to enhance their skills on the use of transport accessibility analysis in policy evaluation.
+ - Capacitação da equipe técnica da Semob/MDR sobre métodos e técnicas de análise de acessibilidade para avaliação de políticas públicas.
 </p>
