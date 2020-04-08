@@ -1,7 +1,7 @@
 ---
 title: "Mobilidade urbana e o acesso ao Sistema Único de Saúde para casos suspeitos e graves de COVID-19 nas 20 maiores cidades do Brasil"
 
-abstract: <p align="justify"> "Na primeira parte desta nota, foram estimadas para as 20 maiores cidades do Brasil quantas são e onde moram as pessoas mais vulneráveis (baixa renda e acima de 50 anos de idade) que (a) não conseguiriam acessar a pé em menos de 30 minutos pelo menos um estabelecimento que atende pelo SUS e que poderia fazer triagem e encaminhamento de pacientes suspeitos de COVID-19, e que (b) moram a uma distância maior do que 5 Km de um hospital com capacidade de internar pacientes em estado grave de insuficiência respiratória. Na segunda parte, este estudo traz ainda algumas estimativas do número de leitos de UTI adulto e respiradores por habitante na zona de captação de cada hospital." </p>
+abstract: <p align="justify"> Na primeira parte desta nota, foram estimadas para as 20 maiores cidades do Brasil quantas são e onde moram as pessoas mais vulneráveis (baixa renda e acima de 50 anos de idade) que (a) não conseguiriam acessar a pé em menos de 30 minutos pelo menos um estabelecimento que atende pelo SUS e que poderia fazer triagem e encaminhamento de pacientes suspeitos de COVID-19, e que (b) moram a uma distância maior do que 5 Km de um hospital com capacidade de internar pacientes em estado grave de insuficiência respiratória. Na segunda parte, este estudo traz ainda algumas estimativas do número de leitos de UTI adulto e respiradores por habitante na zona de captação de cada hospital. </p>
   
 summary: ""
 
@@ -63,4 +63,4 @@ url_poster: ""
 
 __Citation__:
 
-Rafael H. M.; Braga, C. K. V.; Servo, L. M.; Serra, B.; Amaral, P.; Gouveia, N. (2020). Mobilidade urbana e o acesso ao Sistema Único de Saúde para casos suspeitos e graves de COVID-19 nas 20 maiores cidades do Brasil. ***Nota Técnica N.14***. Instituto de Pesquisa Econômica Aplicada (Ipea). Disponível em http://repositorio.ipea.gov.br/handle/11058/3884
+Pereira, R. H. M.; Braga, C. K. V.; Servo, L. M.; Serra, B.; Amaral, P.; Gouveia, N. (2020). Mobilidade urbana e o acesso ao Sistema Único de Saúde para casos suspeitos e graves de COVID-19 nas 20 maiores cidades do Brasil. ***Nota Técnica N.14***. Instituto de Pesquisa Econômica Aplicada (Ipea). Disponível em http://repositorio.ipea.gov.br/handle/11058/3884
