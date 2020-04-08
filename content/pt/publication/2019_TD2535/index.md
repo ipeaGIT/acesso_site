@@ -36,8 +36,14 @@ authors:
 - bernardo
 - vanessa
 
-date: "2019-12-12T00:00:00Z"
+date: 2019-12-12
+
 doi: ""
+publication: '*Relatório Anual*'
+publication_short: ''
+publication_types:
+- "3"
+
 
 featured: false
 projects: []

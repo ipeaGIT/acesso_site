@@ -5,17 +5,17 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 25  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
-title = "Publicações"
-# subtitle = "Publicações do projeto"
+title = "Outras publicações"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how many pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -27,9 +27,18 @@ title = "Publicações"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "4"
     exclude_featured = false
   
+  #  0: Uncategorized
+  #  1: Conference proceedings
+  #  2: Journal
+  #  3: Work in progress
+  #  4: Technical report
+  #  5: Book
+  #  6: Book chapter
+
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
