@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Access to Opportunities Project"
+title = ""
 subtitle = ""
 
 [design]
@@ -51,8 +51,11 @@ subtitle = ""
  
 +++
 
-<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a href="https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61">Institute for Applied Economic Research (Ipea)</a> with the aim to study transport accessibility and inequalities in access to opportunities in Brazilian cities.
-</p>
+<img align="left" src="/acessooportunidades/img/icon-512.png" width="80">
+<p align="justify"><h1> Access to Opportunities Project</h1></p>
+
+<img align="right" src="/acessooportunidades/img/logos/logoipea_azul.png" width="400">
+<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a href="https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61">Institute for Applied Economic Research (Ipea)</a> with the aim to study transport accessibility and inequalities in access to opportunities in Brazilian cities. </p>
 <br />
 
 

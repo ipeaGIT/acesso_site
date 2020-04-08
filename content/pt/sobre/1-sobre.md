@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Projeto Acesso a Oportunidades"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,11 +49,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
+ 
 +++
 
-<p align="justify">
-O Projeto Acesso a Oportunidades é uma pesquisa coordenada pelo <a href="http://www.ipea.gov.br/">Instituto de Pesquisa Econômica Aplicada (Ipea)</a> e que visa compreender a condições de transporte e as desigualdades de acesso a oportunidades nas cidades brasileiras.
-</p>
+<img align="left" src="/acessooportunidades/img/icon-512.png" width="80">
+<p align="justify"><h1> Projeto Acesso a Oportunidades</h1></p>
+
+<img align="right" src="/acessooportunidades/img/logos/logoipea_azul.png" width="400">
+<p align="justify"> O Projeto Acesso a Oportunidades é uma pesquisa coordenada pelo <a href="http://www.ipea.gov.br/">Instituto de Pesquisa Econômica Aplicada (Ipea)</a> e que visa compreender a condições de transporte e de desigualdades de acesso a oportunidades nas cidades brasileiras. </p>
 <br />
 
 ## Objetivos:
@@ -65,6 +68,8 @@ O projeto tem três objetivos:
  3. Construir redes de pesquisa para utilizar esses dados em estudos comparativos e no planejamento e avaliação de políticas públicas
 </p>
 <br />
+
+
 
 
 ## Primeiros Resultados:

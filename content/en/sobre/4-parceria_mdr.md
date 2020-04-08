@@ -55,7 +55,7 @@ subtitle = ""
 # Partnership with Semob/MDR:
 
 <p align="justify"> 
-The Access to Opportunities Project is partnership with and receives funding from the Secretariat for Urban Mobility of the Brazilian Ministry of Regional Development (Semob/MDR). This partnership involves a series of activities conducted by the Ipea team such as:
+The Access to Opportunities Project is a partnership with the Secretariat for Urban Mobility of the Brazilian Ministry of Regional Development (Semob/MDR). This partnership involves a series of activities conducted by the Ipea team such as:
 </p>
 
 

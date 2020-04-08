@@ -55,7 +55,7 @@ subtitle = ""
 # Parceria com Semob/MDR:
 
 <p align="justify"> 
-O Projeto Acesso a Oportunidades conta com parceria e financiamento da Secretaria de Mobilidade Urbana do Ministério de Desenvolvimento Regional (Semob/MDR). A parceria envolve diversas frentes de ação que serão realizadas pela equipe do Ipea, entre elas:
+O Projeto Acesso a Oportunidades conta com parceria da Secretaria de Mobilidade Urbana do Ministério de Desenvolvimento Regional (Semob/MDR). A parceria envolve diversas frentes de ação que serão realizadas pela equipe do Ipea, entre elas:
 </p>
 
 
