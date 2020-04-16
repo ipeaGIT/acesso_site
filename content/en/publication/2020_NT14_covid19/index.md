@@ -53,7 +53,10 @@ url_poster: ""
 links:
 - name: Executive Summary
   url: https://www.ipea.gov.br/portal/images/stories/PDFs/nota_tecnica/200409_nota_tecnica_sumex_14.pdf
-
+- name: Podcast Summary
+  url: https://soundcloud.com/ipea-online/estudo-mapeia-acesso-ao-sus-para-pacientes-mais-vulneraveis-ao-novo-coronavirus
+- name: Video Summary
+  url: https://www.youtube.com/watch?v=bEdsjkPe11Y&feature
 
 #tags:
 #- Affordability
