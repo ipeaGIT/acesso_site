@@ -10,8 +10,8 @@
 
 
 [[main]]
-  name = "Mapa"
-  url = "mapa/"
+  name = "Explore"
+  url = "explore/"
   weight = 15
   
   

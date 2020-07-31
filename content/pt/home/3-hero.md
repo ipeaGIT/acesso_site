@@ -43,7 +43,7 @@ title = ""
 
 [cta]
   url = "/mapa"
-  label = "Explore o mapa interativo"
+  label = "Explore os resultados"
   icon_pack = "fas"
   icon = "globe-americas"
 
