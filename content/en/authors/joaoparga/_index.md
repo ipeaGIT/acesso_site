@@ -42,6 +42,5 @@ user_groups:
 ---
 
 <p align="justify">
-MSc in Economics at Federal University of Minas Gerais (UFMG) and Research Assistant at the Institute for Applied Economic Research (IPEA). My main research interest is interplay between intra-urban space, population sociodemographics and labor markets, looking particularly at how urban accessibility affects and is affected by these factors.
-
+MSc in Economics at Federal University of Minas Gerais (UFMG) and Research Assistant at the Institute for Applied Economic Research (IPEA). My main research interest is the interplay between intra-urban space, population sociodemographics and labor markets, looking particularly at how urban accessibility affects and is affected by these factors.
 </p>

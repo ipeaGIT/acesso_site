@@ -22,7 +22,7 @@ interests:
   - Spatial Data Science
 name: Marcus Saraiva
 organizations:
-  - name: Instituto de Pesquisa EconÃ´mica Aplicada - Ipea
+  - name: Instituto de Pesquisa Econômica Aplicada - Ipea
 url: ""
 role: Assistente de Pesquisa (Ipea)
 social:
