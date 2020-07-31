@@ -36,7 +36,7 @@
   {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
     {{ $link = .RelPermalink }}
   {{ end }}
-  <div class="col-12 col-sm-auto people-person">
+  <div class="col-12 col-sm-6 col-md-4 col-lg-3 people-person">
     {{ $src := "" }}
     {{ if site.Params.gravatar }}
       {{ $src = printf "https://s.gravatar.com/avatar/%s?s=200" (md5 .Params.email) }}
