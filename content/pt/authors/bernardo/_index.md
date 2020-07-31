@@ -1,7 +1,6 @@
 ---
 authors:
   - bernardo
-# bio: Cidades e equidade, Mobilidade urbana, Data science.
 education:
   courses:
   - course: MSc Engenharia Urbana
@@ -15,7 +14,6 @@ education:
     year: 2008
 
 institution: Instituto de Políticas de Transporte & Desenvolvimento - ITDP
-year: 2019
 email: "bernardo.serra@itdp.org"
 interests:
   - Cidades e equidade
