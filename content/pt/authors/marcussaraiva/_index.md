@@ -44,5 +44,5 @@ user_groups:
 ---
 
 <p align="justify">
-Marcus Ã© urbanista e doutor em CiÃªncia de InformaÃ§Ãµes GeogrÃ¡ficas pela Birkbeck, Universidade de Londres. Atualmente Ã© assistente de pesquisa no Instituto de Pesquisa EconÃ´mica Aplicada (IPEA). Sua pesquisa foca nos problemas da desigualdade no acesso a oportunidades e segregaÃ§Ã£o espacial em cidades, utilizando tÃ©cnicas de modelagem e simulaÃ§Ã£o computacional de sistemas urbanos. Marcus tem particular interesse em como a utilizaÃ§Ã£o de geotecnologias associadas a dados geoespaciais podem ajudar planejadores a melhor compreender e propor soluÃ§Ãµes para problemas urbanos.
+Marcus é urbanista e doutor em Ciência de Informações Geográficas pela Birkbeck, Universidade de Londres. Atualmente é assistente de pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Sua pesquisa foca nos problemas da desigualdade no acesso a oportunidades e segregação espacial em cidades, utilizando técnicas de modelagem e simulação computacional de sistemas urbanos. Marcus tem particular interesse em como a utilização de geotecnologias associadas a dados geoespaciais podem ajudar planejadores a melhor compreender e propor soluções para problemas urbanos.
 </p>

@@ -45,7 +45,7 @@ social:
   link: https://github.com/rafapereirabr
 superuser: true
 user_groups:
-- Coordenador
+- Coordinator
 ---
 
 <p align="justify">

@@ -27,7 +27,7 @@ social:
   link: https://github.com/dhersz
 superuser: true
 user_groups:
-- Equipe
+- Team
 ---
 
 <p align="justify">

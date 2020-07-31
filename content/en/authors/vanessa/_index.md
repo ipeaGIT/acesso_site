@@ -38,7 +38,7 @@ social:
 
 superuser: true
 user_groups:
-- Equipe
+- Team
 ---
 <p align="justify">
 Vanessa G. Nadalin works as a tenured researcher at the Institute for Applied Economic Research (IPEA) since 2009. Vanessa has a PhD in Economic Theory at the University of São Paulo. She is currently a visiting scholar at the University of California Irvine (Economics Department). She has previously headed the data science team of the Department of Regional, Urban and Environmental Studies and Policies at Ipea. Her fields of interest are Urban Economics, Urban Policy, Housing and Urban Mobility.

@@ -42,7 +42,7 @@ social:
   link: https://github.com/bernardomlserra
 superuser: true
 user_groups:
-- Parceiros
+- Partners
 ---
 
 <p align="justify"> Bernardo Serra is policy manager at the Institute for Transportation and Development Policy (ITDP), a global non-profit organization at the forefront of innovation, using technical expertise, direct advocacy, and policy guidance to mitigate the impacts of climate change, improve air quality, and support prosperous, sustainable, and equitable cities. He manages data collection and analysis of the <a href="https://mobilidados.org.br/">MobiliDADOS</a> platform and is in charge of the technical support and advocacy activities aiming to promote evidence-based policies in Brazilian cities. </p>

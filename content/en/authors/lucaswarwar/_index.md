@@ -34,7 +34,7 @@ social:
   link: https://github.com/lucaswarwar
 superuser: true
 user_groups:
-- Equipe
+- Team
 ---
 
 <p align="justify">

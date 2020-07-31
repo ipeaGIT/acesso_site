@@ -39,7 +39,7 @@ social:
   link: https://github.com/joaobazzo
 superuser: true
 user_groups:
-- Equipe
+- Team
 ---
 
 <p align="justify">
