@@ -11,7 +11,7 @@
 
 [[main]]
   name = "Explore"
-  url = "explore/"
+  url = "mapa/"
   weight = 15
   
   
