@@ -41,7 +41,7 @@ tags:
 - Access to healthcare
 - Health inequalities
 - COVID-19
-- AOP
+
 
 # icons
 url_code: https://github.com/ipeaGIT/acesso_covid19

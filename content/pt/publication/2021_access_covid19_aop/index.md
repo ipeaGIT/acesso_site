@@ -36,12 +36,11 @@ projects: []
 slides: ""
 
 tags:
-- Accessibility
-- Transport equity
-- Access to healthcare
-- Health inequalities
+- Acessibilidade
+- Equidade e transporte
+- Acesso a saúde
+- Desigualdades de saúde
 - COVID-19
-- AOP
 
 # icons
 url_code: https://github.com/ipeaGIT/acesso_covid19

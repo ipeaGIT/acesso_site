@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
-title = "Other policy reports"
+title = "Other publications and policy reports"
 subtitle = ""
 
 [content]
