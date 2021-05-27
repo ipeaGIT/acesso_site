@@ -24,7 +24,7 @@ authors:
 
 
 date: "2021-05-275"
-publishDate: "2020-05-27"
+publishDate: "2021-05-27"
 
 doi: https://doi.org/10.1038/s42949-021-00020-2
 publication: '*npj Urban Sustainability*'
