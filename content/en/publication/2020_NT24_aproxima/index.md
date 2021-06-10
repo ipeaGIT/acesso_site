@@ -34,7 +34,7 @@ image:
   
 # icons
 url_pdf: https://www.ipea.gov.br/portal/images/stories/PDFs/nota_tecnica/210426_nt_dirur_n_24.pdf
-url_code: ""
+url_code: https://github.com/ipeaGIT/aproxima_nt
 url_dataset: ""
 url_poster: ""
 url_project: ""
