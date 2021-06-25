@@ -21,7 +21,7 @@ interests:
 
 
 
-name: Luiz Couto
+name: Luiz Pedro Silva
 organizations:
 - name: Instituto de Pesquisa Econômica Aplicada - Ipea
   url: "ipea.gov.br"
