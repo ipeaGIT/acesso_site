@@ -53,7 +53,10 @@ url_source: ""
 url_video: ""
 url_preprint: ""
 
-
+# Add custom link (AQUI!!!)
+links:
+- name: One pager
+  url: http://ipcig.org/publication/30359?language_content_entity=pt-br
 
 ---
 
