@@ -1,5 +1,5 @@
 ---
-title: <img src="/img/package_logo/aopdata_logo.png" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/aopdata_logo.png" width="200" align="center" alt="">
 
 abstract: <p align="justify"> <b>aopdata</b> is an R package to download data from the <a href="https://www.ipea.gov.br/acessooportunidades/en/">Access to Opportunities Project (AOP)</a>. The AOP is a research initiative led by the Institute for Applied Economic Research (Ipea) with the aim to study transport accessibility and inequalities in access to opportunities in Brazilian cities. </p>
   
@@ -67,11 +67,9 @@ links:
 
 ## **aopdata**: Data from the Access to Opportunities Project
 
-
-
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/aopdata)](https://CRAN.R-project.org/package=aopdata)  | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/aopdata?color=blue)](https://CRAN.R-project.org/package=aopdata)  | [![CRAN/METACRAN downloads per month](https://cranlogs.r-pkg.org/badges/aopdata?color=yellow)](https://CRAN.R-project.org/package=aopdata) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/aopdata) | [![R build status](https://github.com/ipeaGIT/aopdata/workflows/R-CMD-check/badge.svg)](https://github.com/ipeaGIT/aopdata/actions) |
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/aopdata)](https://CRAN.R-project.org/package=aopdata)  | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/aopdata?color=blue)](https://CRAN.R-project.org/package=aopdata)  | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/aopdata) | [![R build status](https://github.com/ipeaGIT/aopdata/workflows/R-CMD-check/badge.svg)](https://github.com/ipeaGIT/aopdata/actions) |
 |-----|-----|-----|-----|-----|-----|
 
-__Citation__:
+__Citação__:
 
 Pereira, R.H.M.; et. al (2021). aopdata: Data from the Access to Opportunities Project. R Found. Stat. Comput., Vienna. https://CRAN.R-project.org/package=aopdata.

@@ -1,5 +1,5 @@
 ---
-title: <img src="/img/package_logo/gtfstools_logo.jpg" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/gtfstools_logo.jpg" width="200" align="center" alt="">
 
 abstract: <p align="justify"> Utility functions to read, manipulate, analyse and write transit feeds in the General Transit Feed Specification (GTFS) data format. </p> 
   
@@ -73,8 +73,6 @@ links:
 
 
 
-__Citation__:
+__Citação__:
 
-Herszenhut, Daniel; Pereira, R.H.M.; Andrade, P.R.; Bazzo, J. (2021) gtfstools: General Transit Feed Specification (GTFS) Editing and Analysing
-    Tools. https://doi.org/10.5281/zenodo.5703236.
-
+Daniel Herszenhut, Rafael H. M. Pereira, Pedro R. Andrade & Joao Bazzo. (2022, May). gtfstools: General Transit Feed Specification (GTFS) Editing and Analysing Tools (Version v1.1.0). Zenodo. http://doi.org/10.5281/zenodo.6577028
