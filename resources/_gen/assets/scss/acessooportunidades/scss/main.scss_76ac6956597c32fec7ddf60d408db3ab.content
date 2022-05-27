@@ -9085,7 +9085,7 @@ img:hover {
 
 .navbar-light {
   /* box-shadow: none; */
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: .08em; }
 
 .navbar-nav {
