@@ -1,7 +1,7 @@
 ---
-title: <img src="/acessooportunidades/img/package_logo/gtfstools_logo.jpg" width="200" align="center" alt="">
+title: "gtfstools: General Transit Feed Specification (GTFS) Editing and Analysing Tools"
 
-abstract: <p align="justify"> Utility functions to read, manipulate, analyse and write transit feeds in the General Transit Feed Specification (GTFS) data format. </p> 
+abstract: <p align="justify"> gtfstools is an R package that offers a set of convenient tools for editing and analyzing transit feeds in GTFS format. </p>
   
 summary: " "
 
@@ -11,14 +11,15 @@ authors:
 - Pedro R. Andrade
 - Joao Bazzo
 
-date: "2021-02-15"
+date: "2021-02-23"
+publishDate: "2021-02-23"
 
 
-doi: ""
+doi: https://doi.org/10.5281/zenodo.6577028
 publication: '*R Package*'
 publication_short: ""
 publication_types:
-- "0"
+- "4"
 
 # Legend: 
 # 0 = Uncategorized
@@ -58,15 +59,18 @@ url_poster: ""
 # Add custom link (AQUI!!!)
 links:
 - name: CRAN
-  url: https://CRAN.R-project.org/package=gtfstools
+  url: https://cran.r-project.org/web/packages/gtfstools/index.html
 
 
-# tags:
-# - Source Themes
+tags:
+- GTFS
+- Public transport
+
 
 ---
 
-## **gtfstools**: General Transit Feed Specification (GTFS) Editing and Analysing Tools
+# Package Status
+
 
 | [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/gtfstools)](https://CRAN.R-project.org/package=gtfstools) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/gtfstools?color=blue)](https://CRAN.R-project.org/package=gtfstools) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5703236.svg)](https://doi.org/10.5281/zenodo.5703236) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/gtfstools) | [![R build status](https://github.com/ipeaGIT/gtfstools/workflows/R-CMD-check/badge.svg)](https://github.com/ipeaGIT/gtfstools/actions) |
 |-----|-----|-----|-----|-----|
@@ -75,3 +79,16 @@ links:
 __Citation__:
 
 Daniel Herszenhut, Rafael H. M. Pereira, Pedro R. Andrade & Joao Bazzo. (2022, May). gtfstools: General Transit Feed Specification (GTFS) Editing and Analysing Tools (Version v1.1.0). Zenodo. http://doi.org/10.5281/zenodo.6577028
+
+```
+@Manual{,
+  title = {gtfstools: General Transit Feed Specification (GTFS) Editing and Analysing Tools},
+  author = {Daniel Herszenhut and Rafael H. M. Pereira and Pedro R. Andrade and Joao Bazzo},
+  month = {may},
+  year = {2022},
+  publisher = {Zenodo},
+  version = {v1.1.0},
+  doi = {10.5281/zenodo.6577028},
+  url = {https://doi.org/10.5281/zenodo.6577028},
+}
+```
