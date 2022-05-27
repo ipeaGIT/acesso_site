@@ -18,7 +18,7 @@ doi: ""
 publication: '*Texto para Discussão Ipea*'
 publication_short: ''
 publication_types:
-- "3"
+- "4"
 
 
 featured: false

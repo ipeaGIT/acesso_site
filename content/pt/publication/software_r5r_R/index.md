@@ -1,5 +1,5 @@
 ---
-title: "r5r: Rapid realistic routing on multimodal transport networks with R5 [R]"
+title: "r5r: Rapid realistic routing on multimodal transport networks with R5 in R"
 
 abstract: <p align="justify"> r5r é um pacote de R para realizar de maneira eficiente análises de roteamento em redes de transporte multimodal (a pé, bicicleta, transporte público e carro). O pacote apresenta uma interface simples e amigável para utilizar R<sup>5</sup>, o que permite usuários gerarem estimativas de rotas detalhadas e calcular matrizes de tempo de viagem usam computação em paralelo. </p>
   
