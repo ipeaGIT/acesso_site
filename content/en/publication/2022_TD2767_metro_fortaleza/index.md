@@ -34,7 +34,7 @@ image:
 # icons
 url_pdf: https://www.ipea.gov.br/portal/images/stories/PDFs/TDs/220518_218180_td_2767_web.pdf
 url_code: https://github.com/ipeaGIT/avaliacao_for_2021
-url_dataset: /dados
+url_dataset: https://github.com/ipeaGIT/avaliacao_for_2021/tree/master/data
 url_poster: ""
 url_project: ""
 url_slides: ""
