@@ -1,5 +1,5 @@
 ---
-title: <img src="/acessooportunidades/img/package_logo/gtfstools_logo.jpg" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/gtfstools_logo.png" width="200" align="center" alt="">
 
 abstract: <p align="justify"> Utility functions to read, manipulate, analyse and write transit feeds in the General Transit Feed Specification (GTFS) data format. </p> 
   
@@ -11,7 +11,7 @@ authors:
 - Pedro R. Andrade
 - Joao Bazzo
 
-date: "2021-02-15"
+date: "2021-10-15"
 
 
 doi: ""
