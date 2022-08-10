@@ -1,16 +1,15 @@
 ---
-title: <img src="/acessooportunidades/img/package_logo/gtfsio_logo.png" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/accessibility_logo.png" width="200" align="center" alt="">
 
-abstract: <p align="justify"> Read and Write General Transit Feed Specification (GTFS) Files. </p>
+abstract: <p align="justify"> A set of fast and convenient functions to calculate multiple transport accessibility measures. </p>
 
 summary: " "
 
 authors:
+- admin
 - Daniel Herszenhut
-- Flavio Poletti
-- Mark Padgham
 
-date: "2021-08-15"
+date: "2021-09-15"
 
 
 doi: ""
@@ -43,7 +42,7 @@ image:
   
 # icons
 url_pdf: ""
-url_code: https://r-transit.github.io/gtfsio/
+url_code: https://github.com/ipeaGIT/accessibility
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -57,7 +56,7 @@ url_poster: ""
 # Add custom link (AQUI!!!)
 links:
 - name: CRAN
-  url: https://CRAN.R-project.org/package=gtfsio
+  url: https://CRAN.R-project.org/package=accessibility
 
 
 # tags:
@@ -65,12 +64,12 @@ links:
 
 ---
 
-## **gtfsio**: Read and Write General Transit Feed Specification (GTFS) Files 
+## **accessibility**: Transport Accessibility Metrics
 
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/gtfsio)](https://CRAN.R-project.org/package=gtfsio) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/gtfsio?color=blue)](https://CRAN.R-project.org/package=gtfsio) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/r-transit/gtfsio/) | [![R build status](https://github.com/r-transit/gtfsio/workflows/R-CMD-check/badge.svg)](https://github.com/r-transit/gtfsio/actions?query=workflow%3AR-CMD-check) |
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/accessibility)](https://CRAN.R-project.org/package=accessibility) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/accessibility?color=blue)](https://CRAN.R-project.org/package=accessibility) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/accessibility) | [![R build status](https://github.com/ipeaGIT/accessibility/workflows/R-CMD-check/badge.svg)](https://github.com/ipeaGIT/accessibility/actions) |
 |-----|-----|-----|-----|-----|
 
 
 __Citation__:
 
-Daniel Herszenhut, Flavio Poletti & Mark Padgham. (2021, November). gtfsio: Read and Write General Transit Feed Specification (GTFS) Files. (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.5650829
+Pereira, R.H.M.; Daniel Herszenhut (2022). accessibility: Transport Accessibility Metrics. R Found. Stat. Comput., Vienna. https://CRAN.R-project.org/package=accessibility.
