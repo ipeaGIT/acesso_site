@@ -55,21 +55,21 @@ subtitle = ""
 A metologia da pesquisa envolve 4 etapas.
 
 <p align="justify"> 
- 1. Primeiro, cada cidade é divida numa grade espacial de hexágonos de 357 metros de tamanho (diagonal curta).
+ 1. Primeiro, cada cidade é divida numa grade espacial de hexágonos onde cada célula tem uma área de 0.11 km<sup>2</sup>. 
 </p>
 
 <p align="justify"> 
- 2. Em seguida, essa grade de hexágonos é utilizada para reagregar espacialmente os dados populacionais e socioeconômicos do Censo Demográfico, registros administrativos com a localização de empregos formais (de baixa média e alta escolaridade), escolas públicas (educação infantil, nível fundamental e médio) e estabelecimentos de saúde que atendem pelo SUS (com nível de atendimento de baixa, média e alta complexidade).
+ 2. Em seguida, essa grade de hexágonos é utilizada para reagregar espacialmente os dados populacionais e socioeconômicos do Censo Demográfico, registros administrativos com a localização de empregos formais (de baixa média e alta escolaridade), escolas públicas (educação infantil, nível fundamental e médio), estabelecimentos de saúde que atendem pelo SUS (com nível de atendimento de baixa, média e alta complexidade) e  centros de referência de assistência social (Cras)..
 </p>
  
 <p align="justify"> 
- 3. Num terceiro passo, são processados dados de topografia, rede viária e de transporte público em formato GTFS para estimar uma matriz de tempo de deslocamento entre todos os pares de hexágonos. Estas estimativas foram feitas para cada modo de transporte (a pé, bicicleta e transporte público) utilizando-se o <a href="https://www.opentripplanner.org/" target="_blank">OpenTripPlanner (OTP)</a>, um algoritmo aberto de roteamento de redes de transporte multimodal. O OTP gera estimativas de tempo de viagem de porta a porta, incluindo tempos de caminhada, de espera, de viagem e eventuais transferências.
+ 3. Num terceiro passo, são processados dados de topografia, rede viária de transporte público em formato GTFS e histórico de velocidade do tráfego para estimar matrizes de tempo de deslocamento entre todos os pares de hexágonos para cada modo de transporte e horário do dia. Estas estimativas foram feitas para o modo automóvel utilizando-se o software ArcGIS Pro com dados históricos de velocidade das vias, e para os modos a pé, bicicleta e transporte público utilizando-se o <a href="https://ipeagit.github.io/r5r/" target="_blank">r5r</a>, um algoritmo aberto de roteamento de redes de transporte multimodal. O r5r gera estimativas de tempo de viagem de porta a porta, incluindo tempos de caminhada, de espera, de viagem e eventuais transferências.
 </p>
 
+
 <p align="justify"> 
- 4. Os resultados das etapas (2) e (3) são combinados para calcular o acesso da população a oportunidades em cada modo de transporte. Nesta edição do projeto, foram calculados dois tipos de indicadores de acessibilidade: </p>
+ 4. Os resultados das etapas (2) e (3) são combinados para calcular o acesso da população a oportunidades por cada modo de transporte. Nesta edição do projeto, foram calculados três tipos de indicadores de acessibilidade: </p>
 
  * <strong>Tempo mínimo</strong> que se leva para chegar até a oportunidade mais próxima
- * <strong>Medida cumulativa </strong> da proporção de oportunidades da cidade que são acessíveis em determinado tempo de viagem.
-
-<a href="/acessooportunidades/publication/2019_td2535/">Mais informações sobre fonte de dados e metodologia completa aqui</a>.
+ * <strong>Medida cumulativa ativa</strong>, indicando número de oportunidades da cidade que são acessíveis em determinado tempo de viagem.
+ * <strong>Medida cumulativa passiva</strong>, indicando por quantas pessoas cada hexágono da cidade pode ser acessado em determinado tempo de viagem.

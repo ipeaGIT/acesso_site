@@ -73,14 +73,16 @@ O projeto tem três objetivos:
 
 
 
-## Primeiros Resultados:
+## Resultados:
 
 <p align="justify"> 
-Na sua primeira edição (2019), a pesquisa traz estimativas de acesso a empregos, serviços de saúde e educação por modos de transporte ativo (a pé e de bicicleta) para as 20 maiores cidades do país, e por transporte público para 7 grandes cidades (figura abaixo). Para isso, o projeto combina dados de registros administrativos, pesquisas amostrais, dados de imagens de satélite e de mapeamento colaborativo para calcular níveis de acessibilidade em alta resolução espacial (aproxidamente na escala de quarteirão). Essas estimativas também são feitas de maneira desagregada por grupos socioeconômicos segundo nível de renda e cor/raça. <a href="/acessooportunidades/publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui</a>.
+
+O Projeto Acesso a Oportunidades (AOP) traz estimativas anuais de acesso a empregos, serviços saúde, educação e assistência social por modo de transporte, bem como dados sobre a distribuição espacial da população, empregos, saúde, escolas e equipamentos de assistência social em alta resolução espacial para as 20 maiores cidades do Brasil (figura abaixo). Para isso, o projeto combina dados de registros administrativos, pesquisas amostrais, dados de imagens de satélite e de mapeamento colaborativo para calcular níveis de acessibilidade em alta resolução espacial (aproxidamente na escala de quarteirão). Essas estimativas também são feitas de maneira desagregada por grupos socioeconômicos segundo nível de renda, sexo, idade e cor/raça. Detalhes sobre a metodologia nos <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">relatórios anuais do projeto</a> e sobre como baixar os dados <a href="../dados/">aqui</a>.
+
 </p>
 
 <p align="center">
-<img align="center" src="/acessooportunidades/img/munis2019.png" width="1000">
+<img align="center" src="/acessooportunidades/img/munis_2017_2019.png" width="1000">
 </p>
 
 

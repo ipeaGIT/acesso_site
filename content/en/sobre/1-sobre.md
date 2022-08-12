@@ -74,11 +74,15 @@ The project has three goals:
 
 ## First Results:
 
-<p align="justify"> The first edition of the project (2019) includes accessibility estimates by active transport modes (walking and cycling) for the 20 largest cities in the country, and by public transport for 7 major cities (see figure below). To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at a high spatial resolution and disaggregated by socioeconomic groups according to income level and race. <a href="/acessooportunidades/en/publication/2019_td2535/"> Download here the full report with results and detailed methodology</a>.
+<p align="justify"> The Access to Opportunities Project (AOP) brings annual estimates of access to jobs, health, education and social proection services by transport mode, as well as data on the spatial distribution of population and land use activities at a fine spatial resolution for the 20 largest cities in Brazil (see figure below). To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at a high spatial resolution and disaggregated by socioeconomic groups according to income level, age, sex and race. Methodological details can be found in the <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">annual reports of the project</a> and the data can be downloaded from <a href="../en/dados/">here</a>.
 </p>
 
+
+
+
+
 <p align="center">
-<img align="center" src="/acessooportunidades/img/munis2019_en.png" width="1000">
+<img align="center" src="/acessooportunidades/img/munis_2017_2019_en.png" width="1000">
 </p>
 
 
