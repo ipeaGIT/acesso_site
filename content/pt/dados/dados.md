@@ -53,92 +53,81 @@ subtitle = ""
 
 
 +++
-<p align="justify">
-As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponíveis para download. Essas bases trazem tanto estimativas de acessibilidade calculadas pelo projeto como dados populacionais e socioeconômicos e de localização de serviços de saúde e educação em alta resolução espacial para todas as cidades analisadas. Obs.: os dados de distribuição espacial de empregos não são compartilhados por questões de sigilo dos dados gerados pelo Ministério da Economia.
-</p>
-
-
 
 # Download dos dados
 
-
-| Ano | <div style="text-align: center;"><div style="display: inline-block; text-align: center;"><br/> <div style="display:flex"><div style="flex:1;padding-left:20px;"><img src="/acessooportunidades/img/logos/rstudio_logo.png" width="45" align="center"><br/> </div> | <div style="text-align: center;"> <div style="display: inline-block; text-align: center;">Geopackage<br/> <div style="display:flex">     <div style="flex:1;padding-left:5px;">          <img src="/acessooportunidades/img/logos/python_logo.png" width="150" align="center"  /> </div>      <div style="flex:1;padding-left:5px;">           <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" width="55" align="center"  />      </div>          <div style="flex:1;padding-left:5px;">           <img src="/acessooportunidades/img/logos/qgis_logo3.png" width="40" align="center"  />      </div> </div> |  <div style="text-align: center;"> Dicionário |  <div style="text-align: center;"> Código |
-| :------------- | :-------------: | :-------------: | :-------------: | :-------------: |
-|  2017 | *em breve*   | *em breve*  | *em breve*  | *em breve*  |
-|  2018 | *em breve*   | *em breve*  | *em breve*  | *em breve*  |
-| 2019  |  <a href="https://ipeagit.github.io/aopdata/">CRAN</a>  | <a href="http://repositorio.ipea.gov.br/bitstream/11058/9586/3/dados2019_v1.0_20200116.gpkg"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="http://repositorio.ipea.gov.br/bitstream/11058/9586/5/dicionario2019_v1.0_20200116.xlsx"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="https://github.com/ipeaGIT/acesso_oport/releases/tag/v2019"><i class="fab fa-github" style="font-size: 1.5em;"></i> </a> |
-|  <a style="color: gray; opacity: 0.30;">2020</a> |   |   |   |   |
-|  <a style="color: gray; opacity: 0.30;">2021</a> |   |   |   |   |
-|  <a style="color: gray; opacity: 0.30;">2022</a>  |   |   |   |   |
-|  <img width=500/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=200/> |  <img width=200/> |  <img width=200/> | <img width=200/>   |
+<p align="justify">
+As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estão disponíveis para download neste site ou pelo pacote de R <a href="https://ipeagit.github.io/aopdata/">aopdata</a>. Esses dados trazem estimativas anuais de acesso a serviços de emprego, saúde, educação e assistência social por modo de transporte, bem como dados sobre a distribuição espacial da população, empregos, saúde, escolas e equipamentos de assistência social em alta resolução espacial para todas as cidades incluídas no projeto. Detalhes sobre a metodologia nos <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">relatórios anuais do projeto</a>.
+</p>
 
 
-| Pacote de R |        Dicionário  |        Código  |
-| :----:| :------------:| :------------:|
-|  *icon* |     *icon*    |     *icon*          |
-
-## Acessibilidade
-| Ano   |   Acessibilidade modos  |        auto   |   uso solo            | 
-| :----:| :------------:| :------------:|  :-----------:| 
-|  2017 |     *icon*    |               |     *icon*    | 
-|  2018 |     *icon*    |               |     *icon*    | 
-|  2019 |     *icon*    |     *icon*    |     *icon*    | 
-
-
-## Uso do solo
-| Ano   |               | 
-| :-----:| :-----------:| 
-|  2017 |     *icon*    | 
-|  2018 |     *icon*    | 
-|  2019 |     *icon*    | 
-
-
-## População
-| Ano   |               |
-| :-----:| :------------:|
-|  2010 |    *icon*     |
-|  2022 |    *em breve* |
+| Pacote de R | Dicionário de variáveis |    Código     |
+| :----------:| :----------------------:| :------------:|
+|  <a href="https://ipeagit.github.io/aopdata/"><img src="/acessooportunidades/img/logos/rstudio_logo.png" width="30" align="center"></a>  |  [Português](https://ipeagit.github.io/aopdata/articles/data_dic_pt.html)  |  <a href="https://github.com/ipeaGIT/acesso_oport/"><i class="fab fa-github" style="font-size: 1.5em;"></i> </a>  |
+|  <img width=100/> <a style="color: gray; opacity: 0.30; text-align: center;">...</a>  |  <img width=250/> |  <img width=250/> |
 
 
 
-# side by side
+
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th> <font size="+1.5">Acessibilidade </font> </th><th> <font size="+1.5">Uso do solo </font> </th></tr>
 <tr><td>
 
-tabela aqui
+| Ano   |   <i class="fas fa-walking" style="font-size: 1.5em;"></i>  <i class="fas fa-bicycle" style="font-size: 1.5em;"></i>     |     <i class="fas fa-bus" style="font-size: 1.5em;"></i>   |   <i class="fas fa-car" style="font-size: 1.5em;"></i>    | 
+| :----:| :------------:| :------------:|  :-----------:| 
+|  2017 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_active_2017_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>   |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_publictransport_2017_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>    |               | 
+|  2018 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_active_2018_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>    |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_publictransport_2018_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>    |               | 
+|  2019 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_active_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>   |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_publictransport_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a> |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_car_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a> |
+|  <img width=100/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=140/> |  <img width=140/> |  <img width=140/> |
 
 </td><td>
 
-
-tabela aqui
+| Ano   |   Download   |
+|:-----:| :-----------:| 
+|  2017 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_landuse_2017_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>   | 
+|  2018 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_landuse_2018_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>   | 
+|  2019 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_landuse_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>   | 
+|  <img width=100/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=150/> |
 
 </td></tr> </table>
 
 
-<strong>Citação:</strong> Caso você use os dados e/ou os scripts desse projeto, pedimos por gentileza que você cite o estudo original:
 
-<ul>
-  <li>Pereira, R. H. M., Braga, C. K. V., Serra, Bernardo, & Nadalin, V. (2019). Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019. <i> Texto para Discussão Ipea, 2535 </i>. Instituto de Pesquisa Econômica Aplicada (Ipea). Available at http://repositorio.ipea.gov.br/handle/11058/9586</li>
-</ul>  
+<table>
+<tr><th> <font size="+1.5">População</font> </th><th><font size="+1.5">Grade espacial H3</font> </th></tr>
+<tr><td>
+
+| Ano   |   Download    |
+|:-----:| :------------:|
+|  2010 |    <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_population_2010_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a> |
+|  2022 |    <a style="color: gray; opacity: 0.30;">*em breve*</a> |
+|  <img width=100/> <a style="color: gray30; opacity: 0.30;">...</a>  |  <img width=200/> |
+
+</td><td>
 
 
-BibTeX citation:
-```
-@article{pereira2019desigualdades,
-  title={Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019},
-  author={Pereira, Rafael H. M. and Braga, Carlos Kau{\^e} Vieira and Serra, Bernardo, and Nadalin, Vanessa},
-  journal = {Texto para Discuss{\~a}o IPEA},
-  year={2019},
-  volume = {2535},
-  issn = {14154765},
-  url = {http://repositorio.ipea.gov.br/handle/11058/9586},
-  language = {Portuguese},
-  publisher={Instituto de Pesquisa Econ{\^o}mica Aplicada (Ipea)}
-}
-```
+| Geopackage   |  Download |
+|:-----:| :------------:|
+|  <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> <div style="display:flex">     <div style="flex:1;padding-left:5px;">          <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" width="55" align="center"  />      </div>          <div style="flex:1;padding-left:5px;">           <img src="/acessooportunidades/img/logos/qgis_logo3.png" width="40" align="center"  />          |    <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_hex_grid_v2.gpkg"><i class="fas fa-download" style="font-size: 1em;"></i></a> |
+|  <img width=200/> <a style="color: gray30; opacity: 0.30;">...</a>  |  <img width=200/> |
 
- - <a href="/acessooportunidades/publication/2019_td2535/">Baixe o relatório com resultados e metodologia completa aqui.</a>
+
+</td></tr> </table>
+
+
+
+## Citação
+
+Caso você use os dados e/ou os scripts desse projeto, pedimos por gentileza que você cite os estudos originais:
+
+**Dados de população e uso do solo**
+
+* Pereira, Rafael H. M. et al. (2022) Distribuição espacial de características sociodemográficas e localização de empregos e serviços públicos das vinte maiores cidades do Brasil. **Texto para Discussão 2772**. Ipea - Instituto de Pesquisa Econômica Aplicada. Disponível em [http://repositorio.ipea.gov.br/handle/11058/11225](http://repositorio.ipea.gov.br/handle/11058/11225)
+
+**Dados de acessibilidade**
+* Pereira, Rafael H. M. et al. (2022) Estimativas de acessibilidade a empregos e serviços públicos via transporte ativo, público e privado nas 20 maiores cidades do Brasil em 2017, 2018, 2019. **Texto para Discussão**. Ipea - Instituto de Pesquisa Econômica Aplicada.
+
+
 
 
 <!-- Color of Hyperlinks on this page -->
