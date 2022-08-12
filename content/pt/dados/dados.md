@@ -72,6 +72,50 @@ As bases de dados criadas pelo Projeto Acesso a Oportunidades estão disponívei
 |  <a style="color: gray; opacity: 0.30;">2022</a>  |   |   |   |   |
 |  <img width=500/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=200/> |  <img width=200/> |  <img width=200/> | <img width=200/>   |
 
+
+| Pacote de R |        Dicionário  |        Código  |
+| :----:| :------------:| :------------:|
+|  *icon* |     *icon*    |     *icon*          |
+
+## Acessibilidade
+| Ano   |   Acessibilidade modos  |        auto   |   uso solo            | 
+| :----:| :------------:| :------------:|  :-----------:| 
+|  2017 |     *icon*    |               |     *icon*    | 
+|  2018 |     *icon*    |               |     *icon*    | 
+|  2019 |     *icon*    |     *icon*    |     *icon*    | 
+
+
+## Uso do solo
+| Ano   |               | 
+| :-----:| :-----------:| 
+|  2017 |     *icon*    | 
+|  2018 |     *icon*    | 
+|  2019 |     *icon*    | 
+
+
+## População
+| Ano   |               |
+| :-----:| :------------:|
+|  2010 |    *icon*     |
+|  2022 |    *em breve* |
+
+
+
+# side by side
+<table>
+<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><td>
+
+tabela aqui
+
+</td><td>
+
+
+tabela aqui
+
+</td></tr> </table>
+
+
 <strong>Citação:</strong> Caso você use os dados e/ou os scripts desse projeto, pedimos por gentileza que você cite o estudo original:
 
 <ul>
