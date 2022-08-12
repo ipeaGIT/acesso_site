@@ -57,7 +57,7 @@ subtitle = ""
 # Download dos dados
 
 <p align="justify">
-As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estão disponíveis para download neste site ou pelo pacote de R <a href="https://ipeagit.github.io/aopdata/">aopdata</a>. Esses dados trazem estimativas anuais de acesso a serviços de emprego, saúde, educação e assistência social por modo de transporte, bem como dados sobre a distribuição espacial da população, empregos, saúde, escolas e equipamentos de assistência social em alta resolução espacial para todas as cidades incluídas no projeto. Detalhes sobre a metodologia nos <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">relatórios anuais do projeto</a>.
+As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estão disponíveis para download neste site ou pelo pacote de R <a href="https://ipeagit.github.io/aopdata/">aopdata</a>. Esses dados trazem estimativas anuais de acesso a empregos, serviços saúde, educação e assistência social por modo de transporte, bem como dados sobre a distribuição espacial da população, empregos, saúde, escolas e equipamentos de assistência social em alta resolução espacial para todas as cidades incluídas no projeto. Detalhes sobre a metodologia nos <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">relatórios anuais do projeto</a>.
 </p>
 
 
