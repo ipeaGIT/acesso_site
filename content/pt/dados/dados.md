@@ -64,7 +64,7 @@ As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estã
 | Pacote de R | Dicionário de variáveis |    Código     |
 | :----------:| :----------------------:| :------------:|
 |  <a href="https://ipeagit.github.io/aopdata/"><img src="/acessooportunidades/img/logos/rstudio_logo.png" width="30" align="center"></a>  |  [Português](https://ipeagit.github.io/aopdata/articles/data_dic_pt.html)  |  <a href="https://github.com/ipeaGIT/acesso_oport/"><i class="fab fa-github" style="font-size: 1.5em;"></i> </a>  |
-|  <img width=100/> <a style="color: gray; opacity: 0.30; text-align: center;">...</a>  |  <img width=250/> |  <img width=250/> |
+|  <img width=180/> <a style="color: gray; opacity: 0.30; text-align: center;">...</a>  |  <img width=180/> |  <img width=180/> |
 
 
 
@@ -78,7 +78,7 @@ As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estã
 |  2017 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_active_2017_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>   |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_publictransport_2017_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>    |               | 
 |  2018 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_active_2018_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>    |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_publictransport_2018_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>    |               | 
 |  2019 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_active_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>   |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_publictransport_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a> |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_car_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a> |
-|  <img width=100/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=140/> |  <img width=140/> |  <img width=140/> |
+|  <img width=100/> <a style="color: gray; opacity: 0.30; text-align: center;">...</a>  |  <img width=140/> |  <img width=140/> |  <img width=140/> |
 
 </td><td>
 
@@ -87,7 +87,7 @@ As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estã
 |  2017 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_landuse_2017_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>   | 
 |  2018 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_landuse_2018_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>   | 
 |  2019 |     <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_landuse_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a>   | 
-|  <img width=100/> <a style="color: gray; opacity: 0.30;">...</a>  |  <img width=150/> |
+|  <img width=100/> <a style="color: gray; opacity: 0.30; text-align: center;">...</a>  |  <img width=150/> |
 
 </td></tr> </table>
 
@@ -101,7 +101,7 @@ As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estã
 |:-----:| :------------:|
 |  2010 |    <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_population_2010_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a> |
 |  2022 |    <a style="color: gray; opacity: 0.30;">*em breve*</a> |
-|  <img width=100/> <a style="color: gray30; opacity: 0.30;">...</a>  |  <img width=200/> |
+|  <img width=100/> <a style="color: gray30; opacity: 0.30; text-align: center;">...</a>  |  <img width=200/> |
 
 </td><td>
 
@@ -109,7 +109,7 @@ As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estã
 | Geopackage   |  Download |
 |:-----:| :------------:|
 |  <div style="text-align: center;"> <div style="display: inline-block; text-align: center;"> <div style="display:flex">     <div style="flex:1;padding-left:5px;">          <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" width="55" align="center"  />      </div>          <div style="flex:1;padding-left:5px;">           <img src="/acessooportunidades/img/logos/qgis_logo3.png" width="40" align="center"  />          |    <a href=" https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_hex_grid_v2.gpkg"><i class="fas fa-download" style="font-size: 1em;"></i></a> |
-|  <img width=200/> <a style="color: gray30; opacity: 0.30;">...</a>  |  <img width=200/> |
+|  <img width=200/> <a style="color: gray30; opacity: 0.30; text-align: center;">...</a>  |  <img width=200/> |
 
 
 </td></tr> </table>
