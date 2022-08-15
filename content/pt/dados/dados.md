@@ -56,9 +56,7 @@ subtitle = ""
 
 # Download dos dados
 
-<p align="justify">
-As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estão disponíveis para download neste site ou pelo pacote de R <a href="https://ipeagit.github.io/aopdata/">aopdata</a>. Esses dados trazem estimativas anuais de acesso a empregos, serviços saúde, educação e assistência social por modo de transporte, bem como dados sobre a distribuição espacial da população, empregos, saúde, escolas e equipamentos de assistência social em alta resolução espacial para todas as cidades incluídas no projeto. Detalhes sobre a metodologia nos <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">relatórios anuais do projeto</a>.
-</p>
+<p align="justify"> As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estão disponíveis para download neste site ou pelo pacote de R <a href="https://ipeagit.github.io/aopdata/">aopdata</a>. Esses dados trazem estimativas anuais de acesso a empregos, serviços saúde, educação e assistência social por modo de transporte, bem como dados sobre a distribuição espacial da população, empregos, saúde, escolas e equipamentos de assistência social em alta resolução espacial para todas as cidades incluídas no projeto. Detalhes sobre a metodologia nos <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">relatórios anuais do projeto</a>. </p>
 
 | Pacote de R | Dicionário de variáveis | Código |
 |:---:|:---:|:---:|
@@ -70,7 +68,7 @@ As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estã
 
 <table>
 <tr><th> <font size="+1.5">Acessibilidade </font> </th><th> <font size="+1.5">Uso do solo </font> </th></tr>
-<tr><td>
+<tr><td style="text-align:center">
 
 | Ano | <i class="fas fa-walking" style="font-size: 1.5em;"></i>  <i class="fas fa-bicycle" style="font-size: 1.5em;"></i> | <i class="fas fa-bus" style="font-size: 1.5em;"></i> | <i class="fas fa-car" style="font-size: 1.5em;"></i> | 
 |:---:|:---:|:---:|:---:| 
@@ -79,7 +77,7 @@ As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estã
 | 2019 | <a href="https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_active_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_publictransport_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a> | <a href="https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_access_car_2019_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a> |
 | <img width=100/> <a style="color: gray; opacity: 0.30;">...</a> | <img width=140/> | <img width=140/> | <img width=140/> |
 
-</td><td>
+</td><td style="text-align:center">
 
 | Ano | Download |
 |:---:|:---:| 
@@ -94,15 +92,15 @@ As bases de dados criadas pelo <b>Projeto Acesso a Oportunidades (AOP)</b> estã
 
 <table>
 <tr><th> <font size="+1.5">População</font> </th><th><font size="+1.5">Grade espacial H3</font> </th></tr>
-<tr><td>
+<tr><td style="text-align:center">
 
 | Ano | Download |
 |:---:| :---:|
 | 2010 | <a href="https://www.ipea.gov.br/geobr/aopdata/data/website_data/aop_population_2010_v2.csv"><i class="fas fa-download" style="font-size: 1em;"></i></a> |
 | 2022 | <a style="color: gray; opacity: 0.30;">*em breve*</a> |
-| <img width=100/> <a style="color: gray30; opacity: 0.30; text-align: center;">...</a> | <img width=200/> |
+| <img width=200/> <a style="color: gray30; opacity: 0.30; text-align: center;">...</a> | <img width=200/> |
 
-</td><td>
+</td><td style="text-align:center">
 
 
 | Geopackage |  Download |
