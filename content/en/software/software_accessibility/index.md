@@ -66,7 +66,7 @@ links:
 
 ## **accessibility**: Transport Accessibility Metrics
 
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/accessibility)](https://CRAN.R-project.org/package=accessibility) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/accessibility?color=blue)](https://CRAN.R-project.org/package=accessibility) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/accessibility) | [![R build status](https://github.com/ipeaGIT/accessibility/workflows/R-CMD-check/badge.svg)](https://github.com/ipeaGIT/accessibility/actions) |
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/accessibility)](https://CRAN.R-project.org/package=accessibility) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/accessibility?color=blue)](https://CRAN.R-project.org/package=accessibility) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/accessibility) | [![rcmdcheck](https://github.com/ipeaGIT/accessibility/workflows/rcmdcheck/badge.svg)](https://github.com/ipeaGIT/accessibility/actions) |
 |-----|-----|-----|-----|-----|
 
 
