@@ -61,7 +61,7 @@ subtitle = ""
 | Pacote de R | Dicionário de variáveis | Código |
 |:---:|:---:|:---:|
 | <a href="https://ipeagit.github.io/aopdata/"><img src="/acessooportunidades/img/logos/rstudio_logo.png" width="30" align="center"></a> |  [Português](https://ipeagit.github.io/aopdata/articles/data_dic_pt.html) | <a href="https://github.com/ipeaGIT/acesso_oport/"><i class="fab fa-github" style="font-size: 1.5em;"></i> </a> |
-|  <img width=180/> <a style="color: gray; opacity: 0.30;">...</a> | <img width=180/> | <img width=180/> |
+|  <img width=180/> <a style="color: gray; opacity: 0.50; text-align: center;">...</a> | <img width=180/> | <img width=180/> |
 
 
 
