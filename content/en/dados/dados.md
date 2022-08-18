@@ -61,7 +61,7 @@ subtitle = ""
 
 | R package | Data dictionary | Code |
 | :---:|:--:|:---:|
-| <p align="center"> <a href="https://ipeagit.github.io/aopdata/"><img src="/acessooportunidades/img/logos/rstudio_logo.png" width="30" align="center"></a> |  [English](https://ipeagit.github.io/aopdata/articles/data_dic_en.html)</p> | <a href="https://github.com/ipeaGIT/acesso_oport/"><i class="fab fa-github" style="font-size: 1.5em;"></i> </a> |
+| <a href="https://ipeagit.github.io/aopdata/"><img src="/acessooportunidades/img/logos/rstudio_logo.png" width="30"></a> |  [English](https://ipeagit.github.io/aopdata/articles/data_dic_en.html)</p> | <a href="https://github.com/ipeaGIT/acesso_oport/"><i class="fab fa-github" style="font-size: 1.5em;"></i> </a> |
 | <img width=180/> <a style="color: gray; opacity: 0.50; text-align: center;">...</a> | <img width=180/> | <img width=180/> |
 
 

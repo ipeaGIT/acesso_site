@@ -53,7 +53,7 @@ image:
 # icons
 url_pdf: http://repositorio.ipea.gov.br/bitstream/11058/11225/1/td_2772.pdf
 url_code: https://github.com/ipeaGIT/acesso_oport
-url_dataset: './pt/dados/'
+url_dataset: './dados/'
 url_poster: ""
 url_project: ""
 url_slides: ""
