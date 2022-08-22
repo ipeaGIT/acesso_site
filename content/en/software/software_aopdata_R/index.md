@@ -1,5 +1,5 @@
 ---
-title: <img src="/acessooportunidades/img/package_logo/aopdata_logo.png" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/aopdata1_logo.png" width="200" align="center" alt="">
 
 abstract: <p align="justify"> <b>aopdata</b> is an R package to download data from the <a href="https://www.ipea.gov.br/acessooportunidades/en/">Access to Opportunities Project (AOP)</a>. The AOP is a research initiative led by the Institute for Applied Economic Research (Ipea) with the aim to study transport accessibility and inequalities in access to opportunities in Brazilian cities. </p>
   
