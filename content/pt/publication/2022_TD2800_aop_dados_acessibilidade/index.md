@@ -46,7 +46,7 @@ image:
 
   
 # icons
-url_pdf: https://repositorio.ipea.gov.br/bitstream/11058/11345/1/TD_Estimativas_de_acessibilidade_Publicacao_Preliminar.pdf
+url_pdf: https://repositorio.ipea.gov.br/bitstream/11058/11345/2/TD_2800_Web.pdf
 url_code: https://github.com/ipeaGIT/acesso_oport
 url_dataset: './dados/'
 url_poster: ""
@@ -57,13 +57,11 @@ url_video: ""
 url_preprint: ""
 url_poster: ""
 
-# Add custom link (AQUI!!!)
-# links:
-# - name: Executive summary
-#   url: https://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_2772_sumex.pdf
 links:
 - name: R package
   url: https://ipeagit.github.io/aopdata/
+- name: Sumário Executivo
+  url: https://repositorio.ipea.gov.br/bitstream/11058/11345/3/TD_2800_Sumex.pdf
 
 
 tags:
@@ -77,4 +75,4 @@ tags:
 
 __Citação__:
 
-Pereira, Rafael H. M. et al. (2022) *Estimativas de acessibilidade a empregos e serviços públicos via transporte ativo, público e privado nas 20 maiores cidades do Brasil em 2017, 2018, 2019*. ***Texto para Discussão***. Ipea - Instituto de Pesquisa Econômica Aplicada.
+Pereira, Rafael H. M. et al. (2022) *Estimativas de acessibilidade a empregos e serviços públicos via transporte ativo, público e privado nas 20 maiores cidades do Brasil em 2017, 2018, 2019*. ***Texto para Discussão*** N. 2800. Ipea - Instituto de Pesquisa Econômica Aplicada. Disponível em <<https://www.ipea.gov.br/portal/publicacao-item?id=11058/11345>>
