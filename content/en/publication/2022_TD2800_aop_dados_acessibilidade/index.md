@@ -73,6 +73,6 @@ tags:
 ---
 
 
-__Citação__:
+__Citation__:
 
 Pereira, Rafael H. M. et al. (2022) *Estimativas de acessibilidade a empregos e serviços públicos via transporte ativo, público e privado nas 20 maiores cidades do Brasil em 2017, 2018, 2019*. ***Texto para Discussão*** N. 2800. Ipea - Instituto de Pesquisa Econômica Aplicada. Disponível em <<https://www.ipea.gov.br/portal/publicacao-item?id=11058/11345>>
