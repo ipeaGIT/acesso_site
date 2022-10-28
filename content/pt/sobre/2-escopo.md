@@ -68,8 +68,8 @@ subtitle = ""
   <div class="col-sm-12 col-md-6 col-lg-4">
     <div class = "icon"><i class="fas fa-building fa-2x"></i></div>
     <div class = "icon"><i class="fas fa-school fa-2x"></i></div>
-    <div class = "icon"><i class="fas fa-hospital fa-2x"></i></div>
-    <h3>Trabalho, educação e saúde</h3>
+    <div class = "icon"><i class="fas fa-hands-holding-circle fa-2x"></i></div>
+    <h3>Trabalho, educação, saúde e proteção social</h3>
   </div>
     <div class="col-sm-12 col-md-6 col-lg-4">
     <div class = "icon"><i class="fas fa-bus fa-2x"></i></div>
