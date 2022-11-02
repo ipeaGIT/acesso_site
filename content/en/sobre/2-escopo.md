@@ -69,7 +69,8 @@ subtitle = ""
     <div class = "icon"><i class="fas fa-building fa-2x"></i></div>
     <div class = "icon"><i class="fas fa-school fa-2x"></i></div>
     <div class = "icon"><i class="fas fa-hospital fa-2x"></i></div>
-    <h3>Employment, education and health</h3>
+    <div class = "icon"><i class="fas fa-hands-holding-circle fa-2x"></i></div>
+    <h3>Employment, education, health and social protection</h3>
   </div>
     <div class="col-sm-12 col-md-6 col-lg-4">
     <div class = "icon"><i class="fas fa-bus fa-2x"></i></div>
