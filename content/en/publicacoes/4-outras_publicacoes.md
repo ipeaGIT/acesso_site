@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "Outras publicações"
+title = "Other reports"
 subtitle = ""
 
 [content]
