@@ -38,7 +38,7 @@ social:
   link: https://github.com/kauebraga
 superuser: true
 user_groups:
-- Team
+- Collaborators
 ---
 
 <p align="justify"> Kauê has a MSc in Transportation Engineering at Federal University of Ceará (UFC - Brazil) and is currently a research assistant at the Institute for Applied Economic Research (Ipea). Kauê works at the intersection between public transport and data science, and he is particularly interested in exploring how characteristic data such as GTFS, smart card and GPS can help us understand social and spatial inequalities in access to opportunities in urban centers. </p>

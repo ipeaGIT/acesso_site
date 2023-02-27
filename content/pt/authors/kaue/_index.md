@@ -38,7 +38,7 @@ social:
   link: https://github.com/kauebraga
 superuser: true
 user_groups:
-- Equipe
+- Colaboradores
 ---
 
 <p align="justify">

@@ -38,7 +38,7 @@ social:
   link: https://github.com/joaoparga
 superuser: false
 user_groups:
-- Team
+- Collaborators
 ---
 
 <p align="justify">

@@ -37,7 +37,7 @@ social:
   link: https://github.com/luizpedrocouto
 superuser: true
 user_groups:
-- Equipe
+- Colaboradores
 ---
 
 <p align="justify">

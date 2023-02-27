@@ -42,7 +42,7 @@ social:
   link: https://github.com/JoaoLAlbuquerque
 superuser: true
 user_groups:
-- Team
+- Collaborators
 ---
 
 <p align="justify">

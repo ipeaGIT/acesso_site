@@ -40,7 +40,7 @@ social:
   link: https://github.com/mvpsaraiva
 superuser: true
 user_groups:
-- Team
+- Collaborators
 ---
 
 <p align="justify">
