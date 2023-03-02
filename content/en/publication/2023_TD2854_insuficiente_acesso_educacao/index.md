@@ -32,7 +32,7 @@ image:
 
   
 # icons
-url_pdf: https://repositorio.ipea.gov.br/bitstream/11058/11810/1/TD_2854_web.pdf
+url_pdf: https://repositorio.ipea.gov.br/bitstream/11058/11810/7/TD_2854_web.pdf
 url_code: https://github.com/ipeaGIT/aop_educacao_2022
 url_dataset: ""
 url_poster: ""
@@ -46,7 +46,7 @@ url_poster: ""
 # Add custom link (AQUI!!!)
 links:
 - name: Sumário Executivo
-  url: https://repositorio.ipea.gov.br/bitstream/11058/11810/2/TD_2854_sumex.pdf
+  url: https://repositorio.ipea.gov.br/bitstream/11058/11810/8/TD_2854_sumex.pdf
 
 
 
