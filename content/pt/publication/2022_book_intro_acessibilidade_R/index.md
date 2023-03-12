@@ -70,5 +70,5 @@ links:
 
 __Citation__:
 
-Pereira, Rafael H. M., & Herszenhut, Daniel (2022). **Introdução à acessibilidade urbana um guia prático em R**. Instituto de Pesquisa Econômica Aplicada (Ipea). <https://ipeagit.github.io/intro_access_book/>
+Pereira, Rafael H. M., & Herszenhut, Daniel (2023). **Introdução à acessibilidade urbana um guia prático em R**. Instituto de Pesquisa Econômica Aplicada (Ipea). <https://ipeagit.github.io/intro_access_book/>
 
