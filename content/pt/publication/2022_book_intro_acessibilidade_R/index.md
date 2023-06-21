@@ -10,8 +10,8 @@ authors:
 - Daniel Herszenhut
 
 
-date: "2022-10-18"
-publishDate: "2022-10-18"
+date: "2023-03-11"
+publishDate: "2023-03-11"
 
 doi: ""
 publication: ""
@@ -61,7 +61,7 @@ url_preprint: ""
   # Add custom link (AQUI!!!)
 links:
 - name: Livro
-  url: https://ipeagit.github.io/intro_access_book/
+  url: https://ipeagit.github.io/intro_access_book/pt/
 
 - name: Rodar código online
   url: https://mybinder.org/v2/gh/ipeaGIT/intro_access_book/HEAD?urlpath=rstudio
@@ -70,5 +70,5 @@ links:
 
 __Citation__:
 
-Pereira, Rafael H. M., & Herszenhut, Daniel (2023). **Introdução à acessibilidade urbana um guia prático em R**. Instituto de Pesquisa Econômica Aplicada (Ipea). <https://ipeagit.github.io/intro_access_book/>
+Pereira, Rafael H. M., & Herszenhut, Daniel (2023). **Introdução à acessibilidade urbana um guia prático em R**. Instituto de Pesquisa Econômica Aplicada (Ipea). <https://ipeagit.github.io/intro_access_book/pt/>
 

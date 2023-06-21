@@ -61,7 +61,7 @@ url_preprint: ""
 # Add custom link (AQUI!!!)
 links:
 - name: Book
-  url: https://ipeagit.github.io/intro_access_book/en/index.en.html
+  url: https://ipeagit.github.io/intro_access_book/
 
 - name: Run code online
   url: https://mybinder.org/v2/gh/ipeaGIT/intro_access_book/HEAD?urlpath=rstudio
@@ -71,5 +71,5 @@ links:
 
 __Citation__:
 
-Pereira, Rafael H. M., & Herszenhut, Daniel (2023). **Introduction to urban accessibility: a practical guide with R**. Instituto de Pesquisa Econômica Aplicada (Ipea). <https://ipeagit.github.io/intro_access_book/en/index.en.html>
+Pereira, Rafael H. M., & Herszenhut, Daniel (2023). **Introduction to urban accessibility: a practical guide with R**. Instituto de Pesquisa Econômica Aplicada (Ipea). <https://ipeagit.github.io/intro_access_book/>
 
