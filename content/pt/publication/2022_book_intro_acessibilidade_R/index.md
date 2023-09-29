@@ -60,8 +60,11 @@ url_preprint: ""
   
   # Add custom link (AQUI!!!)
 links:
-- name: Livro
+- name: Livro online
   url: https://ipeagit.github.io/intro_access_book/pt/
+
+- name: Livro PDF
+  url: https://repositorio.ipea.gov.br/bitstream/11058/12264/1/Introducao_a_acessibilidade_urbana.pdf
 
 - name: Rodar código online
   url: https://mybinder.org/v2/gh/ipeaGIT/intro_access_book/HEAD?urlpath=rstudio
@@ -70,5 +73,5 @@ links:
 
 __Citation__:
 
-Pereira, Rafael H. M., & Herszenhut, Daniel (2023). **Introdução à acessibilidade urbana um guia prático em R**. Instituto de Pesquisa Econômica Aplicada (Ipea). <https://ipeagit.github.io/intro_access_book/pt/>
+- Pereira, R. H. M., & Herszenhut, D. (2023). **Introdução à acessibilidade urbana: Um guia prático em R** (1st ed.). Instituto de Pesquisa Econômica Aplicada (Ipea). Brasília. ISBN: 978-65-5635-054-7. DOI: http://dx.doi.org/10.38116/9786556350547. https://ipeagit.github.io/intro_access_book/pt/
 
