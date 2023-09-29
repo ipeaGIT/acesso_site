@@ -49,7 +49,7 @@ user_groups:
 ---
 
 <p align="justify">
-Rafael é pesquisador e chefe da assessoria de métodos quantitativos da Diretoria de Estudos Regionais, Urbanos e Ambientais do Ipea. Sua pesquisa investiga o papel das políticas urbanas e de transporte na organização espacial das cidades e nos padrões de mobilidade urbana, bem como seus impactos distributivos nas desigualdades sociais e de saúde. Rafael tem particular interesse em questões de equidade na avaliação de políticas e seus efeitos sobre as desigualdades de acesso às oportunidades.
+Rafael é pesquisador sênior e chefe de ciência de dados do Ipea. Sua pesquisa investiga o papel das políticas urbanas e de transporte na organização espacial das cidades e nos padrões de mobilidade urbana, bem como seus impactos distributivos nas desigualdades sociais e de saúde. Rafael tem particular interesse em questões de equidade na avaliação de políticas urbanas e de transporte e seus efeitos sobre as desigualdades de acesso a oportunidades.
 </p>
 
 <p align="justify">
