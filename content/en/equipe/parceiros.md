@@ -57,18 +57,30 @@ css_class = ""
 
 <div class="col-12 col-sm-6 col-lg-4" style = "align-self: center; justify-self: center; padding: 30px 20px;">
   <div class="image-container" style = "display: flex; justify-content: center;">
+<a href="https://itdpbrasil.org/"><img align="middle" src="/acessooportunidades/img/parceiros/logo_mcid.png" width="290"></a>
+</div>
+</div>
+<div class="col-12 col-sm-6 col-lg-4" style = "align-self: center; justify-self: center; padding: 30px 20px;">
+  <div class="image-container" style = "display: flex; justify-content: center;">
+<a href="https://www.fnp.org.br/"><img align="middle" src="/acessooportunidades/img/parceiros/logo_mds.png" width="400"></a> 
+</div>
+
+</div>
+</div>
+
+
+<div class="container-fluid">
+<div class = "row justify-content-center">
+  
+
+<div class="col-12 col-sm-6 col-lg-4" style = "align-self: center; justify-self: center; padding: 30px 20px;">
+  <div class="image-container" style = "display: flex; justify-content: center;">
 <a href="https://itdpbrasil.org/"><img align="middle" src="/acessooportunidades/img/parceiros/logo_itdp.png" width="210"></a>
 </div>
 </div>
 <div class="col-12 col-sm-6 col-lg-4" style = "align-self: center; justify-self: center; padding: 30px 20px;">
   <div class="image-container" style = "display: flex; justify-content: center;">
 <a href="https://www.fnp.org.br/"><img align="middle" src="/acessooportunidades/img/parceiros/logo_fnp.png" width="220"></a> 
-</div>
-</div>
-<div class="col-12 col-sm-12 col-lg-4" style = "align-self: center; justify-self: center; padding: 30px 20px;">
-  <div class="image-container" style = "display: flex; justify-content: center;">
-<a href="https://www.mdr.gov.br/"><img align="middle" src="/acessooportunidades/img/parceiros/logo_mdr_square.png" width="180"></a>
-</div>
 </div>
 
 </div>
