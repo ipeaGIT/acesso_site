@@ -51,11 +51,24 @@ subtitle = ""
  
 
 +++
+# Parceirias
 
-# Parceria com Semob/MDR:
+O Projeto Acesso a Oportunidades conta parcerias com diferentes órgãos do governo federal.
+
+
+### 2023-2026 - Parceria com Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome:
 
 <p align="justify"> 
-O Projeto Acesso a Oportunidades conta com parceria da Secretaria de Mobilidade Urbana do Ministério de Desenvolvimento Regional (Semob/MDR). A parceria envolve diversas frentes de ação que serão realizadas pela equipe do Ipea, entre elas:
+A parceria com o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) envolve a realização de estudos para mapear vazios de proteção social. A pesquisa irá identificar nas áreas urbanas brasileiras quais bairros e quarteirões apresentam baixo acesso aos Centros de Referência de Assistência Social (CRAS).
+
+O trabalho irá produzir dados e informações que poderão ser utilizados por gestores públicos federais, estaduais e municipais para avaliar desafios cobertura espacial do Cadastro Único, e contribuir de maneira concreta para o desenho de ações que visem melhorar a busca ativa do cadastro.
+</p>
+
+
+### 2019-2023 - Parceria com Ministério das Cidades:
+
+<p align="justify"> 
+A parceria com Secretaria de Mobilidade Urbana do Ministério das Cidades (Semob/Mcid) envolve diversas frentes de ação que serão realizadas pela equipe do Ipea, entre elas:
 </p>
 
 
@@ -76,5 +89,5 @@ O Projeto Acesso a Oportunidades conta com parceria da Secretaria de Mobilidade 
 </p>
 
 <p align="justify"> 
- - Capacitação da equipe técnica da Semob/MDR sobre métodos e técnicas de análise de acessibilidade para avaliação de políticas públicas.
+ - Capacitação da equipe técnica da Semob/Mcid sobre métodos e técnicas de análise de acessibilidade para avaliação de políticas públicas.
 </p>

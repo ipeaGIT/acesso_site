@@ -51,11 +51,24 @@ subtitle = ""
  
 
 +++
+# Partnerships
 
-# Partnership with Semob/MDR:
+The Access to Opportunities Project has partnerships with different agencies of the Brazilian federal government .
+
+
+### 2023-2026: Partnership with the Ministry of Social Development:
 
 <p align="justify"> 
-The Access to Opportunities Project is a partnership with the Secretariat for Urban Mobility of the Brazilian Ministry of Regional Development (Semob/MDR). This partnership involves a series of activities conducted by the Ipea team such as:
+The partnership with the Ministry of Social Development and Fight Against Hunger (MDS) involves conducting a research project to map social protection deserts. The research will identify in Brazilian urban areas which neighborhoods and city blocks have low access to Social Assistance Reference Centers (CRAS).
+
+The work will generate actionable data and information that can be used by governmental agencies to assess the challenges of expanding the spatial coverage of Brazil's Unified Registry's for Social Programs, and contribute to the design of actions aimed at improving active search strategies.
+</p>
+
+
+### 2019-2023 - Partnership with the Ministry of Cities:
+
+<p align="justify"> 
+The partnership with the Secretariat for Urban Mobility of the Brazilian Ministry of Cities (Semob/Mcid) involves a series of activities conducted by the Ipea team such as:
 </p>
 
 
@@ -76,5 +89,5 @@ The Access to Opportunities Project is a partnership with the Secretariat for Ur
 </p>
 
 <p align="justify"> 
- - Organizing workshops and trainings targeted to the Semob/MDR team to enhance their skills on the use of transport accessibility analysis in policy evaluation.
+ - Organizing workshops and trainings targeted to the Semob/Mcid team to enhance their skills on the use of transport accessibility analysis in policy evaluation.
 </p>
