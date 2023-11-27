@@ -29,6 +29,11 @@ image:
   preview_only: false
 
 
+tags:
+- Acesso a emprego 
+- Ride-hailing
+- Desigualdades de renda
+
   
 # icons
 url_pdf: https://repositorio.ipea.gov.br/bitstream/11058/12382/1/TD_2904_web.pdf
