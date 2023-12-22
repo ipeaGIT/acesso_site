@@ -51,7 +51,7 @@ subtitle = ""
  
 
 +++
-# Parceirias
+# Parcerias
 
 O Projeto Acesso a Oportunidades conta parcerias com diferentes órgãos do governo federal.
 
