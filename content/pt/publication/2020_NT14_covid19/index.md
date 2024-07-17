@@ -38,7 +38,7 @@ image:
 
   
 # icons
-url_pdf: http://repositorio.ipea.gov.br/bitstream/11058/9840/1/NT_14_Dirur_Mobilidade%20urbana%20e%20o%20acesso%20ao%20Sistema%20%c3%9anico%20de%20Sa%c3%bade.pdf
+url_pdf: https://repositorio.ipea.gov.br/bitstream/11058/9840/1/NT_14_Dirur_Mobilidade%20urbana%20e%20o%20acesso%20ao%20Sistema%20%c3%9anico%20de%20Sa%c3%bade.pdf
 url_code: https://github.com/ipeaGIT/acesso_covid19
 url_dataset: ""
 url_poster: ""
@@ -57,6 +57,8 @@ links:
   url: https://soundcloud.com/ipea-online/estudo-mapeia-acesso-ao-sus-para-pacientes-mais-vulneraveis-ao-novo-coronavirus
 - name: Video Podcast
   url: https://www.youtube.com/watch?v=bEdsjkPe11Y&feature
+- name: URL
+  url: https://repositorio.ipea.gov.br/handle/11058/9840
 
 
 #tags:
