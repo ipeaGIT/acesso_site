@@ -49,8 +49,6 @@ user_groups:
 ---
 
 
-<p align="justify">Rafael Pereira (Rafa for short) is a senior researcher (tenured) working in the fields of urban analytics, spatial data science and transport studies at Ipea, where he is currently the Head of Data Science. His research looks broadly at how urban and transport policies shape the spatial organization of cities, human mobility patterns as well as their impacts on social and health inequalities. Rafael is particularly interested in the equity concerns underlying impact assessment of urban and transport planning policies and their effects on inequalities in access to opportunities. </p>
-
-<p align="justify">
-Rafael received the 2017 Lee Schipper Memorial Scholarship from the World Resources Institute (WRI). More recently, in 2019, his work received the award for best PhD thesis in transportation by the American Association of Geographers (AAG) and the Young Researcher of the Year Award by the International Transport Forum (ITF/OECD).
+<p align="justify">Rafael Pereira (Rafa for short) is a senior researcher (tenured) working in the fields of urban analytics, spatial data science and transport studies at Ipea, where he is currently the Head of Data Science. His research looks broadly at how urban and transport policies shape the spatial organization of cities, human mobility patterns as well as their impacts on social and health inequalities. He is particularly interested in the equity concerns underlying impact assessment of urban and transport planning policies and their effects on inequalities in access to opportunities. Rafa is also a visiting professor (Bousfield Distinguished Visitor in Planning) at the Department of Geography and Planning at the University of Toronto (2024-2025).
 </p>
+

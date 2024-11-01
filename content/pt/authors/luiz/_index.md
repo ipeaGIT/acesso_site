@@ -41,5 +41,5 @@ user_groups:
 ---
 
 <p align="justify">
-Luiz é mestre em Desenvolvimento Econômico pela Universidade Federal do Paraná (PPGDE/UFPR), doutorando pelo Departamento de Economia da Universidade Federal de Juiz de Fora (PPGE/UFJF) e assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Tem interesse em Economia Regional e Urbana, buscando entender relações econômicas entre distribuições espaciais de acessibilidade, empregos e residências nas cidades.
+Luiz é mestre em Desenvolvimento Econômico pela Universidade Federal do Paraná (PPGDE/UFPR), doutorando em Economia Aplicada pelo Departamento de Economia da Universidade Federal de Juiz de Fora (PPGE/UFJF) com período sanduíche na University of California, Irvine, e também foi assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Tem interesse em Economia Regional e Urbana e tem motivação em entender os desafios enfrentados pelos centros urbanos, com o objetivo de identificar soluções para melhorar a qualidade de vida das pessoas.
 </p>

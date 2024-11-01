@@ -49,9 +49,6 @@ user_groups:
 ---
 
 <p align="justify">
-Rafael é pesquisador sênior e chefe de ciência de dados do Ipea. Sua pesquisa investiga o papel das políticas urbanas e de transporte na organização espacial das cidades e nos padrões de mobilidade urbana, bem como seus impactos distributivos nas desigualdades sociais e de saúde. Rafael tem particular interesse em questões de equidade na avaliação de políticas urbanas e de transporte e seus efeitos sobre as desigualdades de acesso a oportunidades.
+Rafael é pesquisador sênior e chefe de ciência de dados do Ipea. Sua pesquisa investiga o papel das políticas urbanas e de transporte na organização espacial das cidades e nos padrões de mobilidade urbana, bem como seus impactos distributivos nas desigualdades sociais e de saúde. Ele tem particular interesse em questões de equidade na avaliação de políticas urbanas e de transporte e seus efeitos sobre as desigualdades de acesso a oportunidades. Rafael também é professor visitante (Bousfield Distinguished Visitor in Planning) no Departamento de Geografia e Planejamento da Universidade de Toronto (2024-2025).
 </p>
 
-<p align="justify">
-Em 2017, sua pequisa recebeu o prêmio Lee Schipper Memorial Scholarship da World Resources International (WRI). Mais recentemente, em 2019, seu trabalho recebeu o prêmio de melhor tese de doutorado em transportes pela Associação Americana de Geografia (AAG) e prêmio de jovem pesquisador do ano pelo International Transport Forum (ITF) da OCDE.
-</p>
