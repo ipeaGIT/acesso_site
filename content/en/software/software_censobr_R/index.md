@@ -1,5 +1,6 @@
 ---
-title: <img src="/img/package_logo/censobr_logo.png" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/censobr_logo.png" width="200" align="center" alt="">
+
 
 abstract: <p align="justify"> <b>censobr</b> is an R package to download data from Brazil’s Population Census. The package is built on top of the Arrow platform, which allows users to work with larger-than-memory census data using {dplyr} familiar functions. </p> 
   
@@ -8,7 +9,7 @@ summary: " "
 authors:
 - admin
 
-date: "2022-09-16"
+date: "2021-09-14"
 
 
 doi: ""

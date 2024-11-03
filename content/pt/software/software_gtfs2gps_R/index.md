@@ -1,5 +1,5 @@
 ---
-title: <img src="/img/package_logo/gtfs2gps_logo.png" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/gtfs2gps_logo.png" width="200" align="center" alt="">
 
 abstract: <p align="justify"> Convert general transit feed specification (GTFS) data to global positioning system (GPS) records in 'data.table' format. It also has some functions to subset GTFS data in time and space and to convert both representations to simple feature format. </p> 
   
@@ -10,7 +10,7 @@ authors:
 - Pedro R. Andrade
 - Joao Bazzo
 
-date: "2022-08-15"
+date: "2021-08-15"
 
 
 doi: ""

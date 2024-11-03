@@ -1,5 +1,5 @@
 ---
-title: <img src="/img/package_logo/uci_logo.png" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/uci_logo.png" width="200" align="center" alt="">
 
 abstract: <p align="justify"> uci is an R package to calculate the Urban Centrality Index (UCI) originally proposed by Pereira et al., (2013). The UCI measures the extent to which the spatial organization of a city or region varies from extreme polycentric to extreme monocentric in a continuous scale from 0 to 1. Values close to 0 indicate more polycentric patterns and values close to 1 indicate a more monocentric urban form. </p> 
   
@@ -8,7 +8,7 @@ summary: " "
 authors:
 - admin
 
-date: "2021-01-20"
+date: "2020-01-20"
 
 
 doi: ""

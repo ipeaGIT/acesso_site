@@ -1,5 +1,6 @@
 ---
-title: <img src="/img/package_logo/gtfs2emis_logo.png" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/gtfs2emis_logo.png" width="200" align="center" alt="">
+
 
 abstract: <p align="justify"> A bottom up model to estimate the emission levels of public transport systems based on General Transit Feed Specification (GTFS) data. </p> 
   
@@ -10,7 +11,7 @@ authors:
 - admin
 - Pedro R. Andrade
 
-date: "2022-01-02"
+date: "2021-01-02"
 
 
 doi: ""
