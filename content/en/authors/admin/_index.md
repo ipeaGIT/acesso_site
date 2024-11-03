@@ -13,8 +13,6 @@ education:
   - course: BSc in Sociology
     institution: University of Braslia (UnB), Brazil
     year: 2006
-email: "rafael.pereira@ipea.gov.br"
-institution: Institute for Applied Economic Research - Ipea
 
 interests:
 - Transport justice
@@ -24,6 +22,8 @@ interests:
 
 
 name: Rafael H. M. Pereira
+email: "rafael.pereira@ipea.gov.br"
+institution: Institute for Applied Economic Research - Ipea
 organizations:
 - name: Institute for Applied Economic Research - Ipea
   url: "ipea.gov.br"

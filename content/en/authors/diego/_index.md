@@ -49,5 +49,5 @@ user_groups:
 ---
 
 <p align="justify">
-Diego is a Cartographic Engineer and holds a master's and doctorate degree in Transportation Engineering from the Polytechnic School of the University of São Paulo. He is currently a research assistant at the Institute for Applied Economic Research (IPEA). He is interested in the study of accessibility inequalities through different transport modes and in the study of public policies to mitigate accessibility inequalities.
+Diego is a Cartographic Engineer with a master’s and Ph.D. in Transportation Engineering from the Polytechnic School of the University of São Paulo (USP). He is currently an Assistant Professor in the Department of Transportation Engineering at the Polytechnic School of USP. He is interested in studying spatial dynamic models, accessibility inequalities across different transportation modes, and public policy studies to mitigate accessibility inequalities.
 </p>

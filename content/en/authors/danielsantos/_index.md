@@ -3,6 +3,9 @@ authors:
   - daniel
 education:
   courses:
+    - course: MSc in Transport Engineering
+      institution: Federal University of Rio de Janeiro (COPPE/UFRJ)
+      year: 2021
     - course: BSc in Civil Engineering
       institution: Federal University of Rio de Janeiro (UFRJ)
       year: 2018
@@ -31,5 +34,5 @@ user_groups:
 ---
 
 <p align="justify">
-Daniel is a MSc candidate in Transport Engineering at Federal University of Rio de Janeiro (COPPE/UFRJ) and a research assistant at the Institute for Applied Economic Research (IPEA). His current research examines how public transport fares impact the socio-spatial distribution of accessibility.
+Daniel is a researcher at Ipea and has a Master's in Transport Engineering at the Federal University of Rio de Janeiro (COPPE/UFRJ). His current research examines how public transport fares impact the socio-spatial distribution of accessibility.
 </p>
