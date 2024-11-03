@@ -10,7 +10,8 @@ weight = 10
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Coordenador",
                  "Equipe",
-                 "Colaboradores"]
+                 "Colaboradores",
+                 "Ex"]
 
 [design]
   # Show user's social networking links? (true/false)
