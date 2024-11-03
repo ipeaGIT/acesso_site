@@ -40,7 +40,7 @@ social:
   link: https://github.com/bernardomlserra
 superuser: true
 user_groups:
-- Colaboradores
+- Ex
 ---
 
 <p align="justify">  

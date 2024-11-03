@@ -3,31 +3,34 @@ authors:
   - joao
 education:
   courses:
+    - course: PhD em Engenharia de Transportes 
+      institution: Universidade de Toronto
+      year: em andamento
     - course: MSc em Engenharia Ambiental
       institution: Universidade Federal do Paraná (UFPR)
       year: 2020
-
     - course: BSc em Engenharia Ambiental
       institution: Universidade Federal do Paraná (UFPR)
       year: 2016
 
-institution: Instituto de Pesquisa Econômica Aplicada - Ipea
-email: "joao.vieira@ipea.gov.br"
+
 interests:
   - Emissões veiculares
   - Dados de transporte público
   - Acessibilidade Urbana
   - Transporte ativo
   - Análise de dados
+  
 name: João Pedro Bazzo Vieira
+institution: Universidade de Toronto
+email: ""
 organizations:
-  - name: Universidade Federal do Paraná
-url: ""
-role: Assistente de Pesquisa (Ipea)
+  - name: Universidade de Toronto
+    url: ""
+
+role: Aluno de Doutorado
+
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:joao.vieira@ipea.gov.br
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joaopbazzo
@@ -39,10 +42,9 @@ social:
   link: https://github.com/joaobazzo
 superuser: true
 user_groups:
-- Equipe
+- Colaboradores
 ---
 
 <p align="justify">
-João Pedro é mestre em Engenharia Ambiental pela Universidade Federal do Paraná e assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Tem interesse em emissões veiculares no ambiente urbano e sua relação com a melhoria no transporte público e ativo e diminuição das desigualdades de acesso a oportunidades.  
-
+Estudante de doutorado em engenharia de transportes na Universidade de Toronto. Sua pesquisa foca amplamente em entender como as políticas urbanas e as tecnologias impactam a mobilidade urbana e seus efeitos na qualidade do ar e nas emissões de veículos.
 </p>

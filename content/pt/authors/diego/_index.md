@@ -14,7 +14,7 @@ education:
     institution: Universidade Federal do Paraná (UFPR)
     year: 2008
 email: "diegobt86@gmail.com"
-institution: Instituto de Pesquisa Econômica Aplicada - Ipea
+institution: Universidade de São Paulo - USP
 
 interests:
 - Desigualdades de Acessibilidade
@@ -24,10 +24,10 @@ interests:
 
 name: Diego Tomasiello
 organizations:
-- name: Instituto de Pesquisa Econômica Aplicada - Ipea
-  url: "ipea.gov.br"
+- name: Universidade de São Paulo - USP
+  url: "https://www5.usp.br/"
 
-role: Assistente de Pesquisa (Ipea)
+role: Professor Doutor
 
 social:
 - icon: envelope
@@ -44,9 +44,9 @@ social:
   link: https://github.com/diegobt86
 superuser: true
 user_groups:
-- Equipe
+- Colaboradores
 ---
 
 <p align="justify">
-Diego é Engenheiro Cartógrafo e possui mestrado e doutorado em Engenharia de Transportes pela Escola Politécnica da Universidade de São Paulo. Atualmente é assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Tem interesse no estudo de desigualdades de acessibilidade através de diferentes modos de transporte e no estudo de políticas públicas para atenuar as desigualdades de acessibilidade.
+Diego é Engenheiro Cartógrafo e possui mestrado e doutorado em Engenharia de Transportes pela Escola Politécnica da Universidade de São Paulo (USP). Atualmente é Professor Doutor no Departamento de Engenharia de Transportes da Escola Politécnica da USP. Tem interesse no estudo de modelos dinâmicos espaciais, desigualdades de acessibilidade através de diferentes modos de transporte e estudo de políticas públicas para atenuar as desigualdades de acessibilidade.
 </p>

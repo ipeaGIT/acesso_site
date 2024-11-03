@@ -1,45 +1,50 @@
 ---
 authors:
-  - vanessa
-name: Vanessa Nadalin
-email: "vanessa.nadalin@ipea.gov.br"
-# bio: Linhas de pesquisa focadas em Economia Urbana, Política Urbana, Habitação Popular e Mobilidade Urbana.
-institution: Instituto de Pesquisa Econômica Aplicada - Ipea
+  - arthur_bazzoli
+
 education:
   courses:
-  - course: Doutorado em Economia
-    institution: Universidade de São Paulo (USP)
-    year: 2010
-  - course: BSc em Economia
-    institution: Universidade de São Paulo (USP)
-    year: 2004
-  - course: BSc em Relações Internacionais
-    institution: PUC São Paulo
-    year: 2003
+  - course: MSc em Economia
+    institution: Universidade Federal de Juiz de Fora (UFJF)
+    year: 2024
+  - course: BSc em Ciências Econômicas
+    institution: Ibmec Minas Gerais
+    year: 2021
     
 interests:
-  - Economia Urbana
-  - Política Urbana
-  - Habitação Popular
-  - Mobilidade Urbana
-  
+  - Economia urbana 
+  - Economia dos transportes
+  - Geocomputação 
+  - Inferência causal 
+  - Modelos quantitativos espaciais
+
 organizations:
   - name: Instituto de Pesquisa Econômica Aplicada - Ipea
-url: ""
-role: Pesquisadora (Ipea)
+    url: "www.ipea.gov.br"
+
+name: Arthur Bazzoli
+institution: Instituto de Pesquisa Econômica Aplicada - Ipea
+
+role: Assistente de Pesquisa (Ipea)
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:vanessa.nadalin@ipea.gov.br
+  link: mailto:arthur.bazzoli@ipea.gov.br
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/baarthur0
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=0J-zbJQAAAAJ&hl
+  link: https://scholar.google.com/citations?user=mOK0TpcAAAAJ&hl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5985-0937
 
 superuser: true
 user_groups:
 - Equipe
 ---
 <p align="justify">
-Pesquisadora de carreira do Instituto de Pesquisa Econômica Aplicada (Ipea) desde 2009. Atualmente é pesquisadora visitante na Universidade da California em Irvine, no departamento de economia. Foi chefe da assessoria de métodos quantitativos da Diretoria de Estudos Regionais, Urbanos e Ambientais do Ipea.
+Arthur é Mestre em Economia pela Universidade Federal de Juiz de Fora (UFJF) e Assistente de Pesquisa no Ipea. Desenvolve pesquisa em economia urbana, com foco na avaliação do impacto de políticas de transporte coletivo e de uso do solo. Em 2024, sua pesquisa recebeu o prêmio Rodrigo Simões da Associação Brasileira de Estudos Regionais e Urbanos (Aber).
 </p>

@@ -26,7 +26,7 @@ organizations:
 - name: Instituto de Pesquisa Econômica Aplicada - Ipea
   url: "ipea.gov.br"
 
-role: Assistente de Pesquisa (Ipea)
+role: Pesquisador Associado (Ipea) e Aluno de doutorado (UFJF)
 
 social:
 - icon: envelope
@@ -37,7 +37,7 @@ social:
   link: https://github.com/luizpedrocouto
 superuser: true
 user_groups:
-- Colaboradores
+- Equipe
 ---
 
 <p align="justify">

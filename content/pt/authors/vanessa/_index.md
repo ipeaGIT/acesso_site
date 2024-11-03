@@ -1,10 +1,7 @@
 ---
 authors:
   - vanessa
-name: Vanessa Nadalin
-email: "vanessa.nadalin@ipea.gov.br"
-# bio: Linhas de pesquisa focadas em Economia Urbana, Política Urbana, Habitação Popular e Mobilidade Urbana.
-institution: Instituto de Pesquisa Econômica Aplicada - Ipea
+  
 education:
   courses:
   - course: Doutorado em Economia
@@ -23,9 +20,14 @@ interests:
   - Habitação Popular
   - Mobilidade Urbana
   
+name: Vanessa Nadalin
+email: "vanessa.nadalin@ipea.gov.br"
+institution: Instituto de Pesquisa Econômica Aplicada - Ipea
+
 organizations:
   - name: Instituto de Pesquisa Econômica Aplicada - Ipea
-url: ""
+    url: "www.ipea.gov.br"
+
 role: Pesquisadora (Ipea)
 
 social:
