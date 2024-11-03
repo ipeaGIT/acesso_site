@@ -43,7 +43,7 @@ title = ""
 
 [cta]
   url = "/acessooportunidades/mapa/"
-  label = "Explore the results"
+  label = "Explore the data"
   icon_pack = "fas"
   icon = "globe-americas"
 

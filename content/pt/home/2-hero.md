@@ -51,5 +51,5 @@ subtitle = ""
 +++
 
 <p align="justify"> 
-O <strong>Projeto Acesso a Oportunidades</strong> traz estimativas de acesso a postos de emprego, serviços de saúde, educação e proteção social por modo de transporte para as maiores cidades do Brasil. A pesquisa utiliza diferentes indicadores para estimar as condições de acessibilidade urbana desagregadas por grupos socioeconômicos e em alta resolução espacial. Todas as publicações, dados e códigos do projeto estão disponíveis publicamente a partir deste site. <a href="sobre/">Mais informações sobre o projeto aqui.</a>
+O <strong>Lab de Acesso a Oportunidades (AOP-Lab)</strong> é um grupo de pesquisa voltado para a realização de estudos e desenvolvimento de ferramentas computacionais e de dados para acessibilidade espacial e planejamento urbano, com foco em questões de desigualdades sociais e de mobilidade urbana sustentável. Um dos pilares AOP-Lab é o "Projeto Acesso a Oportunidades", que traz estimativas em alta resolução espacial de acesso a postos de emprego, serviços públicos de saúde, educação e proteção social por modo de transporte para as maiores cidades do Brasil. Todas as publicações, dados e códigos do AOP-Lab estão disponíveis publicamente a partir deste site. <a href="sobre/">Mais informações aqui.</a>
 </p>

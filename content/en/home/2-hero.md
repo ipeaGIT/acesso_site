@@ -51,5 +51,5 @@ subtitle = ""
 +++
 
 <p align="justify"> 
-The <strong>Access to Opportunities Project</strong> calculates people's access to jobs, health, education and social protection services by different transport modes for Brazil's largest cities. It uses different accessibility metrics to estimate urban accessibility levels at a high spatial resolution and disaggregated by socioeconomic groups. All the publications, data outputs and computational code developed in the project can be found and downloaded from this website. <a href="sobre/">More detailed info about the project here.</a>
+The <strong>Access to Opportunities Lab (AOP-Lab)</strong> is a research group dedicated to conducting studies and developing computational tools and data resources for spatial accessibility and urban planning, with a strong emphasis on addressing social inequalities and promoting sustainable urban mobility. One of the pillars of AOP-Lab is the "Access to Opportunities Project," which provides high-resolution spatial estimates of access to employment and public services (including healthcare, education, and social protection) by mode of transportation for Brazil's largest cities. All publications, data, and code from AOP-Lab are publicly available through this website. <a href="sobre/">More info here.</a>
 </p>
