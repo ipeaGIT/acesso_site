@@ -3,30 +3,31 @@ authors:
   - joaoparga
 education:
   courses:
+    - course: PhD em Geografia
+      institution: Universidade de Toronto
+      year: em andamento
     - course: MSc em Economia
       institution: Universidade Federal de Minas Gerais (UFMG)
       year: 2020
-
     - course: BSc em Ciências Econômicas
       institution: Universidade Federal de Minas Gerais (UFMG)
       year: 2014
 
-institution: Instituto de Pesquisa Econômica Aplicada - Ipea
+institution: Universidade de Toronto
 email: "parga.joao@gmail.com"
 interests:
   - Economia Urbana
   - Acessibilidade Urbana
   - Mercado de trabalho
   - Dados sociodemográficos
+  
 name: João Pedro Figueira Amorim Parga
 organizations:
-  - name: Universidade Federal de Minas Gerais - UFMG
-url: ""
-role: Assistente de Pesquisa (Ipea)
+  - name: Universidade de Toronto
+    url: ""
+role: PhD candidate
+
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:joao.parga@ipea.gov.br
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joaoparga
@@ -42,6 +43,5 @@ user_groups:
 ---
 
 <p align="justify">
-Mestre em Economia pela Universidade Federal de Minas Gerais (UFMG) e Assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Tem interesse em estudos sobre a relação entre o espaço intra-urbano, características sociodemográficas de seus habitantes e o mercado de trabalho, olhando em  especial para como a acessibilidade urbana afeta e é afetada por estes fatores.
-
+Doutorando em Geografia pela Universidade de Toronto e assistente de pesquisa no Mobilizing Justice Partnetship. Em sua tese, utiliza métodos de inferência causal para estimar o impacto de políticas públicas em transporte na participação dos indivíduos na sociedade e em medidas de justiça distributiva.
 </p>

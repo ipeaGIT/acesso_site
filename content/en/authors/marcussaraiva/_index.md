@@ -13,18 +13,21 @@ education:
     institution: Federal University of Pelotas (UFPel)
     year: 2010
 
-institution: Institute for Applied Economic Research - Ipea
+institution: Petrobrás
 email: "marcus.saraiva@gmail.com"
+
 interests:
   - Accessibility and Segregation
   - Urban Planning
   - Computational Models of Cities
   - Spatial Data Science
+
 name: Marcus Saraiva
 organizations:
-  - name: Institute for Applied Economic Research - Ipea
-url: ""
-role: Research Assistant (Ipea)
+  - name: Petrobrás
+    url: ""
+role: Developer
+
 social:
 - icon: envelope
   icon_pack: fas

@@ -4,6 +4,9 @@ authors:
 # bio: Linhas de pesquisa focadas em Transporte e mobilidade urbana, Acessibilidade, Equidade e Cidades.
 education:
   courses:
+  - course: Doutorado em Economia
+    institution: Universidade Federal de Juiz de Fora (UFJF)
+    year: em andamento
   - course: Mestrado em Desenvolvimento Econômico
     institution: Universidade Federal do Paraná
     year: 2021
@@ -11,7 +14,7 @@ education:
     institution: Universidade Federal de Sergipe
     year: 2016
 email: "luiz.couto@estudante.ufjf.br"
-institution: Instituto de Pesquisa Econômica Aplicada - Ipea
+institution: Ipea e Universidade Federal de Juiz de Fora (UFJF)
 
 interests:
 - Geografia Econômica 
@@ -23,8 +26,8 @@ interests:
 
 name: Luiz Pedro Silva
 organizations:
-- name: Instituto de Pesquisa Econômica Aplicada - Ipea
-  url: "ipea.gov.br"
+- name: Ipea e Universidade Federal de Juiz de Fora (UFJF)
+  url: ""
 
 role: Pesquisador Associado (Ipea) e Aluno de doutorado (UFJF)
 

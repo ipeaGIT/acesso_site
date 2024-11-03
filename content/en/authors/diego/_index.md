@@ -14,7 +14,7 @@ education:
     institution: Federal University of Paraná (UFPR)
     year: 2008
 email: "diegobt86@gmail.com"
-institution: Institute for Applied Economic Research - Ipea
+institution: University of São Paulo (USP)
 
 interests:
 - Accessibility Inequalities;
@@ -25,10 +25,10 @@ interests:
 
 name: Diego Tomasiello
 organizations:
-- name: Institute for Applied Economic Research - Ipea
-  url: "ipea.gov.br"
+- name: University of São Paulo (USP)
+  url: ""
 
-role: Research Assistant (Ipea)
+role: Assistant Professor
 
 social:
 - icon: envelope
@@ -45,7 +45,7 @@ social:
   link: https://github.com/diegobt86
 superuser: true
 user_groups:
-- Team
+- Collaborators
 ---
 
 <p align="justify">

@@ -14,7 +14,6 @@ education:
       year: 2016
 
 
-
 interests:
   - Vehicle emissions
   - Public transportation data
@@ -42,7 +41,7 @@ social:
   link: https://github.com/joaobazzo
 superuser: true
 user_groups:
-- Team
+- Collaborators
 ---
 
 <p align="justify">

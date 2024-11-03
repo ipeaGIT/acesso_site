@@ -23,10 +23,10 @@ interests:
 - Avaliação de impacto e inferência causal
 
 name: Gregório Luz
-institution: University of California, Berkeley
+institution: Ipea e UC Berkeley
 email: ""
 organizations:
-  - name: University of California, Berkeley
+  - name: Ipea e UC Berkeley
     url: ""
 role: Assistente de Pesquisa (Ipea) e PhD candidate
 

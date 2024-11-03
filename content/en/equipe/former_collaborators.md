@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Ex-membros de equipe e colaboradores"
+title = "Former team members and collaborators"
 subtitle = ""
 
 [design]

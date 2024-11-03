@@ -43,7 +43,7 @@ social:
 
 superuser: true
 user_groups:
-- Equipe
+- Team
 ---
 <p align="justify">
 Arthur holds a Master's degree in Economics from the Federal University of Juiz de Fora (UFJF) and serves as a Research Assistant at Ipea. His research focuses on urban economics, particularly evaluating the impact of public transportation and land use policies. In 2024, his work was honored with the Rodrigo Simões Award by the Brazilian Association of Regional and Urban Studies (Aber).

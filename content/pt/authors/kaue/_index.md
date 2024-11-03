@@ -1,28 +1,32 @@
 ---
 authors:
   - kaue
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
+    - course: Doutorado em Engenharia de Transportes
+      institution: Universidade Federal do Ceará (UFC)
+      year: Em andamento
     - course: MSc em Engenharia de Transportes
       institution: Universidade Federal do Ceará (UFC)
       year: 2019
-
     - course: BSc em Engenharia Civil
       institution: Universidade Federal do Ceará (UFC)
       year: 2016
 
-institution: Instituto de Pesquisa Econômica Aplicada - Ipea
+institution: Universidade Federal do Ceará (UFC)
 email: "kaue@det.ufc.br"
 interests:
   - Acessibilidade Urbana
   - Análise de dados
   - Dados de transporte público
+
 name: Carlos Kauê Vieira Braga
 organizations:
-  - name: Universidade Federal do Ceará
-url: ""
-role: Assistente de Pesquisa (Ipea)
+  - name: Universidade Federal do Ceará (UFC)
+    url: ""
+role: Aluno de doutorado
+
+
 social:
 - icon: envelope
   icon_pack: fas

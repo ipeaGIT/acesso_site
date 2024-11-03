@@ -2,31 +2,32 @@
 authors:
   - joaoparga
 education:
-  courses:
+  courses: 
+    - course: PhD in Geography
+      institution: University of Toronto
+      year: in progress
     - course: MSc in Economics
       institution: Federal University of Minas Gerais (UFMG)
       year: 2020
-
     - course: BSc in Economics
       institution: Federal University of Minas Gerais (UFMG)
       year: 2014
-
-institution: Institute for Applied Economic Research - IPEA
+institution: University of Toronto
 email: "parga.joao@gmail.com"
+
 interests:
   - Urban Economics
   - Urban Accessibility
   - Labor Markets
   - Sociodemographic data
+
 name: João Pedro Figueira Amorim Parga
 organizations:
-  - name: Federal University of Minas Gerais - UFMG
-url: ""
-role: Research Assistant (Ipea)
+  - name: University of Toronto
+    url: ""
+role: PhD Candidate
+
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:joao.parga@ipea.gov.br
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joaoparga
@@ -42,5 +43,5 @@ user_groups:
 ---
 
 <p align="justify">
-MSc in Economics at Federal University of Minas Gerais (UFMG) and Research Assistant at the Institute for Applied Economic Research (IPEA). My main research interest is the interplay between intra-urban space, population sociodemographics and labor markets, looking particularly at how urban accessibility affects and is affected by these factors.
+PhD student in Human geography at the University of Toronto and research assistant at the Mobilizing Justice partnership. In his dissertation, he uses causal inference methods to estimate transportation policies' impacts on people's satisfaction with their activity participation and on measures of distributive justice on transportation.
 </p>

@@ -11,16 +11,16 @@ education:
       year: 2018
 
 institution: Institute for Applied Economic Research - Ipea
-email: "daniel.santos@pet.coppe.ufrj.br"
+email: "daniel.santos@ipea.gov.br"
 interests:
   - Transport equity
   - Urban policies
   - Data analysis
 name: Daniel Herszenhut Meirelles Santos
 organizations:
-  - name: Federal University of Rio de Janeiro
+  - name: Institute for Applied Economic Research - Ipea
 url: ""
-role: Research Assistant (Ipea)
+role: Researcher (Ipea)
 social:
 - icon: envelope
   icon_pack: fas
