@@ -4,10 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Sobre"
+  name = "AOP-Lab"
   url = "sobre/"
   weight = 10
 
+[[main]]
+  name = "Projetos"
+  url = "projetos/"
+  weight = 10
 
 [[main]]
   name = "Explore"

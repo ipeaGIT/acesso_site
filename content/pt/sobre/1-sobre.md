@@ -53,36 +53,9 @@ subtitle = ""
 +++
 
 <img align="left" src="/acessooportunidades/img/icon-512.png" width="80">
-<p align="justify"><h1> Projeto Acesso a Oportunidades</h1></p>
+<p align="justify"><h1>  Lab de Acesso a Oportunidades (AOP-Lab)</h1></p>
 
 <img align="right" src="/acessooportunidades/img/logos/logoipea_azul.png" width="400">
-<p align="justify"> O Projeto Acesso a Oportunidades é uma pesquisa coordenada pelo <a href="http://www.ipea.gov.br/">Instituto de Pesquisa Econômica Aplicada (Ipea)</a> e que visa compreender a condições de transporte e de desigualdades de acesso a oportunidades nas cidades brasileiras. </p>
-<br />
-
-
-## Objetivos:
-<p align="justify">
-O projeto tem três objetivos:
-
- 1. Estimar anualmente o acesso da população a oportunidades de trabalho, serviços de saúde e educação por modo de transporte nos maiores centros urbanos do Brasil
- 2. Criar uma base de dados abertos para acompanhar anualmente as condições de acessibilidade urbana nas cidades brasileiras
- 3. Construir redes de pesquisa para utilizar esses dados em estudos comparativos e no planejamento e avaliação de políticas públicas
+<p align="justify"> O Lab de Acesso a Oportunidades (AOP-Lab) é um grupo de pesquisa sediado no <a href="http://www.ipea.gov.br/">Instituto de Pesquisa Econômica Aplicada (Ipea)</a>, e que investiga as condições de mobilidade urbana e de acesso a oportunidades nas cidades brasileiras. O AOP-Lab realiza estudos e desenvolve ferramentas computacionais e de dados para acessibilidade espacial e planejamento urbano, com foco em questões de desigualdades sociais e de mobilidade urbana sustentável.
 </p>
-<br />
-
-
-
-
-## Resultados:
-
-<p align="justify"> 
-
-O Projeto Acesso a Oportunidades (AOP) traz estimativas anuais de acesso a empregos, serviços saúde, educação e assistência social por modo de transporte, bem como dados sobre a distribuição espacial da população, empregos, saúde, escolas e equipamentos de assistência social em alta resolução espacial para as 20 maiores cidades do Brasil (figura abaixo). Para isso, o projeto combina dados de registros administrativos, pesquisas amostrais, dados de imagens de satélite e de mapeamento colaborativo para calcular níveis de acessibilidade em alta resolução espacial (aproxidamente na escala de quarteirão). Essas estimativas também são feitas de maneira desagregada por grupos socioeconômicos segundo nível de renda, sexo, idade e cor/raça. Detalhes sobre a metodologia nos <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">relatórios anuais do projeto</a> e sobre como baixar os dados <a href="../dados/">aqui</a>.
-
-</p>
-
-<p align="center">
-<img align="center" src="/acessooportunidades/img/munis_2017_2019.png" width="1000">
-</p>
-
-
+<br/>
