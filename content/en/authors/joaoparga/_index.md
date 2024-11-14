@@ -5,7 +5,7 @@ education:
   courses: 
     - course: PhD in Geography
       institution: University of Toronto
-      year: in progress
+      year: ongoing
     - course: MSc in Economics
       institution: Federal University of Minas Gerais (UFMG)
       year: 2020
