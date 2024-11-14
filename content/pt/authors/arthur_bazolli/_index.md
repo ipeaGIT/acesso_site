@@ -1,6 +1,6 @@
 ---
 authors:
-  - arthur_bazzoli
+  - arthur_bazolli
 
 education:
   courses:
@@ -22,7 +22,7 @@ organizations:
   - name: Instituto de Pesquisa Econômica Aplicada - Ipea
     url: "www.ipea.gov.br"
 
-name: Arthur Bazzoli
+name: Arthur Bazolli
 institution: Instituto de Pesquisa Econômica Aplicada - Ipea
 
 role: Assistente de Pesquisa (Ipea)
@@ -30,7 +30,7 @@ role: Assistente de Pesquisa (Ipea)
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:arthur.bazzoli@ipea.gov.br
+  link: mailto:arthur.alvarenga@ipea.gov.br
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/baarthur0
