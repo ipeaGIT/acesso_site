@@ -55,7 +55,7 @@ subtitle = ""
 <img align="left" src="/acessooportunidades/img/icon-512.png" width="80">
 <p align="justify"><h1>Access to Opportunities Lab (AOP-Lab)</h1></p>
 
-<img align="right" src="/acessooportunidades/img/logos/logoipea_azul_en.png" width="350" style="margin-left: 20px; margin-bottom: 20px;">
+<img align="right" src="/acessooportunidades/img/logos/logoipea_azul_en.png" width="320" style="margin-left: 20px; margin-bottom: 20px;">
 
 <p align="justify"> 
 The Access to Opportunities Lab (AOP-Lab) is a research group based at the <a href="http://www.ipea.gov.br/">Institute for Applied Economic Research (Ipea)</a>, and which investigates urban mobility conditions and access to opportunities in Brazilian cities. The AOP-Lab conducts research and develops computational tools and data for spatial accessibility and urban planning, with a focus on social inequality and sustainable urban mobility.
