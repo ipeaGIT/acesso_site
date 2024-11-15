@@ -32,7 +32,7 @@ external_link: ""
 
 # Access to Opportunities Project:
 
-The flagship project of the AOP-Lab is the "Access to Opportunities Project," which generates high spatial resolution estimates of access to employment, public health services, education, and social protection by transportation mode for Brazil's largest cities.
+The flagship project of the AOP-Lab is the "Access to Opportunities Project," which generates high spatial resolution estimates of access to employment, public health services, education, and social welfare by transportation mode for Brazil's largest cities.
 
 ## Goals:
 <p align="justify">
@@ -49,7 +49,7 @@ The project has three goals:
 
 ## Results:
 
-<p align="justify"> The Access to Opportunities Project (AOP) brings annual estimates of access to jobs, health, education and social proection services by transport mode, as well as data on the spatial distribution of population and land use activities at a fine spatial resolution for the 20 largest cities in Brazil (see figure below). To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at a high spatial resolution and disaggregated by socioeconomic groups according to income level, age, sex and race. Methodological details can be found in the <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">annual reports of the project</a> and the data can be downloaded from <a href="/acessooportunidades/en/dados/">here</a>.
+<p align="justify"> The Access to Opportunities Project (AOP) brings annual estimates of access to jobs, health, education and social welfare services by transport mode, as well as data on the spatial distribution of population and land use activities at a fine spatial resolution for the 20 largest cities in Brazil (see figure below). To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at a high spatial resolution and disaggregated by socioeconomic groups according to income level, age, sex and race. Methodological details can be found in the <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">annual reports of the project</a> and the data can be downloaded from <a href="/acessooportunidades/en/dados/">here</a>.
 </p>
 
 
@@ -81,7 +81,7 @@ The project has three goals:
     <div class = "icon"><i class="fas fa-school fa-2x"></i></div>
     <div class = "icon"><i class="fas fa-hospital fa-2x"></i></div>
     <div class = "icon"><i class="fas fa-hands-holding-circle fa-2x"></i></div>
-    <h3>Employment, education, health and social protection</h3>
+    <h3>Employment, education, health and social welfare</h3>
   </div>
     <div class="col-sm-12 col-md-6 col-lg-6">
     <div class = "icon"><i class="fas fa-bus fa-2x"></i></div>
@@ -108,7 +108,7 @@ The methodology of the project involves 4 main  steps:
  1. First, each city is divided using a hexagonal spatial grid where each cell has an area of 0.11 km<sup>2</sup>. </p>
 
 <p align="justify"> 
- 2. The hexagonal grid is then used to spatially aggreagate population data from the national census, administrative records with the location of formal jobs (low-, medium- and high-qualification jobs), public schools (early childhood, primary and high school education), publich health (low, medium and high complexity medical care) and social protection services. </p>
+ 2. The hexagonal grid is then used to spatially aggreagate population data from the national census, administrative records with the location of formal jobs (low-, medium- and high-qualification jobs), public schools (early childhood, primary and high school education), publich health (low, medium and high complexity medical care) and social welfare services. </p>
 
 <p align="justify"> 
  3. In the third step, data on public transport (GTFS format), on topography, street network and historical traffic speed are combined to calculate travel-time estimates between every pair of hexagon cells by transport mode. Travel time estimates were calculated for cars using ArcGIS Pro with historical traffic speed data, while travel time estimates for walking, cycling and public transporte were calculated using <a href="https://ipeagit.github.io/r5r/" target="_blank">r5r</a>, multimodal transportation network analysis tool. The r5r tool considers door-to-door travel-time estimates, including in-vehicle times, walking, waiting as well as transfer times.</p>
