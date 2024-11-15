@@ -3,9 +3,15 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+
 [[main]]
-  name = "About"
+  name = "AOP-Lab"
   url = "sobre/"
+  weight = 10
+
+[[main]]
+  name = "Projects"
+  url = "projetos/"
   weight = 10
 
 

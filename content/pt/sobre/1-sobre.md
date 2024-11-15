@@ -55,7 +55,9 @@ subtitle = ""
 <img align="left" src="/acessooportunidades/img/icon-512.png" width="80">
 <p align="justify"><h1>  Lab de Acesso a Oportunidades (AOP-Lab)</h1></p>
 
-<img align="right" src="/acessooportunidades/img/logos/logoipea_azul.png" width="400">
-<p align="justify"> O Lab de Acesso a Oportunidades (AOP-Lab) é um grupo de pesquisa sediado no <a href="http://www.ipea.gov.br/">Instituto de Pesquisa Econômica Aplicada (Ipea)</a>, e que investiga as condições de mobilidade urbana e de acesso a oportunidades nas cidades brasileiras. O AOP-Lab realiza estudos e desenvolve ferramentas computacionais e de dados para acessibilidade espacial e planejamento urbano, com foco em questões de desigualdades sociais e de mobilidade urbana sustentável.
+<img align="right" src="/acessooportunidades/img/logos/logoipea_azul.png" width="350">
+
+<p align="justify"> 
+O Lab de Acesso a Oportunidades (AOP-Lab) é um grupo de pesquisa sediado no <a href="http://www.ipea.gov.br/">Instituto de Pesquisa Econômica Aplicada (Ipea)</a>, e que investiga as condições de mobilidade urbana e de acesso a oportunidades nas cidades brasileiras. O AOP-Lab realiza estudos e desenvolve ferramentas computacionais e de dados para acessibilidade espacial e planejamento urbano, com foco em questões de desigualdades sociais e de mobilidade urbana sustentável.
 </p>
 <br/>

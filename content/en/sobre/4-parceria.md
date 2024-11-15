@@ -51,18 +51,19 @@ subtitle = ""
  
 +++
 
-# Linhas de pesquisa
+# Research topics
 
-- Ciência de dados espaciais
-- Economia política dos transportes
-- Avaliação de políticas públicas e inferência causal
-- Equidade, exclusão e justiça social
-- Segregação
-- Transporte ativo
-- Emissões veiculares
-- Forma urbana
+- Urban accessibility
+- Sustainable mobility and transport emissions
+- Active transportation
+- Transportation equity, justice and social exclusion, 
+- Political economy of transportation
+- Public policy evaluation and causal inference
+- Urban form
+- Segregation
+- Spatial data science
 
 
-# Parcerias
+# Projects
 
-O AOP-Lab conta parcerias com diferentes instituições e órgãos do governo federal. Ver seção de **Projetos**.
+The AOP-Lab is involved in several projects and partnerships with public and private institutions. More informantion <a href="/acessooportunidades/en/projetos/">here</a>.
