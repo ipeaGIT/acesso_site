@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   # color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -48,40 +48,22 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
 +++
 
-<div class="container">
-  <div class="row featurette">
-  <div class="col-md-12 section-heading">
-    <h1>Scope</h1>
-  </div>
-  <div class="col-md-12">
-  </div>
-    <div class="col-sm-12 col-md-6 col-lg-2">
-    <div class = "icon"><i class="fas fa-calendar fa-2x"></i></div>
-    <h3>2017, 2018, 2019</h3>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-2">
-    <div class = "icon"><i class="fas fa-city fa-2x"></i></div>
-    <h3>20 cities</h3>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-4">
-    <div class = "icon"><i class="fas fa-building fa-2x"></i></div>
-    <div class = "icon"><i class="fas fa-school fa-2x"></i></div>
-    <div class = "icon"><i class="fas fa-hospital fa-2x"></i></div>
-    <div class = "icon"><i class="fas fa-hands-holding-circle fa-2x"></i></div>
-    <h3>Employment, education, health and social protection</h3>
-  </div>
-    <div class="col-sm-12 col-md-6 col-lg-4">
-    <div class = "icon"><i class="fas fa-bus fa-2x"></i></div>
-    <div class = "icon"><i class="fas fa-car fa-2x"></i></div>
-    <div class = "icon"><i class="fas fa-walking fa-2x"></i></div>
-    <div class = "icon"><i class="fas fa-bicycle fa-2x"></i></div>
-    <h3>Transport modes</h3>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-2">
-    <div class = "icon"><i class="fas fa-clock fa-2x"></i></div>
-    <h3>Peak and off-peak</h3>
-  </div>
-  </div>
-  </div>
+# Linhas de pesquisa
+
+- Acessibilidade urbana
+- Mobilidade sustentável e emissões veiculares
+- Transporte ativo
+- Equidade, exclusão e justiça social
+- Economia política dos transportes
+- Avaliação de políticas públicas e inferência causal
+- Forma urbana
+- Segregação
+- Ciência de dados espaciais
+
+
+# Projetos
+
+O AOP-Lab realiza diversos projetos de pesquisa em parceria com diferentes instituições públicas e privadas. Mais informações <a href="/acessooportunidades/projetos/">aqui</a>.

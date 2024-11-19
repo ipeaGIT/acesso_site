@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Federal University of Juiz de Fora (UFJF)
-    year: 2021
+    year: ongoing
   - course: MSc in Development Economics
     institution: Federal University of Paraná
     year: 2021

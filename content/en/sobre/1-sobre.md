@@ -49,40 +49,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
+ 
 +++
 
 <img align="left" src="/acessooportunidades/img/icon-512.png" width="80">
-<p align="justify"><h1> Access to Opportunities Project</h1></p>
+<p align="justify"><h1>Access to Opportunities Lab (AOP-Lab)</h1></p>
 
-<img align="right" src="/acessooportunidades/img/logos/logoipea_azul.png" width="400">
-<p align="justify"> The Access to Opportunities Project is a research initiative led by the <a href="https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61">Institute for Applied Economic Research (Ipea)</a> with the aim to study transport accessibility and inequalities in access to opportunities in Brazilian cities. </p>
-<br />
+<img align="right" src="/acessooportunidades/img/logos/logoipea_azul_en.png" width="320" style="margin-left: 20px; margin-bottom: 20px;">
 
-
-## Goals:
-<p align="justify">
-The project has three goals:
-
- 1. To estimate people's access to employment opportunities, health and education services by transport mode in Brazil's largest urban areas
- 
- 2. To create open datasets to monitor urban accessibility conditions in Brazilian cities on an annual basis
- 
- 3. To build research networks to use these datasets in comparative studies and in the planning and evaluation of public policies
+<p align="justify"> 
+The Access to Opportunities Lab (AOP-Lab) is a research group based at the <a href="http://www.ipea.gov.br/">Institute for Applied Economic Research (Ipea)</a>, and which investigates urban mobility conditions and access to opportunities in Brazilian cities. The AOP-Lab conducts research and develops computational tools and data for spatial accessibility and urban planning, with a focus on social inequality and sustainable urban mobility.
 </p>
-<br />
-
-
-## First Results:
-
-<p align="justify"> The Access to Opportunities Project (AOP) brings annual estimates of access to jobs, health, education and social proection services by transport mode, as well as data on the spatial distribution of population and land use activities at a fine spatial resolution for the 20 largest cities in Brazil (see figure below). To do so, the project combines data from administrative records, sample surveys, satellite imagery and collaborative mapping to calculate accessibility levels at a high spatial resolution and disaggregated by socioeconomic groups according to income level, age, sex and race. Methodological details can be found in the <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">annual reports of the project</a> and the data can be downloaded from <a href="../en/dados/">here</a>.
-</p>
-
-
-
-
-
-<p align="center">
-<img align="center" src="/acessooportunidades/img/munis_2017_2019_en.png" width="1000">
-</p>
-
-
+<br/>

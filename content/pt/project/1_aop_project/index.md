@@ -49,7 +49,7 @@ O projeto tem três objetivos:
 
 <p align="justify"> 
 
-O Projeto Acesso a Oportunidades (AOP) traz estimativas anuais de acesso a empregos, serviços saúde, educação e assistência social por modo de transporte, bem como dados sobre a distribuição espacial da população, empregos, saúde, escolas e equipamentos de assistência social em alta resolução espacial para as 20 maiores cidades do Brasil (figura abaixo). Para isso, o projeto combina dados de registros administrativos, pesquisas amostrais, dados de imagens de satélite e de mapeamento colaborativo para calcular níveis de acessibilidade em alta resolução espacial (aproxidamente na escala de quarteirão). Essas estimativas também são feitas de maneira desagregada por grupos socioeconômicos segundo nível de renda, sexo, idade e cor/raça. Detalhes sobre a metodologia nos <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">relatórios anuais do projeto</a> e sobre como baixar os dados <a href="../dados/">aqui</a>.
+O Projeto Acesso a Oportunidades (AOP) traz estimativas anuais de acesso a empregos, serviços saúde, educação e assistência social por modo de transporte, bem como dados sobre a distribuição espacial da população, empregos, saúde, escolas e equipamentos de assistência social em alta resolução espacial para as 20 maiores cidades do Brasil (figura abaixo). Para isso, o projeto combina dados de registros administrativos, pesquisas amostrais, dados de imagens de satélite e de mapeamento colaborativo para calcular níveis de acessibilidade em alta resolução espacial (aproxidamente na escala de quarteirão). Essas estimativas também são feitas de maneira desagregada por grupos socioeconômicos segundo nível de renda, sexo, idade e cor/raça. Detalhes sobre a metodologia nos <a href="https://www.ipea.gov.br/acessooportunidades/publicacoes/">relatórios anuais do projeto</a> e sobre como baixar os dados <a href="/acessooportunidades/dados/">aqui</a>.
 
 </p>
 
@@ -58,7 +58,6 @@ O Projeto Acesso a Oportunidades (AOP) traz estimativas anuais de acesso a empre
 </p>
 
 
-## Escopo:
 
 <div class="container">
   <div class="row featurette">

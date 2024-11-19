@@ -23,6 +23,7 @@ organizations:
     url: "www.ipea.gov.br"
 
 name: Arthur Bazolli Alvarenga
+
 institution: Instituto de Pesquisa Econômica Aplicada - Ipea
 
 role: Assistente de Pesquisa (Ipea)
