@@ -1,4 +1,4 @@
-# [Site do Site do Lab de Acesso a Oportunidades (AOP-Lab)](https://www.ipea.gov.br/acessooportunidades/)
+# [Site do Lab de Acesso a Oportunidades (AOP-Lab)](https://www.ipea.gov.br/acessooportunidades/)
 
 # [Website of the Access to Opportunities Lab (AOP-Lab)](https://www.ipea.gov.br/acessooportunidades/en/)
 
