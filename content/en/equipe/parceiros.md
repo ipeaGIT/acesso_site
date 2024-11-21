@@ -85,3 +85,21 @@ css_class = ""
 
 </div>
 </div>
+
+
+<div class="container-fluid">
+<div class = "row justify-content-center">
+  
+
+<div class="col-12 col-sm-6 col-lg-4" style = "align-self: center; justify-self: center; padding: 30px 20px;">
+  <div class="image-container" style = "display: flex; justify-content: center;">
+<a href="https://www.uber.com/br/en/about/"><img align="middle" src="/acessooportunidades/img/parceiros/logo_uber2.png" width="210"></a>
+</div>
+</div>
+<div class="col-12 col-sm-6 col-lg-4" style = "align-self: center; justify-self: center; padding: 30px 20px;">
+  <div class="image-container" style = "display: flex; justify-content: center;">
+<a href="https://about.google/"><img align="middle" src="/acessooportunidades/img/parceiros/logo_google.png" width="220"></a> 
+</div>
+
+</div>
+</div>
