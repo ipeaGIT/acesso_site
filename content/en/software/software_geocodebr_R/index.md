@@ -1,5 +1,5 @@
 ---
-title: <img src="/img/package_logo/geocodebr_logo.png" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/geocodebr_logo.png" width="200" align="center" alt="">
 
 abstract: <p align="justify"> <b>geocodebr</b> is an R package to geocode Brazilian addresses. </p> 
   
