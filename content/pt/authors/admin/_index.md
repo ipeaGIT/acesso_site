@@ -26,7 +26,6 @@ interests:
 name: Rafael H. M. Pereira
 organizations:
 - name: Instituto de Pesquisa Econômica Aplicada - Ipea
-  url: "www.ipea.gov.br"
 
 role: Pesquisador (Ipea)
 

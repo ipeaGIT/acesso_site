@@ -26,7 +26,6 @@ email: "rafael.pereira@ipea.gov.br"
 institution: Institute for Applied Economic Research - Ipea
 organizations:
 - name: Institute for Applied Economic Research - Ipea
-  url: "ipea.gov.br"
 
 role: Researcher (Ipea)
 

@@ -52,4 +52,3 @@ css_class = ""
 +++
 
 - Bernardo Serra (ITDP)
-- João Lucas Albuquerque-Oliveira (UFC)

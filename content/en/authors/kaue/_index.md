@@ -6,11 +6,11 @@ education:
   courses:
     - course: PhD in Transportation Engineering
       institution: Federal University of Ceara (UFC) - Brazil
-      year: In progress
+      year: ongoing
     - course: MSc in Transportation Engineering
       institution: Federal University of Ceara (UFC) - Brazil
       year: 2019
-    - course: BSc em Civil Engineering 
+    - course: BSc in Civil Engineering 
       institution: Federal University of Ceará (UFC) - Brazil
       year: 2016
 
