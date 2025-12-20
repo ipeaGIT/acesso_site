@@ -52,7 +52,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-url_preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179427
+url_preprint: ""
 
 # # Add custom link (AQUI!!!)
 # links:

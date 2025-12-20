@@ -46,7 +46,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-url_preprint: https://arxiv.org/abs/2407.00404
+url_preprint: ""
 
 # # Add custom link (AQUI!!!)
 # links:

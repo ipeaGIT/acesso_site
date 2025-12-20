@@ -38,13 +38,13 @@ tags:
 # icons
 url_code: https://github.com/soukhova/Family-of-accessibility-measures
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://dx.plos.org/10.1371/journal.pone.0335951
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-url_preprint: https://osf.io/preprints/osf/a9dxb
+url_preprint: ""
 
 # # Add custom link (AQUI!!!)
 # links:

@@ -46,7 +46,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-url_preprint: https://osf.io/preprints/osf/sc9wp_v1
+url_preprint: ""
 
 # # Add custom link (AQUI!!!)
 # links:

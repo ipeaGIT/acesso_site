@@ -46,7 +46,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-url_preprint: https://ssrn.com/abstract=5247170
+url_preprint: ""
 
 # # Add custom link (AQUI!!!)
 # links:
