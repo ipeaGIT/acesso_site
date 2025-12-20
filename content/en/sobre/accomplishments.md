@@ -59,6 +59,19 @@ item:
   title: "David Levinson Best Paper Award"
   url: https://www.wstlur.org/awards
 
+
+- certificate_url:
+  date_end: ""
+  date_start: "2024-05-20"
+  description: ""
+  organization: Câmara Brasileira do Livro
+  organization_url: ""
+  title: "Finalist in the Academic Jabuti Award with the book 'Introdução à acessibilidade urbana'"
+  url: https://www.premiojabuti.com.br/
+  
+
+
+
 design:
   columns: '2' 
 ---
