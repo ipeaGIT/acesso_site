@@ -1,5 +1,5 @@
 ---
-title: <img src="/img/package_logo/geobr_logo_y.png" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/geobr_logo_y.png" width="200" align="center" alt="">
 
 abstract: <p align="justify"> <b>geobr</b> is a computational package to download official spatial data sets of Brazil. The package includes a wide range of geospatial data as simple features or geopackages, available at various geographic scales and for various years with harmonized attributes, projection and topology. </p> 
   

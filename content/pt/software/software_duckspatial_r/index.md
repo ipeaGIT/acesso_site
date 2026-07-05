@@ -1,5 +1,5 @@
 ---
-title: <img src="/img/package_logo/duckspatial_logo.png" width="200" align="center" alt="">
+title: <img src="/acessooportunidades/img/package_logo/duckspatial_logo.png" width="200" align="center" alt="">
 
 abstract: <p align="justify"> Fast & memory-efficient functions to analyze and manipulate large spatial data data sets. It leverages the fast analytical capabilities of DuckDB and its spatial extension while maintaining compatibility with R’s spatial data ecosystem to work with spatial vector data. </p> 
   
