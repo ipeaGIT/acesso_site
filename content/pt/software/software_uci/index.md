@@ -41,7 +41,7 @@ image:
   
 # icons
 url_pdf: ""
-url_code: https://github.com/ipeaGIT/uci
+url_code: https://github.com/ipea/uci
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -65,7 +65,7 @@ links:
 
 ## **uci**: Urban Centrality Index
 
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/uci)](https://CRAN.R-project.org/package=uci) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/uci?color=blue)](https://CRAN.R-project.org/package=uci) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/uci) | [![R-CMD-check](https://github.com/ipeaGIT/uci/workflows/rcmdcheck/badge.svg)](https://github.com/ipeaGIT/uci/actions) | [![DOI](https://img.shields.io/badge/DOI-10.1111/gean.12002-blue)](https://doi.org/10.1111/gean.12002) |
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/uci)](https://CRAN.R-project.org/package=uci) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/uci?color=blue)](https://CRAN.R-project.org/package=uci) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipea/uci) | [![R-CMD-check](https://github.com/ipea/uci/workflows/rcmdcheck/badge.svg)](https://github.com/ipea/uci/actions) | [![DOI](https://img.shields.io/badge/DOI-10.1111/gean.12002-blue)](https://doi.org/10.1111/gean.12002) |
 |-----|-----|-----|-----|-----|-----|-----|
 
 

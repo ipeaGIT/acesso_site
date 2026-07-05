@@ -42,7 +42,7 @@ image:
   
 # icons
 url_pdf: ""
-url_code: https://github.com/ipeaGIT/accessibility
+url_code: https://github.com/ipea/accessibility
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -66,7 +66,7 @@ links:
 
 ## **accessibility**: Transport Accessibility Metrics
 
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/accessibility)](https://CRAN.R-project.org/package=accessibility) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/accessibility?color=blue)](https://CRAN.R-project.org/package=accessibility) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/accessibility) | [![rcmdcheck](https://github.com/ipeaGIT/accessibility/workflows/rcmdcheck/badge.svg)](https://github.com/ipeaGIT/accessibility/actions) |
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/accessibility)](https://CRAN.R-project.org/package=accessibility) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/accessibility?color=blue)](https://CRAN.R-project.org/package=accessibility) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipea/accessibility) | [![rcmdcheck](https://github.com/ipea/accessibility/workflows/rcmdcheck/badge.svg)](https://github.com/ipea/accessibility/actions) |
 |-----|-----|-----|-----|-----|
 
 

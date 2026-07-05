@@ -43,7 +43,7 @@ image:
   
 # icons
 url_pdf: ""
-url_code: https://github.com/ipeaGIT/gtfs2gps
+url_code: https://github.com/ipea/gtfs2gps
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -67,7 +67,7 @@ links:
 
 ## **gtfs2gps**: Converting Transport Data from GTFS Format to GPS-Like Records
 
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/gtfs2gps)](https://CRAN.R-project.org/package=gtfs2gps) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/gtfs2gps?color=blue)](https://CRAN.R-project.org/package=gtfs2gps) | [![Paper](https://img.shields.io/badge/DOI-10.1007%2Fs10109--022--00400--x-blue)](https://link.springer.com/article/10.1007/s10109-022-00400-x) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/gtfs2gps) | [![R build status](https://github.com/ipeaGIT/gtfs2gps/workflows/R-CMD-check/badge.svg)](https://github.com/ipeaGIT/gtfs2gps/actions) |
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/gtfs2gps)](https://CRAN.R-project.org/package=gtfs2gps) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/gtfs2gps?color=blue)](https://CRAN.R-project.org/package=gtfs2gps) | [![Paper](https://img.shields.io/badge/DOI-10.1007%2Fs10109--022--00400--x-blue)](https://link.springer.com/article/10.1007/s10109-022-00400-x) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipea/gtfs2gps) | [![R build status](https://github.com/ipea/gtfs2gps/workflows/R-CMD-check/badge.svg)](https://github.com/ipea/gtfs2gps/actions) |
 |-----|-----|-----|-----|-----|-----|
 
 

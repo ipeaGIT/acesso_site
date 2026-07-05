@@ -43,7 +43,7 @@ image:
   
 # icons
 url_pdf: ""
-url_code: https://github.com/ipeaGIT/aopdata
+url_code: https://github.com/ipea/aopdata
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -67,7 +67,7 @@ links:
 
 ## **aopdata**: Data from the Access to Opportunities Project
 
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/aopdata)](https://CRAN.R-project.org/package=aopdata)  | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/aopdata?color=blue)](https://CRAN.R-project.org/package=aopdata)  | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/aopdata) | [![R build status](https://github.com/ipeaGIT/aopdata/workflows/R-CMD-check/badge.svg)](https://github.com/ipeaGIT/aopdata/actions) |
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/aopdata)](https://CRAN.R-project.org/package=aopdata)  | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/aopdata?color=blue)](https://CRAN.R-project.org/package=aopdata)  | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipea/aopdata) | [![R build status](https://github.com/ipea/aopdata/workflows/R-CMD-check/badge.svg)](https://github.com/ipea/aopdata/actions) |
 |-----|-----|-----|-----|-----|-----|
 
 __Citation__:

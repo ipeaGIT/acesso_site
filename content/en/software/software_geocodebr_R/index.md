@@ -41,7 +41,7 @@ image:
   
 # icons
 url_pdf: ""
-url_code: https://github.com/ipeaGIT/geocodebr
+url_code: https://github.com/ipea/geocodebr
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -65,9 +65,9 @@ links:
 
 ## **geocodebr**: Geolocalização de Endereços Brasileiros (Geocoding Brazilian Addresses)
 
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/geocodebr)](https://CRAN.R-project.org/package=geocodebr)  | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/geocodebr?color=blue)](https://CRAN.R-project.org/package=geocodebr)  | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/geocodebr) | [![R build status](https://github.com/ipeaGIT/geocodebr/workflows/check/badge.svg)](https://github.com/ipeaGIT/geocodebr/actions) |
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/geocodebr)](https://CRAN.R-project.org/package=geocodebr)  | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/geocodebr?color=blue)](https://CRAN.R-project.org/package=geocodebr)  | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipea/geocodebr) | [![R build status](https://github.com/ipea/geocodebr/workflows/check/badge.svg)](https://github.com/ipea/geocodebr/actions) |
 |-----|-----|-----|-----|
 
 __Citation__:
 
-Pereira, R. H. M. & Herszenhut, Daniel (2025). geocodebr: Geolocalização de Endereços Brasileiros (Geocoding Brazilian Addresses). R package version 0.1.1 https://github.com/ipeaGIT/geocodebr
+Pereira, R. H. M. & Herszenhut, Daniel (2025). geocodebr: Geolocalização de Endereços Brasileiros (Geocoding Brazilian Addresses). R package version 0.1.1 https://github.com/ipea/geocodebr

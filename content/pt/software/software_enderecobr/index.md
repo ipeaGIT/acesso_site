@@ -41,7 +41,7 @@ image:
   
 # icons
 url_pdf: ""
-url_code: https://github.com/ipeaGIT/enderecobr
+url_code: https://github.com/ipea/enderecobr
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -63,14 +63,14 @@ links:
 
 ---
 
-## **uci**: Urban Centrality Index
+## **enderecobr**: Padronizador de Endereços Brasileiros
 
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/enderecobr)](https://CRAN.R-project.org/package=enderecobr) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/enderecobr?color=blue)](https://CRAN.R-project.org/package=enderecobr) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/enderecobr) | [![R-CMD-check](https://github.com/ipeaGIT/enderecobr/workflows/check/badge.svg)](https://github.com/ipeaGIT/enderecobr/actions)
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/enderecobr)](https://CRAN.R-project.org/package=enderecobr) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/enderecobr?color=blue)](https://CRAN.R-project.org/package=enderecobr) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipea/enderecobr) | [![R-CMD-check](https://github.com/ipea/enderecobr/workflows/check/badge.svg)](https://github.com/ipea/enderecobr/actions)
 |-----|-----|-----|-----|-----|-----|
 
 
 
 __Citation__:
 
-Herszenhut, Daniel, & Pereira, R. H. M. (2024). enderecobr: Padronizador de Endereços Brasileiros (Brazilian Addresses Standardizer). R package version 0.2.0 https://github.com/ipeaGIT/enderecobr
+Herszenhut, Daniel, & Pereira, R. H. M. (2024). enderecobr: Padronizador de Endereços Brasileiros (Brazilian Addresses Standardizer). R package version 0.2.0 https://github.com/ipea/enderecobr
 

@@ -44,7 +44,7 @@ image:
   
 # icons
 url_pdf: ""
-url_code: https://github.com/ipeaGIT/gtfs2emis
+url_code: https://github.com/ipea/gtfs2emis
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -68,7 +68,7 @@ links:
 
 ## **gtfs2emis**: Estimating public transport emissions from GTFS data
 
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/gtfs2emis)](https://CRAN.R-project.org/package=gtfs2emis) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/gtfs2emis?color=blue)](https://CRAN.R-project.org/package=gtfs2emis) | [![DOI](https://img.shields.io/badge/DOI-10.31219/osf.io/8m2cy-blue)](https://doi.org/10.31219/osf.io/8m2cy) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/gtfs2emis) | [![R build status](https://github.com/ipeaGIT/gtfs2emis/workflows/R-CMD-check/badge.svg)](https://github.com/ipeaGIT/gtfs2emis/actions) |
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/gtfs2emis)](https://CRAN.R-project.org/package=gtfs2emis) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/gtfs2emis?color=blue)](https://CRAN.R-project.org/package=gtfs2emis) | [![DOI](https://img.shields.io/badge/DOI-10.31219/osf.io/8m2cy-blue)](https://doi.org/10.31219/osf.io/8m2cy) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipea/gtfs2emis) | [![R build status](https://github.com/ipea/gtfs2emis/workflows/R-CMD-check/badge.svg)](https://github.com/ipea/gtfs2emis/actions) |
 |-----|-----|-----|-----|-----|
 
 

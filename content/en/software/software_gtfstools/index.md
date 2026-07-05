@@ -44,7 +44,7 @@ image:
   
 # icons
 url_pdf: ""
-url_code: https://github.com/ipeaGIT/gtfstools
+url_code: https://github.com/ipea/gtfstools
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -68,7 +68,7 @@ links:
 
 ## **gtfstools**: General Transit Feed Specification (GTFS) Editing and Analysing Tools
 
-| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/gtfstools)](https://CRAN.R-project.org/package=gtfstools) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/gtfstools?color=blue)](https://CRAN.R-project.org/package=gtfstools) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5703236.svg)](https://doi.org/10.5281/zenodo.5703236) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipeaGIT/gtfstools) | [![R build status](https://github.com/ipeaGIT/gtfstools/workflows/R-CMD-check/badge.svg)](https://github.com/ipeaGIT/gtfstools/actions) |
+| [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/gtfstools)](https://CRAN.R-project.org/package=gtfstools) | [![CRAN/METACRAN Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/gtfstools?color=blue)](https://CRAN.R-project.org/package=gtfstools) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5703236.svg)](https://doi.org/10.5281/zenodo.5703236) | [![GitHub forks](https://img.shields.io/badge/GitHub-code-orange)](https://github.com/ipea/gtfstools) | [![R build status](https://github.com/ipea/gtfstools/workflows/R-CMD-check/badge.svg)](https://github.com/ipea/gtfstools/actions) |
 |-----|-----|-----|-----|-----|
 
 
