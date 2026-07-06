@@ -41,7 +41,7 @@ tags:
 # icons
 url_code: https://github.com/ipea/congestion_as_lost_access
 url_dataset: https://github.com/ipea/congestion_as_lost_access
-url_pdf: files/2026_Braga_interplay_travel_time_variability_and_jobs_competition_accessibility.pdf
+url_pdf: files/2026_Tomasiello_Nadalin_Pereira_Congestion_as_lost_acces.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
