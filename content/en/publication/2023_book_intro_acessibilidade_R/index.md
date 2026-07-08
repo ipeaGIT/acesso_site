@@ -61,7 +61,10 @@ url_preprint: ""
 # Add custom link (AQUI!!!)
 links:
 - name: Book
-  url: https://ipeagit.github.io/intro_access_book/
+  url: https://ipeagit.github.io/intro_access_book/index.en.html
+
+- name: PDF
+  url: https://repositorio.ipea.gov.br/bitstreams/9a777020-8f74-4803-a8b2-466b587008fa/download
 
 - name: Run code online
   url: https://mybinder.org/v2/gh/ipeaGIT/intro_access_book/HEAD?urlpath=rstudio

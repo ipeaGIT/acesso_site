@@ -64,8 +64,8 @@ links:
   url: https://ipeagit.github.io/intro_access_book/pt/
 
 - name: Livro PDF
-  url: https://repositorio.ipea.gov.br/bitstream/11058/12264/1/Introducao_a_acessibilidade_urbana.pdf
-
+  url: https://repositorio.ipea.gov.br/bitstreams/16a2d862-d784-4af6-837b-f844fcf54616/download
+ 
 - name: Rodar código online
   url: https://mybinder.org/v2/gh/ipeaGIT/intro_access_book/HEAD?urlpath=rstudio
 
